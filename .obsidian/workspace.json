@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "9c52b7d66aa3ff3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "506d8f1506435da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c700efe9d0f3f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "正則表達式 Regular Expression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5217753f8cc9021d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5368305bc9b94f6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83cd3986d52df2de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "cc1970cb92015aa9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ec7efeef6e8c150",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "268c4fea50cf7aad",
+    "type": "split",
+    "children": [
+      {
+        "id": "1327689010732d27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6255227407ffebc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "正則表達式 Regular Expression.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca8ecb73361d0ddf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "正則表達式 Regular Expression.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "304a507fa7123375",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8369c5e244b32f29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "正則表達式 Regular Expression.md"
+              }
+            }
+          },
+          {
+            "id": "198bb7312925b7bd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8c700efe9d0f3f35",
+  "lastOpenFiles": [
+    "Markdown 語法整理.md",
+    "正則表達式 Regular Expression.md",
+    "正則表達式.md",
+    "Users/Download.md",
+    "2022-12-17.md"
+  ]
+}

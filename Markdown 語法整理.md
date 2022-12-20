@@ -70,15 +70,15 @@ This is an H2
 
 ```css
 .holiday {
-	margin: 10px 2px 0px;
-	padding: 6px 4px;
+  margin: 10px 2px 0px;
+  padding: 6px 4px;
 }
 ```
 
 ```js
-	const a = 'this is a code block';
-	const b = 'this is b';
-	const c = 'this is c'
+const a = 'this is a code block';
+const b = 'this is b';
+const c = 'this is c'
 ```
 
 ```vue
@@ -89,7 +89,6 @@ This is an H2
 </template>
 ```
  
- p.s 這是插件
 ---
 
 #區段元素

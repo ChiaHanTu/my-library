@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c700efe9d0f3f35",
+            "id": "5b9b847960c3bf18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown 語法整理.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown 語法整理.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown 語法整理.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown 語法整理.md"
+                "file": "principle/Regular Expression 正則表達式.md"
               }
             }
           },
@@ -145,9 +144,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c700efe9d0f3f35",
+  "active": "5b9b847960c3bf18",
   "lastOpenFiles": [
-    "正則表達式 Regular Expression.md",
+    "principle/Regular Expression 正則表達式.md",
+    "principle/Race Condition 競態條件.md",
     "Markdown 語法整理.md",
     "正則表達式.md",
     "Users/Download.md",

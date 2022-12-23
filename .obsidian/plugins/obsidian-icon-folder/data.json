@@ -5,7 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FarPaperPlane"
+      "FabFirefoxBrowser",
+      "FarNoteSticky",
+      "FasUserSecret",
+      "CpIcons8NuxtJc",
+      "CpIcons8VueJs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -16,5 +20,12 @@
       "left": 0
     }
   },
-  "principle": "FarPaperPlane"
+  "TypeScript": "CpTypescript",
+  "JavaScript": "CpIcons8Javascript",
+  "Vue": "CpIcons8VueJs",
+  "Nuxt": "CpIcons8NuxtJc",
+  "principle": "FarPaperPlane",
+  "Info Security": "FasUserSecret",
+  "Markdown.md": "FarNoteSticky",
+  "Browser mechanism": "FabFirefoxBrowser"
 }

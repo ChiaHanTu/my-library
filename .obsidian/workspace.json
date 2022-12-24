@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "12d7248b8ad642ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +147,19 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83cd3986d52df2de",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "workspaces:管理工作區配置": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "12d7248b8ad642ce",
   "lastOpenFiles": [
     "Info Security/雜湊 Hash.md",
     "principle/Regular Expression 正則表達式.md",

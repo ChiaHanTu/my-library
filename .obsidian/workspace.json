@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "12d7248b8ad642ce",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +148,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "12d7248b8ad642ce",
+  "active": "32db2507000bf58a",
   "lastOpenFiles": [
     "Info Security/雜湊 Hash.md",
     "principle/Regular Expression 正則表達式.md",

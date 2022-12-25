@@ -30,4 +30,9 @@ vite build --mode staging
 ---
 ### import.meta.env.DEV {boolean}
 
-> 應用是否運行在開發環境（永遠與 `import.meta.env.PROD `相反）
+> 應用是否運行在開發環境（永遠與 `import.meta.env.PROD` 相反）
+
+---
+### import.meta.env.SSR {boolean}
+
+> 應用是否運行在 Server 上

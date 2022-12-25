@@ -17,6 +17,7 @@ vite build --mode staging
 ### import.meta.env.BASE_URL {string}
 
 default:  /
-> 合法值
-> - 絕對路徑： `/foo`
+>合法值
+- 絕對路徑： `/foo`
+- 完整 URl： https://www.google.
 

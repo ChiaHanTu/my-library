@@ -16,11 +16,16 @@ vite build --mode staging
 
 ### import.meta.env.BASE_URL {string}
 
-default:  /
 >合法值
+- default:  /
 - 絕對路徑： `/foo/`
 - 完整 URl： `https://www.google.com/`
 - 空字符串或 ： `./`
 
 ---
-### import.meta.env.
+### import.meta.env.PROD {boolean}
+
+> 應用是否運行在生產環境
+
+---
+### import.meta.env.DEV {boolean}

@@ -16,5 +16,5 @@ vite build --mode staging
 
 ### import.meta.env.BASE_URL {string}
 
-default: ``/
+default:  /
 

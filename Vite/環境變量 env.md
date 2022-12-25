@@ -18,6 +18,8 @@ vite build --mode staging
 
 default:  /
 >合法值
-- 絕對路徑： `/foo`
-- 完整 URl： https://www.google.
+- 絕對路徑： `/foo/`
+- 完整 URl： `https://www.google.com/`
+- 空字符串或 ： `./`
+- 
 

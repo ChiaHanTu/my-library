@@ -1,4 +1,4 @@
-
+([环境变量和模式 | Vite 官方中文文档 (vitejs.dev)](https://cn.vitejs.dev/guide/env-and-mode.html#env-files))
 
 ### import.meta.env.MODE {string}
 

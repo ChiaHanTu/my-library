@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CpVitejs",
       "FabFirefoxBrowser",
       "FarNoteSticky",
       "FasUserSecret",
-      "CpIcons8NuxtJc",
-      "CpIcons8VueJs"
+      "CpIcons8NuxtJc"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,6 @@
   "principle": "FarPaperPlane",
   "Info Security": "FasUserSecret",
   "Markdown.md": "FarNoteSticky",
-  "Browser mechanism": "FabFirefoxBrowser"
+  "Browser mechanism": "FabFirefoxBrowser",
+  "Vite": "CpVitejs"
 }

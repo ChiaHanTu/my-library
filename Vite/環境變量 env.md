@@ -47,8 +47,13 @@ vite build --mode staging
 ## .env 文件
 
 ```
-	.env # 所有情況都會加載
-.env.local # 所有情況都會被加載，但會被 git ignore
-.env.[mode] # 只會在指定模式下加載，比如：`.env.development`
-.env.[mode].local # 只會在指定模式下加載，但會被 git ignore
+.env                # 所有情況都會加載
+.env.local          # 所有情況都會被加載，但會被 git ignore
+.env.[mode]         # 只會在指定模式下加載，比如：`.env.development`
+.env.[mode].local   # 只會在指定模式下加載，但會被 git ignore
+```
+
+#環境加載優先級
+```
+
 ```

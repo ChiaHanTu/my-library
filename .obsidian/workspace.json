@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Tree-shaking.md",
+                "file": "Vite/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Tree-shaking.md",
+                "file": "Vite/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Tree-shaking.md",
+                "file": "Vite/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Tree-shaking.md"
+                "file": "Vite/index.md"
               }
             }
           },
@@ -172,6 +171,7 @@
   },
   "active": "5c71b20fd3d5c38f",
   "lastOpenFiles": [
+    "principle/Tree-shaking.md",
     "Vite/環境變量 env.md",
     "principle/Regular Expression 正則表達式.md",
     "Markdown.md",
@@ -180,7 +180,6 @@
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Info Security/SQL Injection.md",
     "principle/Race Condition 競態條件.md",
-    "正則表達式.md",
-    "Users/Download.md"
+    "正則表達式.md"
   ]
 }

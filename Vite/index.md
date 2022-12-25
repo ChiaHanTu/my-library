@@ -1,6 +1,6 @@
 
 ### Vite Awesome
 
-> 涵蓋
-> 
-[vitejs/awesome-vite: ⚡️ A curated list of awesome things related to Vite.js (github.com)](https://github.com/vitejs/awesome-vite#templates)
+> 精選 Vite 資源  [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite#templates)
+
+---

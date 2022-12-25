@@ -21,5 +21,4 @@ default:  /
 - 絕對路徑： `/foo/`
 - 完整 URl： `https://www.google.com/`
 - 空字符串或 ： `./`
-- 
 

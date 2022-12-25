@@ -1,5 +1,7 @@
 ([环境变量和模式 | Vite 官方中文文档 (vitejs.dev)](https://cn.vitejs.dev/guide/env-and-mode.html#env-files))
 
+---
+## 環境變量
 
 ### import.meta.env.MODE {string}
 
@@ -41,4 +43,5 @@ vite build --mode staging
 
 > 應用是否運行在 Server 上
 
+---
 ---

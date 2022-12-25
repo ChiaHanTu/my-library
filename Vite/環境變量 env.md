@@ -70,6 +70,7 @@ vite build --mode staging
 
 ```TypeScript
 //<reference types="vite/client" /> 
+// 聲明標籤
 
 interface ImportMetaEnv { 
 	readonly VITE_APP_TITLE: string 

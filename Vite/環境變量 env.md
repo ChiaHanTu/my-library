@@ -6,9 +6,13 @@
 #自訂義模式
 
 > 若想要運用不同的模式來 build，可以傳遞 --mode 來覆蓋默認模式
+> 並利用 .env.staging 來配置
 
 ```
-
+vite build --mode staging
 ```
-`vite build --mode staging`
+
+---
+
+### import.meta
 

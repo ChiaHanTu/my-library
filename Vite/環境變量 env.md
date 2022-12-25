@@ -44,4 +44,10 @@ vite build --mode staging
 > 應用是否運行在 Server 上
 
 ---
----
+## .env 文件
+
+```
+.env # 所有情況都會加載
+.env.local # 所有情況都會被加載，但會被 git ignore
+.enve
+```

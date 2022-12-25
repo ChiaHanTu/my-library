@@ -2,6 +2,7 @@
 
 ---
 ## 環境變量
+（只有以 `VITE_` 為前綴的變量才會暴露給經過 Vite 處理的代碼）
 
 ### import.meta.env.MODE {string}
 

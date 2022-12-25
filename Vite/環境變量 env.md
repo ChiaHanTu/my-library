@@ -66,4 +66,17 @@ vite build --mode staging
 
 ### 為 `.env` 添加 TypeScript
 
-> 在 src 目錄底下建立 `env.d`
+> 在 src 目錄底下建立 `env.d.ts` 文件
+
+```TypeScript
+<reference types="vite/client" /> 
+
+interface ImportMetaEnv 
+	{ 
+		readonly VITE_APP_TITLE: string 
+		// 更多环境变量... 
+	} 
+		
+interface ImportMeta { readonly env: ImportMetaEnv }
+
+```

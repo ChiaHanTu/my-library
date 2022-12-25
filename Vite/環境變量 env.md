@@ -27,6 +27,7 @@ vite build --mode staging
 
 > 應用是否運行在生產環境
 - 在生產環境中，環境變量會在構建時被靜態替換，
+- 所以動態取值是無效的 （`import.meta.env[key]`）
 
 ---
 ### import.meta.env.DEV {boolean}

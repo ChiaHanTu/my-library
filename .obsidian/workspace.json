@@ -157,17 +157,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "32db2507000bf58a",
   "lastOpenFiles": [
+    "Markdown.md",
+    "Vite/環境變量 env.md",
     "Info Security/雜湊 Hash.md",
     "principle/Regular Expression 正則表達式.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Info Security/SQL Injection.md",
     "principle/Race Condition 競態條件.md",
-    "Markdown.md",
     "正則表達式.md",
-    "Users/Download.md",
-    "2022-12-17.md"
+    "Users/Download.md"
   ]
 }

@@ -22,3 +22,5 @@ default:  /
 - 完整 URl： `https://www.google.com/`
 - 空字符串或 ： `./`
 
+---
+### import.meta.env.

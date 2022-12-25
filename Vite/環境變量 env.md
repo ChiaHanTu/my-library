@@ -1,5 +1,6 @@
 ([环境变量和模式 | Vite 官方中文文档 (vitejs.dev)](https://cn.vitejs.dev/guide/env-and-mode.html#env-files))
 
+
 ### import.meta.env.MODE {string}
 
 > 應用運行的模式，預設模式包含 development, production
@@ -39,3 +40,5 @@ vite build --mode staging
 ### import.meta.env.SSR {boolean}
 
 > 應用是否運行在 Server 上
+
+---

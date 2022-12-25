@@ -69,7 +69,7 @@ vite build --mode staging
 > 在 src 目錄底下建立 `env.d.ts` 文件
 
 ```TypeScript
-<reference types="vite/client" /> 
+//<reference types="vite/client" /> 
 
 interface ImportMetaEnv { 
 	readonly VITE_APP_TITLE: string 

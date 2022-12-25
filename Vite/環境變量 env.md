@@ -26,6 +26,7 @@ vite build --mode staging
 ### import.meta.env.PROD {boolean}
 
 > 應用是否運行在生產環境
+- 在生產環境中，環境變量會在構建時被靜態替換，
 
 ---
 ### import.meta.env.DEV {boolean}

@@ -2,6 +2,7 @@
 
 ---
 ## 環境變量
+
 （只有以 `VITE_` 為前綴的變量才會暴露給經過 Vite 處理的程式碼）
 
 ### import.meta.env.MODE {string}
@@ -60,3 +61,9 @@ vite build --mode staging
 - Vite 執行時已經存在的環境變量有最高優先級，不會被 `.env` 覆蓋
 - .env 類文件會在 Vite 啟動一開始時被加載，改動會在 Server 重啟後生效
 ```
+
+---
+
+### 為 `.env` 添加 TypeScript
+
+> 在 src 目錄底下建立 `env.d`

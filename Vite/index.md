@@ -5,6 +5,10 @@
 pnpm create vite my-vue-app --template vue
 pnpm create vite my-vue-app --template vue-ts
 ```
+
+```
+npx create-vite-template@latest
+```
 ---
 ### Vite Awesome
 

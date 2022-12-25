@@ -5,4 +5,9 @@
 
 ---
 
-### Vite Sca
+### Vite Scaffoding
+
+```
+pnpm create vite my-vue-app --template vue
+pnpm create vite my-vue-app --template vue-ts
+```

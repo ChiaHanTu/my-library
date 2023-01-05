@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vite/index.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1568b851fa40cba0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vite/index.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vite/index.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vite/index.md"
+                "file": "principle/Regular Expression 正則表達式.md"
               }
             }
           },
@@ -168,8 +157,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1568b851fa40cba0",
+  "active": "8c700efe9d0f3f35",
   "lastOpenFiles": [
+    "Vite/index.md",
     "Vite/環境變量 env.md",
     "Info Security/SQL Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
@@ -178,7 +168,6 @@
     "正則表達式 Regular Expression.md",
     "Markdown 語法整理.md",
     "正則表達式.md",
-    "Users/Download.md",
-    "2022-12-17.md"
+    "Users/Download.md"
   ]
 }

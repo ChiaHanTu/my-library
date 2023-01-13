@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "293fe727d4f8bdb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/Style-guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vite/index.md",
+                "file": "Vue/Style-guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vite/index.md",
+                "file": "Vue/Style-guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vite/index.md"
+                "file": "Vue/Style-guide.md"
               }
             }
           },
@@ -156,10 +169,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2f898ed0a86b6cc0",
+  "active": "293fe727d4f8bdb0",
   "lastOpenFiles": [
-    "Vite/環境變量 env.md",
     "Vite/index.md",
+    "Vite/環境變量 env.md",
     "principle/Tree-shaking.md",
     "principle/Regular Expression 正則表達式.md",
     "Markdown.md",

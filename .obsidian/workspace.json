@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Browser mechanism/HTTP Cache.md",
+                "file": "Browser mechanism/DOM 的事件傳遞機制.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Browser mechanism/HTTP Cache.md",
+                "file": "Browser mechanism/DOM 的事件傳遞機制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Browser mechanism/HTTP Cache.md",
+                "file": "Browser mechanism/DOM 的事件傳遞機制.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Browser mechanism/HTTP Cache.md"
+                "file": "Browser mechanism/DOM 的事件傳遞機制.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "a3d9e96f647f6496",
   "lastOpenFiles": [
+    "Browser mechanism/HTTP Cache.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Vite/index.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
@@ -180,7 +181,6 @@
     "conflict-files-obsidian-git.md",
     "Info Security/SQL Injection.md",
     "Markdown.md",
-    "Vite/環境變量 env.md",
-    "principle/Race Condition 競態條件.md"
+    "Vite/環境變量 env.md"
   ]
 }

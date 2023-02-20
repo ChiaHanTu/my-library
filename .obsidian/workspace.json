@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md"
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md"
               }
             }
           },
@@ -159,15 +158,15 @@
   },
   "active": "8c700efe9d0f3f35",
   "lastOpenFiles": [
-    "Vite/index.md",
-    "Vite/環境變量 env.md",
     "Info Security/SQL Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
+    "principle/Regular Expression 正則表達式.md",
+    "Vite/index.md",
+    "Vite/環境變量 env.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/雜湊 Hash.md",
     "正則表達式 Regular Expression.md",
     "Markdown 語法整理.md",
-    "正則表達式.md",
-    "Users/Download.md"
+    "正則表達式.md"
   ]
 }

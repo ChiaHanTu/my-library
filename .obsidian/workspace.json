@@ -11,8 +11,12 @@
             "id": "e667a33d078b6ed9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/tsconfig.json.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]

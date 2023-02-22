@@ -38,7 +38,7 @@
 
       "element-plus/global"
 
-    ],
+    ], // tsconfig.json 只會包含以上所定義的
 
     "baseUrl": ".",
 

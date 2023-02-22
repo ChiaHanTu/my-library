@@ -25,8 +25,10 @@
 
     "esModuleInterop": true, 
     // 解決 TS 將 CommonJS/AMD/USD module 視作 ES6 所產生的規範不符問題
-    "noUnusedLocals": true,  
-"noUnusedParameters": true,
+    
+    "noUnusedLocals": true,  // 無使用之本地變數檢查
+    
+	"noUnusedParameters": true,
 
     "lib": ["esnext", "dom"], // 定義瀏覽器規範的型別
 

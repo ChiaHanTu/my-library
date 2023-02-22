@@ -15,7 +15,7 @@
 
     "allowSyntheticDefaultImports": true, // 允許自定義載入模組名稱
 
-    "sourceMap": true,
+    "sourceMap": true, // 每次打包時產出 index.js.map ，
 
     "resolveJsonModule": true,
 

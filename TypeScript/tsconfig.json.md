@@ -36,7 +36,7 @@
 
 	"noImplicitAny": true, // 不可使用 type any
 
-	"useUnknownInCatchVariables"
+	"useUnknownInCatchVariables": true, // 讓 catch(err) 的 err 不用標註型別: unknown
 
     "types": [
 

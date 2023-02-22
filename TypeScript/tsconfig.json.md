@@ -18,7 +18,7 @@
     "sourceMap": true, 
     // 每次打包時產出 index.js.map ，可以在開發者工具使用原本的 TS 檔案除錯
 
-    "resolveJsonModule": true,
+    "resolveJsonModule": true, // 允許 TS 解析 JSON 檔案，預設無法解析
 
     "isolatedModules": true,
 

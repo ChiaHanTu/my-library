@@ -36,6 +36,8 @@
 
 	"noImplicitAny": true, // 不可使用 type any
 
+	"useUnknownInCatchVariables"
+
     "types": [
 
       "node",

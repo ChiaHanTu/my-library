@@ -34,6 +34,8 @@
 
     "skipLibCheck": true, // 跳過已知不包含錯誤的聲明檔進行類型檢查（import），縮短編譯時間
 
+	"noImplicitAny": true, // 不可使用 type any
+
     "types": [
 
       "node",

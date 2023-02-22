@@ -28,7 +28,7 @@
 
     "lib": ["esnext", "dom"], // 定義瀏覽器規範的型別
 
-    "skipLibCheck": true,
+    "skipLibCheck": true, // 跳過已知不包含錯誤的聲明檔進行類型檢查，縮短編譯時間
 
     "types": [
 

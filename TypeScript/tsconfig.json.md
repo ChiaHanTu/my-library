@@ -9,7 +9,7 @@
 
     "moduleResolution": "node",
 
-    "strict": true,
+    "strict": true, // 開啟所有 strict family 的設定
 
     "jsx": "preserve",
 

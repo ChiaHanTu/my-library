@@ -23,7 +23,8 @@
     "isolatedModules": true,
     // 由於 esbuild 不支援如 const enum 和隱式類型導入，因此必須設為 true
 
-    "esModuleInterop": true,
+    "esModuleInterop": true, 
+    // 解決 TS 將 CommonJS/AMD/USD module 視作 ES6 所產生的規範不符問題
 
     "lib": ["esnext", "dom"],
 

@@ -13,7 +13,7 @@
 
     "experimentalDecorators": true, // 支援實驗性修飾器
 
-    "allowSyntheticDefaultImports": true,
+    "allowSyntheticDefaultImports": true, // 允許自定義載入模組名稱
 
     "sourceMap": true,
 

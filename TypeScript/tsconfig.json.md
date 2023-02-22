@@ -5,8 +5,6 @@
 
     "target": "esnext",
 
-    /** https://cn.vitejs.dev/guide/features.html#typescript-compiler-options */
-
     "useDefineForClassFields": true,
 
     "module": "esnext",
@@ -26,8 +24,6 @@
     "sourceMap": true,
 
     "resolveJsonModule": true,
-
-    /** https://cn.vitejs.dev/guide/features.html#typescript-compiler-options */
 
     "isolatedModules": true,
 

@@ -1,4 +1,4 @@
-```
+#```
 /g = global
 /i = case insensitive
 ```

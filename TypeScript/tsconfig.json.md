@@ -5,7 +5,7 @@
 
     "target": "esnext", // 指定編譯生成的 JS 版本
 
-    "module": "esnext",
+    "module": "esnext", // 系統使用的模組系統
 
     "moduleResolution": "node",
 

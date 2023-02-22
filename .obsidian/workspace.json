@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md",
+                "file": "Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md"
+                "file": "Markdown.md"
               }
             }
           },
@@ -189,17 +189,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "46b175df3a7f6a0c",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Vue/Style-guide.md",
+    "Info Security/雜湊 Hash.md",
     "principle/Regular Expression 正則表達式.md",
+    "conflict-files-obsidian-git.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Info Security/SQL Injection.md",
     "Vite/index.md",
     "Vite/環境變量 env.md",
     "principle/Race Condition 競態條件.md",
-    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
-    "Info Security/雜湊 Hash.md",
-    "Browser mechanism/HTTP Cache.md"
+    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md"
   ]
 }

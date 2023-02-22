@@ -3,9 +3,7 @@
 
   "compilerOptions": {
 
-    "target": "esnext",
-
-    "useDefineForClassFields": true,
+    "target": "esnext", // 指定編譯生成的 JS 版本
 
     "module": "esnext",
 

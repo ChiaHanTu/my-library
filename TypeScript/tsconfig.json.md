@@ -38,7 +38,7 @@
 
       "element-plus/global"
 
-    ], // tsconfig.json 只會包含以上所定義的
+    ], // tsconfig.json 只會包含以上 folder 所定義的類型 @types/node,,,
 
     "baseUrl": ".",
 

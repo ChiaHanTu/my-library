@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ebd0a6c648f8d4d",
+        "id": "d6dc410885257546",
         "type": "tabs",
         "children": [
           {
-            "id": "f2e027c7b914c95a",
+            "id": "e667a33d078b6ed9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/tsconfig.json.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -156,7 +152,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2e027c7b914c95a",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
     "principle/Regular Expression 正則表達式.md",
     "Markdown.md",

@@ -15,7 +15,7 @@
 
     "allowSyntheticDefaultImports": true, // 允許自定義載入模組名稱
 
-    "sourceMap": true, // 每次打包時產出 index.js.map ，
+    "sourceMap": true, // 每次打包時產出 index.js.map ，可以在開發者工具使用原本的 TS 檔案除錯
 
     "resolveJsonModule": true,
 

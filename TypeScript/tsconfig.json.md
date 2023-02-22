@@ -21,6 +21,7 @@
     "resolveJsonModule": true, // 允許 TS 解析 JSON 檔案，預設無法解析
 
     "isolatedModules": true,
+    // 由於 esbuild 不支援如 const enum 和隱式類型導入，因此必須設為 true
 
     "esModuleInterop": true,
 

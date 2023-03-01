@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d6dc410885257546",
+        "id": "5828482d86e9ff06",
         "type": "tabs",
         "children": [
           {
-            "id": "e667a33d078b6ed9",
+            "id": "aabedfeb8f7cd5b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/tsconfig.json.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/tsconfig.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/tsconfig.json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TypeScript/tsconfig.json.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e667a33d078b6ed9",
+  "active": "aabedfeb8f7cd5b8",
   "lastOpenFiles": [
-    "principle/Regular Expression 正則表達式.md",
     "Markdown.md",
+    "TypeScript/tsconfig.json.md",
+    "principle/Regular Expression 正則表達式.md",
     "Vue/Style-guide.md",
     "Info Security/雜湊 Hash.md",
     "conflict-files-obsidian-git.md",

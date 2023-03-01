@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Style-guide.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/Style-guide.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Style-guide.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/Style-guide.md"
+                "file": "principle/Regular Expression 正則表達式.md"
               }
             }
           },
@@ -156,8 +156,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "16d213ca62f17633",
   "lastOpenFiles": [
+    "principle/Race Condition 競態條件.md",
+    "Markdown.md",
+    "Vue/Style-guide.md",
     "Vite/環境變量 env.md",
     "Vite/index.md",
     "TypeScript/tsconfig.json.md",
@@ -168,9 +171,6 @@
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Browser mechanism/HTTP Cache.md",
     "conflict-files-obsidian-git.md",
-    "Markdown.md",
-    "principle/Regular Expression 正則表達式.md",
-    "Vue/Style-guide.md",
-    "principle/Race Condition 競態條件.md"
+    "principle/Regular Expression 正則表達式.md"
   ]
 }

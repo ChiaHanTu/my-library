@@ -158,6 +158,8 @@
   },
   "active": "16d213ca62f17633",
   "lastOpenFiles": [
+    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
+    "principle/Regular Expression 正則表達式.md",
     "principle/Race Condition 競態條件.md",
     "Markdown.md",
     "Vue/Style-guide.md",
@@ -166,11 +168,9 @@
     "TypeScript/tsconfig.json.md",
     "Info Security/雜湊 Hash.md",
     "Info Security/SQL Injection.md",
-    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Browser mechanism/HTTP Cache.md",
-    "conflict-files-obsidian-git.md",
-    "principle/Regular Expression 正則表達式.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

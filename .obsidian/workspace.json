@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "197c6194ac4ac877",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,9 +158,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:建立新畫布": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
-      "canvas:Create new canvas": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
@@ -157,7 +168,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "197c6194ac4ac877",
   "lastOpenFiles": [
     "TypeScript/tsconfig.json.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",

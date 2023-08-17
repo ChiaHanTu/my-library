@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49da32922a29dcba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0dc842e0e0267880",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -156,7 +175,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "16d213ca62f17633",
+  "active": "49da32922a29dcba",
   "lastOpenFiles": [
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "principle/Regular Expression 正則表達式.md",

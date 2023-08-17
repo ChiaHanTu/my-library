@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md",
+                "file": "principle/建構規範.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "49da32922a29dcba",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md",
+                "file": "principle/建構規範.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md",
+                "file": "principle/建構規範.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Regular Expression 正則表達式.md"
+                "file": "principle/建構規範.md"
               }
             }
           },
@@ -175,21 +164,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "49da32922a29dcba",
+  "active": "16d213ca62f17633",
   "lastOpenFiles": [
-    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
-    "principle/Regular Expression 正則表達式.md",
-    "principle/Race Condition 競態條件.md",
-    "Markdown.md",
-    "Vue/Style-guide.md",
-    "Vite/環境變量 env.md",
-    "Vite/index.md",
-    "TypeScript/tsconfig.json.md",
-    "Info Security/雜湊 Hash.md",
+    "Browser mechanism/DOM 的事件傳遞機制.md",
+    "principle/建構規範.md",
+    "Browser mechanism/HTTP Cache.md",
     "Info Security/SQL Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
-    "Browser mechanism/DOM 的事件傳遞機制.md",
-    "Browser mechanism/HTTP Cache.md",
+    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
+    "Info Security/雜湊 Hash.md",
+    "Vite/index.md",
+    "Vite/環境變量 env.md",
+    "Markdown.md",
+    "Vue/Style-guide.md",
+    "principle/Regular Expression 正則表達式.md",
+    "principle/Race Condition 競態條件.md",
+    "TypeScript/tsconfig.json.md",
     "conflict-files-obsidian-git.md"
   ]
 }

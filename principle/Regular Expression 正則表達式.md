@@ -130,7 +130,7 @@
 ### x(?!y)
 
 > x 後面不接著 y 才符合，
-> 例如 /foo(!=bar), 就是 foo、foo123 符合，bar、foobar 不符合
+> 例如 /foo(?!bar), 就是 foo、foo123 符合，bar、foobar 不符合
 
 ---
 ### (?≦x)y

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ddd93a4b5854fd",
+        "id": "2a8639ebb71c4b3b",
         "type": "tabs",
         "children": [
           {
-            "id": "fab9ffa0433ec0f8",
+            "id": "c27c0423ec5fe5f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "principle/Race Condition 競態條件.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "principle/Race Condition 競態條件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "principle/Race Condition 競態條件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "principle/Race Condition 競態條件.md"
               }
             }
           },
@@ -165,21 +165,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fab9ffa0433ec0f8",
+  "active": "c27c0423ec5fe5f7",
   "lastOpenFiles": [
+    "principle/Regular Expression 正則表達式.md",
+    "principle/Race Condition 競態條件.md",
     "principle/SSR vs CSR.md",
-    "Pasted image 20230923003734.png",
-    "Markdown.md",
-    "Pasted image 20230923003738.png",
-    "Pasted image 20230923003758.png",
-    "conflict-files-obsidian-git.md",
+    "assets/img/CSR_principle.png",
+    "assets/img/SSR_principle.png",
+    "assets/img",
+    "assets",
+    "Pasted image 20230923003738.png.md",
     "principle/work priciple.md",
+    "Pasted image 20230923003738.png",
+    "Pasted image 20230923003734.png",
+    "conflict-files-obsidian-git.md",
+    "Markdown.md",
+    "Pasted image 20230923003758.png",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "TypeScript/tsconfig.json.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Browser mechanism/HTTP Cache.md",
     "Vite/index.md",
-    "principle/Regular Expression 正則表達式.md",
     "Vue/Style-guide.md",
     "Info Security/SQL Injection.md"
   ]

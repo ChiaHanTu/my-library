@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/SSR vs CSR.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/SSR vs CSR.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/SSR vs CSR.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/SSR vs CSR.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,11 +167,13 @@
   },
   "active": "fab9ffa0433ec0f8",
   "lastOpenFiles": [
-    "Pasted image 20230923003758.png",
-    "Pasted image 20230923003738.png",
-    "Pasted image 20230923003734.png",
-    "conflict-files-obsidian-git.md",
     "principle/SSR vs CSR.md",
+    "Pasted image 20230923003734.png",
+    "Markdown.md",
+    "Pasted image 20230923003738.png",
+    "Pasted image 20230923003758.png",
+    "conflict-files-obsidian-git.md",
+    "principle/work priciple.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "TypeScript/tsconfig.json.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
@@ -179,7 +181,6 @@
     "Vite/index.md",
     "principle/Regular Expression 正則表達式.md",
     "Vue/Style-guide.md",
-    "Info Security/SQL Injection.md",
-    "Markdown.md"
+    "Info Security/SQL Injection.md"
   ]
 }

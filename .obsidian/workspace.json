@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/SSR vs CSR.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/SSR vs CSR.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/SSR vs CSR.md",
+                "file": "principle/Regular Expression 正則表達式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/SSR vs CSR.md"
+                "file": "principle/Regular Expression 正則表達式.md"
               }
             }
           },
@@ -165,10 +165,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "c3163e7b86776dd6",
   "lastOpenFiles": [
-    "principle/work priciple.md",
     "principle/SSR vs CSR.md",
+    "principle/work priciple.md",
     "TypeScript/tsconfig.json.md",
     "Markdown.md",
     "Vue/Style-guide.md",

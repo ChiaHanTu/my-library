@@ -11,8 +11,12 @@
             "id": "c3163e7b86776dd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "principle/SSR vs CSR.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/tsconfig.json.md",
+                "file": "principle/SSR vs CSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/tsconfig.json.md",
+                "file": "principle/SSR vs CSR.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/tsconfig.json.md"
+                "file": "principle/SSR vs CSR.md"
               }
             }
           },
@@ -163,15 +167,15 @@
   },
   "active": "83cd3986d52df2de",
   "lastOpenFiles": [
+    "principle/work priciple.md",
+    "principle/SSR vs CSR.md",
+    "TypeScript/tsconfig.json.md",
     "Markdown.md",
     "Vue/Style-guide.md",
     "Vite/index.md",
     "Vite/環境變量 env.md",
-    "TypeScript/tsconfig.json.md",
-    "principle/work priciple.md",
     "principle/Race Condition 競態條件.md",
     "principle/Regular Expression 正則表達式.md",
-    "principle/SSR vs CSR.md",
     "assets/img/CSR_principle.png",
     "assets/img/SSR_principle.png",
     "assets/img",

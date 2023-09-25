@@ -1,11 +1,10 @@
 # 開發前
 
--  RWD or not
--  SSR or not
--  GA or not
+-  RWD
+-  SSR
+-  GA
 -  APP 是否會與 Web 交互 （deeplink）
 -  確認表單欄位驗證方式
--  
 
 # 開發中
 

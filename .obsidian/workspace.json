@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Work Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Work Principle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "principle/Work Principle.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,7 +188,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle/Work Principle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,8 +235,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b91a860188f2ae0c",
+  "active": "31c5e718fe228390",
   "lastOpenFiles": [
+    "principle/Work Principle.md",
     "principle/Render Mode.md",
     "Vue/Style-guide.md",
     "Interview Questions.md",
@@ -261,7 +257,6 @@
     "Network/Worker.md",
     "Vite/環境變量 env.md",
     "Vite/index.md",
-    "principle/Work Principle.md",
     "Pasted image 20231129102057.png",
     "assets/img/CSR_principle.png",
     "Test/Test Method.md",

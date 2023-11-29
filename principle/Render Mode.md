@@ -33,7 +33,7 @@
 
 ## Nuxt Edge-Side Rendering
 
-> 允許 Nuxt 應用渲染在鄰近使用者的 CDN 上，降低延遲性。
+> 允許 Nuxt 應用渲染在鄰近使用者的 CDN 上，降低延遲性。當使用者請求頁面時，會尋找最近的 edge server，而非透過較遠的物理距離取得來自原 server 的 response，功能來自 Nitro。
 
 ---
 ## 註

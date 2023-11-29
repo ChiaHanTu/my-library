@@ -26,7 +26,12 @@
 
 > 在可配置的 TTL (time to live) 下，添加快取 headers - *stale-while-revalidate* 存取來自 server 的 response，為 Node-server 的 Nitro 預設即會快取完整的 response，當 TTL 過期時，快取的 response 會回傳，同時頁面會在背景中重新產生，再次刷新後更新畫面。
 
-## ISR - Incremental 
+## ISR - Incremental Static Regeneration
+
+> 與 SWR 行為相同，但可將 response 存取在 CDN 快取上（目前 Netlify 與 Vercel 支援）。
+
+
+
 ---
 ## 註
 

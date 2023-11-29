@@ -31,6 +31,9 @@
 > 與 SWR 行為相同，但可將 response 存取在 CDN 快取上（目前 Netlify 與 Vercel 支援）。
 
 
+## Nuxt Edge-Side Rendering
+
+> 允許 Nuxt 應用渲染在鄰近使用者的 CDN 上，降低延遲性。
 
 ---
 ## 註

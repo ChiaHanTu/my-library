@@ -24,7 +24,7 @@
 
 ## Stale White Revalidate
 
-> 在可配置的 TTL (time to live) 下，添加快取 headers 存取來自 server 的 response
+> 在可配置的 TTL (time to live) 下，添加快取 headers 存取來自 server 的 response，為 Node-server 的 Nitro 預設快取完整的 response，當 ＴＴ
 
 ---
 ## 註

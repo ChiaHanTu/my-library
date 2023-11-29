@@ -4,6 +4,8 @@
 2. 瀏覽器在背景下載並運行 JavaScript 
 3. 進行 Hydration 注入 JavaScript，賦予畫面互動性
 
+> 頁面切換較為快速
+
 ![[SSR_principle.png]]
 
 # Server Side Render

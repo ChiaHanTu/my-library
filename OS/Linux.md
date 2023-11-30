@@ -43,7 +43,7 @@ ex:
 ```
 chmod ugo+r file1.txt // 將所有人添加讀取權限
 
-
+chmod 777 file // 為 User, Group, Other Users 添加讀取、寫入、執行的權限
 ```
 
 ### 參考來源：

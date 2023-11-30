@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Linux Chmod 命令.md",
+                "file": "OS/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux Chmod 命令.md",
+                "file": "OS/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux Chmod 命令.md",
+                "file": "OS/Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux Chmod 命令.md"
+                "file": "OS/Linux.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "OS/Linux Chmod 命令.md",
+                "file": "OS/Linux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,8 +230,9 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
+    "Pasted image 20231130161429.png",
     "principle/Work Principle.md",
-    "OS/Linux Chmod 命令.md",
+    "OS/Linux.md",
     "OS",
     "principle/Render Mode.md",
     "Browser mechanism/HTTP Cache.md",
@@ -260,7 +261,6 @@
     "assets/img/CSR_principle.png",
     "Test/Test Method.md",
     "TypeScript/tsconfig.json.md",
-    "參考連結.md",
     "assets/img/Pasted image 20231123100744.png",
     "Untitled.canvas",
     "assets/img/Pasted image 20231123100733.png",

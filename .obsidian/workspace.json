@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "OS/Linux Chmod 命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "OS/Linux Chmod 命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "OS/Linux Chmod 命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Work Principle.md"
+                "file": "OS/Linux Chmod 命令.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "OS/Linux Chmod 命令.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,6 +230,9 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
+    "principle/Work Principle.md",
+    "OS/Linux Chmod 命令.md",
+    "OS",
     "principle/Render Mode.md",
     "Browser mechanism/HTTP Cache.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
@@ -241,7 +244,6 @@
     "Markdown.md",
     "Interview Questions.md",
     "Network/CSP Content-Security-Policy.md",
-    "principle/Work Principle.md",
     "Network/Worker.md",
     "Network/Serialize & Unserialize.md",
     "Network/Race Condition 競態條件.md",
@@ -263,7 +265,6 @@
     "Untitled.canvas",
     "assets/img/Pasted image 20231123100733.png",
     "assets/img/Pasted image 20231123100724.png",
-    "白箱測試 **Clear box testing / White box testing**.md",
     "白箱測試 **Clear box testing ",
     "Test",
     "assets/img/SSR_principle.png",

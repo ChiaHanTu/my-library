@@ -7,8 +7,9 @@
  | ----- | ----- | ----------- |
  | rwx   | rwx   | rwx         |
 
-- r: Read 讀取
-- w: Write 寫入
-- x: Execute 執行
+- r: Read 讀取，代表數字 4 
+- w: Write 寫入，代表數字 2
+- x: Execute 執行，代表數字 1
+
 
 

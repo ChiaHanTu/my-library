@@ -7,5 +7,8 @@
  | ----- | ----- | ----------- |
  | rwx   | rwx   | rwx         |
 
+- r: Read 讀取
+- w: Write 寫入
+- x: Execute 執行
 
 

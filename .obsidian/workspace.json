@@ -225,21 +225,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
+    "Regular Expression 正則表達式.md",
     "Pasted image 20231130161429.png",
-    "principle/Work Principle.md",
     "OS/Linux.md",
+    "principle/Work Principle.md",
     "OS",
     "principle/Render Mode.md",
     "Browser mechanism/HTTP Cache.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Algorithm/Big O notation.md",
     "Algorithm/Time Complexity.md",
-    "Regular Expression 正則表達式.md",
     "Pasted image 20231130112850.png",
     "Algorithm",
     "Markdown.md",
@@ -271,7 +272,6 @@
     "assets/img",
     "assets",
     "Pasted image 20230923003738.png",
-    "Pasted image 20230923003734.png",
-    "Pasted image 20230923003758.png"
+    "Pasted image 20230923003734.png"
   ]
 }

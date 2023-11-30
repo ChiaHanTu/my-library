@@ -34,7 +34,17 @@ ex:
 
 ## 命令 
 
+```
+chmod [-cfvR] [--help] [--version] mode file...
+```
 
+ex:
+
+```
+chmod ugo+r file1.txt // 將所有人添加讀取權限
+
+
+```
 
 ### 參考來源：
 

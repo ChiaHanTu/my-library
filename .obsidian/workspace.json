@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "principle/Work Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "principle/Work Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "principle/Work Principle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Big O notation.md"
+                "file": "principle/Work Principle.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "principle/Work Principle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,23 +230,23 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
-    "Algorithm/Time Complexity.md",
+    "principle/Render Mode.md",
+    "Browser mechanism/HTTP Cache.md",
+    "Browser mechanism/DOM 的事件傳遞機制.md",
     "Algorithm/Big O notation.md",
+    "Algorithm/Time Complexity.md",
     "Regular Expression 正則表達式.md",
     "Pasted image 20231130112850.png",
     "Algorithm",
     "Markdown.md",
     "Interview Questions.md",
     "Network/CSP Content-Security-Policy.md",
-    "principle/Render Mode.md",
     "principle/Work Principle.md",
-    "Browser mechanism/DOM 的事件傳遞機制.md",
     "Network/Worker.md",
     "Network/Serialize & Unserialize.md",
     "Network/Race Condition 競態條件.md",
     "Network/mechanism.md",
     "Vue/Style-guide.md",
-    "Browser mechanism/HTTP Cache.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",
     "Info Security/CSS Injection.md",

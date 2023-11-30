@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/複雜度.md",
+                "file": "Algorithm/Big O notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/複雜度.md",
+                "file": "Algorithm/Big O notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/複雜度.md",
+                "file": "Algorithm/Big O notation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/複雜度.md"
+                "file": "Algorithm/Big O notation.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/複雜度.md",
+                "file": "Algorithm/Big O notation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,8 +230,9 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
+    "Algorithm",
     "Markdown.md",
-    "Network/複雜度.md",
+    "Algorithm/Big O notation.md",
     "Interview Questions.md",
     "Regular Expression 正則表達式.md",
     "Network/CSP Content-Security-Policy.md",

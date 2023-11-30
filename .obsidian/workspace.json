@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Time Complexity.md",
+                "file": "Algorithm/Big O notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Time Complexity.md",
+                "file": "Algorithm/Big O notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Time Complexity.md",
+                "file": "Algorithm/Big O notation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Time Complexity.md"
+                "file": "Algorithm/Big O notation.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithm/Time Complexity.md",
+                "file": "Algorithm/Big O notation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,8 +230,8 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
-    "Algorithm/Big O notation.md",
     "Algorithm/Time Complexity.md",
+    "Algorithm/Big O notation.md",
     "Regular Expression 正則表達式.md",
     "Pasted image 20231130112850.png",
     "Algorithm",

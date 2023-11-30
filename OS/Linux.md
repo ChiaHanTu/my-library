@@ -3,8 +3,9 @@
 
 > 為 change mode 縮寫，控制系統用戶對文件的權限的命令
 
- | 1234 |
- | ---- |
- | 123  |
+ | Owner | Group | Other Users |
+ | ----- | ----- | ----------- |
+ | rwx   | rwx   | rwx         |
+
 
 

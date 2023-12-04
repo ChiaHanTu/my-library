@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Test/Test Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Test/Test Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Test/Test Method.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Render Mode.md"
+                "file": "Test/Test Method.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Test/Test Method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,9 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
+    "principle/Render Mode.md",
     "principle/傳值 v.s 傳址.md",
     "principle/深拷貝 v.s 淺拷貝.md",
-    "principle/Render Mode.md",
     "Markdown.md",
     "Regular Expression 正則表達式.md",
     "principle/Work Principle.md",

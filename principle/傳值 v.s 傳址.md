@@ -10,7 +10,7 @@ String, Boolean, Number...
 ```
 
 
-## 傳址 Call by reference 
+## 傳址 Call by Reference 
 
 > 遞的是變數的引用，函數內部對參數的修改會影響原始變數。
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/傳值 v.s 傳址.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/傳值 v.s 傳址.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/傳值 v.s 傳址.md",
+                "file": "Markdown.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/傳值 v.s 傳址.md"
+                "file": "Markdown.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle/傳值 v.s 傳址.md",
+                "file": "Markdown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,16 +231,16 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
+    "Regular Expression 正則表達式.md",
+    "principle/Work Principle.md",
+    "principle/Render Mode.md",
     "principle/深拷貝 v.s 淺拷貝.md",
-    "Interview Questions.md",
     "principle/傳值 v.s 傳址.md",
+    "Interview Questions.md",
     "Markdown.md",
     "OS/Linux.md",
-    "Regular Expression 正則表達式.md",
     "Pasted image 20231130161429.png",
-    "principle/Work Principle.md",
     "OS",
-    "principle/Render Mode.md",
     "Browser mechanism/HTTP Cache.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Algorithm/Big O notation.md",

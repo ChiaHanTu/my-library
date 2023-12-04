@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Markdown.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/設計模式.md"
+                "file": "Markdown.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Markdown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,12 +231,12 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
-    "principle/Render Mode.md",
     "patterns/設計模式.md",
+    "Test/Test Method.md",
+    "principle/Render Mode.md",
     "patterns",
     "JavaScript/Factory function 工廠函數.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
-    "Test/Test Method.md",
     "JavaScript",
     "JavaScript/傳值 v.s 傳址.md",
     "Markdown.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "patterns/設計模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "patterns/設計模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "patterns/設計模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Test Method.md"
+                "file": "patterns/設計模式.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "patterns/設計模式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,8 +232,13 @@
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
     "principle/Render Mode.md",
-    "principle/傳值 v.s 傳址.md",
-    "principle/深拷貝 v.s 淺拷貝.md",
+    "patterns/設計模式.md",
+    "patterns",
+    "JavaScript/Factory function 工廠函數.md",
+    "JavaScript/深拷貝 v.s 淺拷貝.md",
+    "Test/Test Method.md",
+    "JavaScript",
+    "JavaScript/傳值 v.s 傳址.md",
     "Markdown.md",
     "Regular Expression 正則表達式.md",
     "principle/Work Principle.md",
@@ -258,11 +263,8 @@
     "Info Security/CSS Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Info Security/雜湊 Hash.md",
-    "Vite/環境變量 env.md",
-    "Vite/index.md",
     "Pasted image 20231129102057.png",
     "assets/img/CSR_principle.png",
-    "Test/Test Method.md",
     "assets/img/Pasted image 20231123100744.png",
     "Untitled.canvas",
     "assets/img/Pasted image 20231123100733.png",

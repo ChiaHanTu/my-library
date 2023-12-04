@@ -17,3 +17,22 @@ String, Boolean, Number...
 ```JS
 Object and Array
 ```
+
+
+### ex: 
+
+```JS
+let num = 1;
+let obj = { value: 1 };
+
+function modify(a, b) {
+	a = 2;
+	b.value = 2;
+}
+ 
+modify(num, obj);
+  
+console.log(num); // 輸出：1
+console.log(obj); // 輸出：{ value: 2 }
+```
+

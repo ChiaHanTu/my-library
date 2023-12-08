@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown.md"
+                "file": "TypeScript/Mapped Types 映射類型.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Markdown.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,8 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
+    "Markdown.md",
+    "TypeScript/Mapped Types 映射類型.md",
     "patterns/設計模式.md",
     "Test/Test Method.md",
     "principle/Render Mode.md",
@@ -239,7 +241,6 @@
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript",
     "JavaScript/傳值 v.s 傳址.md",
-    "Markdown.md",
     "Regular Expression 正則表達式.md",
     "principle/Work Principle.md",
     "Interview Questions.md",
@@ -262,7 +263,6 @@
     "Info Security/SQL Injection.md",
     "Info Security/CSS Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
-    "Info Security/雜湊 Hash.md",
     "Pasted image 20231129102057.png",
     "assets/img/CSR_principle.png",
     "assets/img/Pasted image 20231123100744.png",

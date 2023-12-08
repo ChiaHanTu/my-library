@@ -18,6 +18,9 @@ const conforms: OnlyBoolsAndHorses = {
 
 > 使用 s Union 遍歷物件裡面的 key，創造 PropertyKey
 
+```TS
+type OptionsFlags<Type> = {
+	[Property in keyof Type]: boolean;
+}
 ```
 
-```

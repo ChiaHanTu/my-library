@@ -24,3 +24,8 @@ type OptionsFlags<Type> = {
 }
 ```
 
+### 映射修飾符 
+
+```TS
+
+```

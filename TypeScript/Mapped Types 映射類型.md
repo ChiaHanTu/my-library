@@ -46,3 +46,18 @@ type UnlockedAccount = {
 }
 ```
 
+```TS
+type Concrete<Type> = {
+	[Property in keyof Type]: Type[Property];
+}
+
+type MaybeUser = {
+	id: string;
+	name?: string;
+	age?: string;
+}
+
+type User = Concrete<MaybeUser>;
+
+type User = 
+```

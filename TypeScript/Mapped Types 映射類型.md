@@ -67,3 +67,10 @@ type User = {
 	age: string;
 }
 ```
+
+
+### Key remapping
+
+```
+
+```

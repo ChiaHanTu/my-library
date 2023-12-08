@@ -76,6 +76,7 @@ type MappedTypeWithNewProperties<Type> = {
 	[Properties in keyof Type as NewKeyType]: Type[Properties]
 }
 
+// 中間多一個反引號，處理 Lint 問題
 type Getters<Type> = {
 	[Property in keyof Type as `get${Capitalize<string & Property>}``]: () => Type[Property]
 };
@@ -88,4 +89,10 @@ interface Person {
 }
 
 type LazyPerson = Getters<Person>;
+
+type LazyPerson = {
+	getName: () => string;
+	getAge: () => number;
+	getLocation: () => string;
+}
 ```

@@ -231,8 +231,9 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
-    "Markdown.md",
+    "TypeScript/tsconfig.json.md",
     "TypeScript/Mapped Types 映射類型.md",
+    "Markdown.md",
     "patterns/設計模式.md",
     "Test/Test Method.md",
     "principle/Render Mode.md",
@@ -262,7 +263,6 @@
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",
     "Info Security/CSS Injection.md",
-    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Pasted image 20231129102057.png",
     "assets/img/CSR_principle.png",
     "assets/img/Pasted image 20231123100744.png",

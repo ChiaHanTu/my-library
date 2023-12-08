@@ -29,6 +29,7 @@ type OptionsFlags<Type> = {
 > - modifier
 
 ```TS
+// 去除 readonly
 type CreateMutable<Type> = {
 	-readonly [Property in keyof Type]: Type[Property]
 };
@@ -46,9 +47,10 @@ type UnlockedAccount = {
 }
 ```
 
-```TS
+```TS 
+// 去除 ?
 type Concrete<Type> = {
-	[Property in keyof Type]: Type[Property];
+	[Property in keyof Type]-?: Type[Property];
 }
 
 type MaybeUser = {
@@ -59,5 +61,9 @@ type MaybeUser = {
 
 type User = Concrete<MaybeUser>;
 
-type User = 
+type User = {
+	id: string;
+	name: string;
+	age: string;
+}
 ```

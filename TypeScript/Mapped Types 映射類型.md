@@ -100,5 +100,14 @@ type LazyPerson = {
 ### Filter Type
 
 ```TS
-type Remove
+type RemoveKindField<Type> = {
+	[Property in keyof Type as Exclude<Property, "kind">]: Type[Property]
+};
+
+interface Circle {
+	kind: "circle";
+	radius: number;
+}
+
+type Kind
 ```

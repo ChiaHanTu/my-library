@@ -7,4 +7,13 @@
 type OnlyBoolsAndHorses = {
 	[key: string]: boolean | Horse;
 }
+
+const conforms: OnlyBoolsAndHorses = {
+	del: true,
+	rodney: false
+}
 ```
+
+## 映射類型
+
+> 使用 s Union 遍利

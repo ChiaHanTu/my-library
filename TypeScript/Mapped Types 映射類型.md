@@ -71,6 +71,20 @@ type User = {
 
 ### Key remapping
 
-```
+```TS
+type MappedTypeWithNewProperties<Type> = {
+	[Properties in keyof Type as NewKeyType]: Type[Properties]
+}
 
+type Getters<Type> = {
+	[P in keyof s]
+}
+
+interface Person {
+	name:  string;
+	age: number;
+	location: string;
+}
+
+type LazyPerson = Getters<Person>;
 ```

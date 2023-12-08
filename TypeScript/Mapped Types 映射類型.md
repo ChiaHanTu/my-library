@@ -109,5 +109,14 @@ interface Circle {
 	radius: number;
 }
 
-type Kind
+type KindlessCircle = RemoveKindField<Circle>;
+
+type KindlessCircle = {
+	radius: number;
+}
 ```
+
+```TS
+type Exclude<T, U> = T extends U ? never : T;
+```
+

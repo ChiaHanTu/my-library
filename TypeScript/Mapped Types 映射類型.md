@@ -77,8 +77,9 @@ type MappedTypeWithNewProperties<Type> = {
 }
 
 type Getters<Type> = {
-	[P in keyof s]
-}
+	[Property in keyof Type as `get${Capitalize<string & Property>}``]: () => Type[Property]
+};
+
 
 interface Person {
 	name:  string;

@@ -26,6 +26,8 @@ type OptionsFlags<Type> = {
 
 ### 映射修飾符 
 
+> - modifier
+
 ```TS
 type CreateMutable<Type> = {
 	-readonly [Property in keyof Type]: Type[Property]
@@ -36,5 +38,11 @@ type LockedAccount = {
 	readonly name: string;
 };
 
+type UnlockedAccount = CreateMutable<LockedAccount>;
 
+type UnlockedAccount = {
+	id: string;
+	name: string;
+}
 ```
+

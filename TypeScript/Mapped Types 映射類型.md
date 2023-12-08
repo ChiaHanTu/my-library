@@ -96,3 +96,9 @@ type LazyPerson = {
 	getLocation: () => string;
 }
 ```
+
+### Filter Type
+
+```TS
+type Remove
+```

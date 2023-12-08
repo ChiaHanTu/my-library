@@ -27,5 +27,14 @@ type OptionsFlags<Type> = {
 ### 映射修飾符 
 
 ```TS
+type CreateMutable<Type> = {
+	-readonly [Property in keyof Type]: Type[Property]
+};
+
+type LockedAccount = {
+	readonly id: string;
+	readonly name: string;
+};
+
 
 ```

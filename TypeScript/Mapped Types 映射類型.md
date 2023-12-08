@@ -16,4 +16,8 @@ const conforms: OnlyBoolsAndHorses = {
 
 ## 映射類型
 
-> 使用 s Union 遍利
+> 使用 s Union 遍歷物件裡面的 key，創造 PropertyKey
+
+```
+
+```

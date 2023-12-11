@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "TypeScript/Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "TypeScript/Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "TypeScript/Method.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md"
+                "file": "TypeScript/Method.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "TypeScript/Method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,9 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
+    "TypeScript/Mapped Types 映射類型.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Method.md",
-    "TypeScript/Mapped Types 映射類型.md",
     "Markdown.md",
     "patterns/設計模式.md",
     "Test/Test Method.md",

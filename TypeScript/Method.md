@@ -22,3 +22,12 @@ type test_0_expected = 'Dasher';
 ```TS
 type Exclude<T, U> = T extends U ? never : T;
 ```
+
+
+### SuffixTester 
+
+```TS
+type SuffixTester<T extends string, U extends string> =
+
+T extends `${infer F} ${infer R}` ? U extends F ? true : U extends R ? true : SuffixTester<R, U> : false;
+```

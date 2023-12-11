@@ -10,6 +10,11 @@
 type Reverse<S extends string> =
 
 S extends `${infer F}${infer R}` ? `${Reverse<R>}${F}` : S;
+
+
+// test
+type test_0_actual = Reverse<'rehsaD'>;
+type test_0_expected = 'Dasher';
 ```
 
 ## Exclude

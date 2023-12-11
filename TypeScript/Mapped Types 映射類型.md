@@ -116,8 +116,4 @@ type KindlessCircle = {
 }
 ```
 
-```TS
-type Exclude<T, U> = T extends U ? never : T;
-```
 
-### 

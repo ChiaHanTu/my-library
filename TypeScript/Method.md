@@ -34,6 +34,10 @@ type SuffixTester<T extends string, U extends string> = T extends `${string} ${U
 
 ```TS
 type Protector<T = object> = {
-	+readonly [P in keyof T]: T[P] extends Function ? T[P] : T[P] extends object ? Protector<T[P]> : T[P];
+	+readonly [P in keyof T]: T[P] extends Function 
+	? T[P]
+	: T[P] extends object
+	? Protector<T[P]>
+	: T[P];
 };
 ```

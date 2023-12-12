@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
+                "file": "Markdown.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md"
+                "file": "Markdown.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
+                "file": "Markdown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,8 +229,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "7ed4534c88681914",
   "lastOpenFiles": [
+    "Interview Questions.md",
+    "Regular Expression 正則表達式.md",
+    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Info Security/雜湊 Hash.md",
@@ -247,9 +250,7 @@
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript",
     "JavaScript/傳值 v.s 傳址.md",
-    "Regular Expression 正則表達式.md",
     "principle/Work Principle.md",
-    "Interview Questions.md",
     "OS/Linux.md",
     "Pasted image 20231130161429.png",
     "OS",
@@ -262,7 +263,6 @@
     "Network/CSP Content-Security-Policy.md",
     "Network/Serialize & Unserialize.md",
     "Network/Race Condition 競態條件.md",
-    "Network/mechanism.md",
     "Pasted image 20231129102057.png",
     "assets/img/CSR_principle.png",
     "assets/img/Pasted image 20231123100744.png",

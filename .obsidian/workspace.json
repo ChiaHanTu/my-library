@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Method.md"
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,10 +229,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ed4534c88681914",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
-    "TypeScript/Mapped Types 映射類型.md",
+    "Info Security/SQL Injection.md",
+    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
+    "Info Security/雜湊 Hash.md",
+    "Network/Worker.md",
     "TypeScript/Method.md",
+    "TypeScript/Mapped Types 映射類型.md",
     "TypeScript/tsconfig.json.md",
     "Markdown.md",
     "patterns/設計模式.md",
@@ -256,13 +260,9 @@
     "Pasted image 20231130112850.png",
     "Algorithm",
     "Network/CSP Content-Security-Policy.md",
-    "Network/Worker.md",
     "Network/Serialize & Unserialize.md",
     "Network/Race Condition 競態條件.md",
     "Network/mechanism.md",
-    "Vue/Style-guide.md",
-    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
-    "Info Security/SQL Injection.md",
     "Pasted image 20231129102057.png",
     "assets/img/CSR_principle.png",
     "assets/img/Pasted image 20231123100744.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "TypeScript/Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "TypeScript/Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "TypeScript/Method.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md"
+                "file": "TypeScript/Method.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "TypeScript/Method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,11 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
+    "TypeScript/Mapped Types 映射類型.md",
+    "Test/Test Method.md",
+    "Network/CSP Content-Security-Policy.md",
     "TypeScript/Method.md",
     "TypeScript/tsconfig.json.md",
-    "TypeScript/Mapped Types 映射類型.md",
     "Vite/環境變量 env.md",
     "Markdown.md",
     "Untitled",
@@ -245,7 +247,6 @@
     "Info Security/雜湊 Hash.md",
     "Network/Worker.md",
     "patterns/設計模式.md",
-    "Test/Test Method.md",
     "principle/Render Mode.md",
     "patterns",
     "JavaScript/Factory function 工廠函數.md",
@@ -262,7 +263,6 @@
     "Algorithm/Time Complexity.md",
     "Pasted image 20231130112850.png",
     "Algorithm",
-    "Network/CSP Content-Security-Policy.md",
     "Network/Serialize & Unserialize.md",
     "Pasted image 20231129102057.png",
     "assets/img/CSR_principle.png",

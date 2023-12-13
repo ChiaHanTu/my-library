@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "JavaScript/hide date placeholder.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "JavaScript/hide date placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "JavaScript/hide date placeholder.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md"
+                "file": "JavaScript/hide date placeholder.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "JavaScript/hide date placeholder.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,9 @@
   },
   "active": "7ed4534c88681914",
   "lastOpenFiles": [
-    "TypeScript/Method.md",
     "TypeScript/Mapped Types 映射類型.md",
+    "JavaScript/hide date placeholder.md",
+    "TypeScript/Method.md",
     "Test/Test Method.md",
     "Network/CSP Content-Security-Policy.md",
     "TypeScript/tsconfig.json.md",
@@ -263,7 +264,6 @@
     "Algorithm/Time Complexity.md",
     "Pasted image 20231130112850.png",
     "Algorithm",
-    "Network/Serialize & Unserialize.md",
     "Pasted image 20231129102057.png",
     "assets/img/CSR_principle.png",
     "assets/img/Pasted image 20231123100744.png",

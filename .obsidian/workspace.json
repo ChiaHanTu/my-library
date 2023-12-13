@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/hide date placeholder.md",
+                "file": "CSS/Hide date placeholder.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/hide date placeholder.md",
+                "file": "CSS/Hide date placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/hide date placeholder.md",
+                "file": "CSS/Hide date placeholder.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/hide date placeholder.md"
+                "file": "CSS/Hide date placeholder.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSS/hide date placeholder.md",
+                "file": "CSS/Hide date placeholder.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,7 +233,7 @@
   "lastOpenFiles": [
     "CSS",
     "().md",
-    "CSS/hide date placeholder.md",
+    "CSS/Hide date placeholder.md",
     "TypeScript/Mapped Types 映射類型.md",
     "TypeScript/Method.md",
     "Test/Test Method.md",

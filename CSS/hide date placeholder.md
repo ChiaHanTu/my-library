@@ -12,10 +12,6 @@
 	&::-webkit-datetime-edit-minute-field,
 	&::-webkit-datetime-edit-ampm-field,
 	&::-webkit-calendar-picker-indicator {
-
-@apply hidden;
-
-} {
 		@apply hidden;
 	}
 }

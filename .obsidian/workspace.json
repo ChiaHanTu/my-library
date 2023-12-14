@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Practice Note.md",
+                "file": "TypeScript/Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Practice Note.md",
+                "file": "TypeScript/Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/Practice Note.md",
+                "file": "TypeScript/Method.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Practice Note.md"
+                "file": "TypeScript/Method.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test/Practice Note.md",
+                "file": "TypeScript/Method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,12 +231,12 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
-    "Test/Test Method.md",
+    "TypeScript/Mapped Types 映射類型.md",
     "Test/Practice Note.md",
+    "Test/Test Method.md",
     "CSS/Hide date placeholder.md",
     "CSS",
     "().md",
-    "TypeScript/Mapped Types 映射類型.md",
     "TypeScript/Method.md",
     "Network/CSP Content-Security-Policy.md",
     "TypeScript/tsconfig.json.md",

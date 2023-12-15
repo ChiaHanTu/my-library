@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Method.md"
+                "file": "TypeScript/Mapped Types 映射類型.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,15 +229,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "faa5a6626c557777",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
+    "TypeScript/Method.md",
     "TypeScript/Mapped Types 映射類型.md",
     "Test/Practice Note.md",
     "Test/Test Method.md",
     "CSS/Hide date placeholder.md",
     "CSS",
     "().md",
-    "TypeScript/Method.md",
     "Network/CSP Content-Security-Policy.md",
     "TypeScript/tsconfig.json.md",
     "Vite/環境變量 env.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Method.md"
+                "file": "TypeScript/Mapped Types 映射類型.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,10 +231,10 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "TypeScript/Method.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Mapped Types 映射類型.md",
     "Regular Expression 正則表達式.md",
-    "TypeScript/Method.md",
     "Test/Practice Note.md",
     "Test/Test Method.md",
     "CSS/Hide date placeholder.md",

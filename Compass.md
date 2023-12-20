@@ -3,5 +3,4 @@
 - CI / CD:  docker, drone CI
 - 測試：Vitest（參考開源 repo 實作方式）
 - JS：Leetcode, 底層知識
-- CS：演算法、計算機網路、資料結構  計算機組織  
-8.作業系統
+- CS：演算法、計算機網路、資料結構、計算機組織、作業系統

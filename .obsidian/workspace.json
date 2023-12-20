@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f861f97aa47c081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compass.md",
+                "file": "JavaScript/Object.assign() v.s Object spread operator.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compass.md",
+                "file": "JavaScript/Object.assign() v.s Object spread operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compass.md",
+                "file": "JavaScript/Object.assign() v.s Object spread operator.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compass.md"
+                "file": "JavaScript/Object.assign() v.s Object spread operator.md"
               }
             }
           },
@@ -193,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Compass.md",
+                "file": "JavaScript/Object.assign() v.s Object spread operator.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,10 +229,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f861f97aa47c081",
+  "active": "faa5a6626c557777",
   "lastOpenFiles": [
-    "Markdown.md",
+    "assets/img/Pasted image 20231220155813.png",
+    "JavaScript/Object.assign() v.s Object spread operator.md",
     "Compass.md",
+    "Markdown.md",
     "Interview Questions.md",
     "principle/Work Principle.md",
     "principle/Render Mode.md",
@@ -271,10 +260,8 @@
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript",
     "JavaScript/傳值 v.s 傳址.md",
-    "OS/Linux.md",
     "Pasted image 20231130161429.png",
     "OS",
-    "Browser mechanism/HTTP Cache.md",
     "Pasted image 20231130112850.png",
     "Algorithm",
     "Pasted image 20231129102057.png",
@@ -288,7 +275,6 @@
     "assets/img/SSR_principle.png",
     "assets/img",
     "assets",
-    "Pasted image 20230923003738.png",
-    "Pasted image 20230923003734.png"
+    "Pasted image 20230923003738.png"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "Interview Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "Interview Questions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Work Principle.md"
+                "file": "Interview Questions.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "Interview Questions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,7 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "principle/Work Principle.md",
     "principle/Render Mode.md",
     "TypeScript/Mapped Types 映射類型.md",
     "TypeScript/tsconfig.json.md",
@@ -256,7 +257,6 @@
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript",
     "JavaScript/傳值 v.s 傳址.md",
-    "principle/Work Principle.md",
     "OS/Linux.md",
     "Pasted image 20231130161429.png",
     "OS",

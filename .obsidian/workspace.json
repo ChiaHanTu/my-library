@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f861f97aa47c081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compass.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Compass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Compass.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Questions.md"
+                "file": "Compass.md"
               }
             }
           },
@@ -180,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Interview Questions.md",
+                "file": "Compass.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,8 +242,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "faa5a6626c557777",
+  "active": "3f861f97aa47c081",
   "lastOpenFiles": [
+    "Markdown.md",
+    "Compass.md",
+    "Interview Questions.md",
     "principle/Work Principle.md",
     "principle/Render Mode.md",
     "TypeScript/Mapped Types 映射類型.md",
@@ -244,8 +260,6 @@
     "().md",
     "Network/CSP Content-Security-Policy.md",
     "Vite/環境變量 env.md",
-    "Markdown.md",
-    "Interview Questions.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
@@ -261,7 +275,6 @@
     "Pasted image 20231130161429.png",
     "OS",
     "Browser mechanism/HTTP Cache.md",
-    "Browser mechanism/DOM 的事件傳遞機制.md",
     "Pasted image 20231130112850.png",
     "Algorithm",
     "Pasted image 20231129102057.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Compass.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Compass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Compass.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Worker.md"
+                "file": "Compass.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Compass.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,8 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Regular Expression 正則表達式.md",
+    "Network/Worker.md",
     "JavaScript/傳值 v.s 傳址.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "assets/img/Pasted image 20231220155813.png",
@@ -242,7 +244,6 @@
     "TypeScript/Mapped Types 映射類型.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Method.md",
-    "Regular Expression 正則表達式.md",
     "Test/Practice Note.md",
     "Test/Test Method.md",
     "CSS/Hide date placeholder.md",
@@ -254,7 +255,6 @@
     "Info Security/SQL Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Info Security/雜湊 Hash.md",
-    "Network/Worker.md",
     "patterns/設計模式.md",
     "patterns",
     "JavaScript/Factory function 工廠函數.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compass.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compass.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compass.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compass.md"
+                "file": "TypeScript/Mapped Types 映射類型.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Compass.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,12 +231,12 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Compass.md",
     "Regular Expression 正則表達式.md",
     "Network/Worker.md",
     "JavaScript/傳值 v.s 傳址.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "assets/img/Pasted image 20231220155813.png",
-    "Compass.md",
     "Markdown.md",
     "Interview Questions.md",
     "principle/Work Principle.md",

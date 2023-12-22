@@ -13,7 +13,6 @@ Components:
 - Modal 0.5
 - Accordian 0.5
 - Float sidebar 0.5
-- Check Butoon
 - tabs 0.5
 - Breadcrumb 0.5
 - Fixed Side Button 0.5

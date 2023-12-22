@@ -1,6 +1,7 @@
 Components:
 - Header 0.5
 - Footer 0.25
+- Select 
 - Search Field
 - Anchor Button
 - Product Block
@@ -19,7 +20,7 @@ Components:
 - Fixed Side Button
 - Textarea
 - Mobile Menu
-- Select 
+- 
 
 
 

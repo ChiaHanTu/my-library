@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b4cdd0bf31ea2412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "car 速配_時程評估.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "car 速配_時程評估.md",
+                "file": "Compass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "car 速配_時程評估.md",
+                "file": "Compass.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "car 速配_時程評估.md"
+                "file": "Compass.md"
               }
             }
           },
@@ -193,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "car 速配_時程評估.md",
+                "file": "Compass.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,11 +229,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b4cdd0bf31ea2412",
+  "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "car 速配_時程評估.md",
     "Markdown.md",
     "Regular Expression 正則表達式.md",
-    "car 速配_時程評估.md",
     "Compass.md",
     "principle/Work Principle.md",
     "principle/Render Mode.md",

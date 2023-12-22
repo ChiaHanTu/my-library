@@ -7,13 +7,12 @@ Components:
 - Product Block 0.5
 - Swiper 1
 - TextField 0.5
-- Radio 0.25
+- Checkbox 0.25
 - Countdown 0.5
-- Checkbox 
-- Modal
-- Float sidebar
+- Modal 0.5
+- Accordian 0.5
+- Float sidebar 0.5
 - Check Butoon
-- Accordian
 - Breadcrumb
 - Fixed Side Button
 - Textarea

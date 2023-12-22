@@ -1,6 +1,6 @@
 Components:
-- Header
-- Footer
+- Header 0.5
+- Footer 0.25
 - Search Field
 - Anchor Button
 - Product Block

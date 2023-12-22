@@ -1,5 +1,10 @@
 Components:
-(1): 
+- Header
+- Footer
+- Search Field
+- Anchor Button
+- 
+
 
 
 Page:

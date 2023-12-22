@@ -12,7 +12,11 @@ Components:
 - Countdown
 - Checkbox
 - Modal
-- float sidebar
+- Float sidebar
+- Check Butoon
+- Accordian
+- Breadcrumb
+- Fixed Side Button
 - 
 
 

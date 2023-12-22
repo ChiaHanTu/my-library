@@ -19,9 +19,7 @@ Components:
 - Fixed Side Button
 - Textarea
 - Mobile Menu
-- Select
-- Mobile Share Button
-- 
+- Select 
 
 
 

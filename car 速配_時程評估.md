@@ -15,10 +15,9 @@ Components:
 - Check Butoon
 - tabs 0.5
 - Breadcrumb 0.5
-- Fixed Side Button
-- Textarea
-- Mobile Menu
-- 
+- Fixed Side Button 0.5
+- Textarea 0.25
+- Mobile Menu 0.5
 
 
 

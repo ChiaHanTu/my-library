@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "Compass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4cdd0bf31ea2412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "car 速配時程評估.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "car 速配時程評估.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "car 速配時程評估.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Work Principle.md"
+                "file": "car 速配時程評估.md"
               }
             }
           },
@@ -180,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "car 速配時程評估.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,13 +242,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "faa5a6626c557777",
+  "active": "b4cdd0bf31ea2412",
   "lastOpenFiles": [
+    "Compass.md",
+    "car 速配時程評估.md",
+    "principle/Work Principle.md",
     "principle/Render Mode.md",
     "TypeScript/Method.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Mapped Types 映射類型.md",
-    "Compass.md",
     "Regular Expression 正則表達式.md",
     "Network/Worker.md",
     "JavaScript/傳值 v.s 傳址.md",
@@ -243,7 +258,6 @@
     "assets/img/Pasted image 20231220155813.png",
     "Markdown.md",
     "Interview Questions.md",
-    "principle/Work Principle.md",
     "Test/Practice Note.md",
     "Test/Test Method.md",
     "CSS/Hide date placeholder.md",

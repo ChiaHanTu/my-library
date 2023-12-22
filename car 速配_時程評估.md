@@ -14,7 +14,7 @@ Components:
 - Float sidebar 0.5
 - Check Butoon
 - tabs 0.5
-- Breadcrumb
+- Breadcrumb 0.5
 - Fixed Side Button
 - Textarea
 - Mobile Menu

@@ -2,6 +2,7 @@ Components:
 - Header 0.5
 - Footer 0.25
 - Select 0.5
+- DatePicker 0.5
 - Button 0.5
 - Anchor Button 0.25
 - Product Block 0.5
@@ -22,7 +23,7 @@ Components:
 
 
 Page:
-- 首頁 0.0.0.0
+- 首頁 0.0.0.0 
 - 登入 1.1.0.0
 - 註冊 1.2.0.0
 - OTP 驗證 1.2.1.0, 1.3.1.0

@@ -13,6 +13,7 @@ Components:
 - Accordian 0.5
 - Float sidebar 0.5
 - Check Butoon
+- tabs 0.5
 - Breadcrumb
 - Fixed Side Button
 - Textarea

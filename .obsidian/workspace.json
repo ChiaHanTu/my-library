@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "principle/Work Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "principle/Work Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "principle/Work Principle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Method.md"
+                "file": "principle/Work Principle.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "principle/Work Principle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,10 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "principle/Render Mode.md",
+    "TypeScript/Method.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Mapped Types 映射類型.md",
-    "TypeScript/Method.md",
     "Compass.md",
     "Regular Expression 正則表達式.md",
     "Network/Worker.md",
@@ -243,7 +244,6 @@
     "Markdown.md",
     "Interview Questions.md",
     "principle/Work Principle.md",
-    "principle/Render Mode.md",
     "Test/Practice Note.md",
     "Test/Test Method.md",
     "CSS/Hide date placeholder.md",

@@ -6,11 +6,10 @@ Components:
 - Anchor Button 0.25
 - Product Block 0.5
 - Swiper 1
-- Filter 
-- TextField
-- Radio
-- Countdown
-- Checkbox
+- TextField 0.5
+- Radio 0.25
+- Countdown 0.5
+- Checkbox 
 - Modal
 - Float sidebar
 - Check Butoon

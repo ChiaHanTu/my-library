@@ -4,9 +4,9 @@ Components:
 - Select 0.5
 - Button 0.5
 - Anchor Button 0.25
-- Product Block 
-- Swiper
-- Filter
+- Product Block 0.5
+- Swiper 1
+- Filter 
 - TextField
 - Radio
 - Countdown

@@ -1,13 +1,13 @@
 Components:
 - Header 0.5
 - Footer 0.25
-- Select 
-- Search Field
+- Select 0.5
+- Button 0.5
+- Search Field 
 - Anchor Button
 - Product Block
 - Swiper
 - Filter
-- Button
 - TextField
 - Radio
 - Countdown

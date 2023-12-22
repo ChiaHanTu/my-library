@@ -4,27 +4,27 @@ Components:
 - Select 0.5
 - DatePicker 0.5
 - Button 0.5
-- Anchor Button 0.25
-- Product Block 0.5
-- Swiper 1
-- TextField 0.5
-- Checkbox 0.25
-- Countdown 0.5
-- Modal 0.5
-- Accordian 0.5
-- Float sidebar 0.5
-- tabs 0.5
-- Breadcrumb 0.5
-- Fixed Side Button 0.5
-- Textarea 0.25
-- Mobile Menu 0.5
+- Anchor Button - 0.25
+- Product Block - 0.5
+- Swiper - 1
+- TextField - 0.5
+- Checkbox - 0.25
+- Countdown - 0.5
+- Modal - 0.5
+- Accordian - 0.5
+- Float sidebar - 0.5
+- tabs - 0.5
+- Breadcrumb - 0.5
+- Fixed Side Button - 0.5
+- Textarea - 0.25
+- Mobile Menu - 0.5
 
 
 
 Page:
-- 首頁 0.0.0.0 
-- 登入 1.1.0.0
-- 註冊 1.2.0.0
+- 首頁 0.0.0.0 - 1
+- 登入 1.1.0.0 - 0.5
+- 註冊 1.2.0.0 0.5
 - OTP 驗證 1.2.1.0, 1.3.1.0
 - 忘記密碼 1.3.0.0
 - 設定新密碼 1.3.2.0

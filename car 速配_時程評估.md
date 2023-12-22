@@ -3,9 +3,8 @@ Components:
 - Footer 0.25
 - Select 0.5
 - Button 0.5
-- Search Field 
-- Anchor Button
-- Product Block
+- Anchor Button 0.25
+- Product Block 
 - Swiper
 - Filter
 - TextField

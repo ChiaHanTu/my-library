@@ -1,4 +1,4 @@
-Pug buffer: 8
+Pug buffer: 1
 
 Components:
 - Header - 0.5
@@ -47,3 +47,5 @@ Page:
 - （彈窗）認證車資訊 2.1.1.2 - 0.25
 - *（ pdf 新分頁） 車輛車資訊 2.1.1.3 *
 - （彈窗）車輛比較 2.1.2.0 - 1
+
+## total: 

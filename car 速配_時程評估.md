@@ -3,7 +3,7 @@ Components:
 - Footer
 - Search Field
 - Anchor Button
-- 
+- Merch 
 
 
 

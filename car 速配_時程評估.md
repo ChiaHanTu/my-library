@@ -1,3 +1,5 @@
+Pug buffer: 8
+
 Components:
 - Header - 0.5
 - Footer - 0.25
@@ -13,7 +15,7 @@ Components:
 - Modal - 0.5
 - Accordian - 0.5
 - Float sidebar - 0.5
-- tabs - 0.5
+- Tabs - 0.5
 - Breadcrumb - 0.5
 - Fixed Side Button - 0.5
 - Textarea - 0.25
@@ -41,7 +43,7 @@ Page:
 - 中古車資訊內頁 2.1.1.0 - 2
 	- 登入與未登入狀態
 	- Tabs: 車輛資訊、車輛配備、車商資訊
-- （彈窗）預約賞車 2.1.1.1
-- （彈窗）認證車資訊 2.1.1.2
+- （彈窗）預約賞車 2.1.1.1 - 1
+- （彈窗）認證車資訊 2.1.1.2 - 0.25
 - *（ pdf 新分頁） 車輛車資訊 2.1.1.3 *
-- （彈窗）車輛比較 2.1.2.0
+- （彈窗）車輛比較 2.1.2.0 - 1

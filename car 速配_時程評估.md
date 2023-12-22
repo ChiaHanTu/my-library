@@ -17,6 +17,8 @@ Components:
 - Accordian
 - Breadcrumb
 - Fixed Side Button
+- Textarea
+- Mobile Menu
 - 
 
 

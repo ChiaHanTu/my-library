@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "26cc3bedc13c8e99",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +229,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "26cc3bedc13c8e99",
+  "active": "faa5a6626c557777",
   "lastOpenFiles": [
     "car 速配_時程評估.md",
     "Markdown.md",

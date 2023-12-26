@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compass.md",
+                "file": "JavaScript/柯里化函數.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compass.md",
+                "file": "JavaScript/柯里化函數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compass.md",
+                "file": "JavaScript/柯里化函數.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compass.md"
+                "file": "JavaScript/柯里化函數.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Compass.md",
+                "file": "JavaScript/柯里化函數.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,10 +231,11 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Compass.md",
+    "JavaScript/柯里化函數.md",
     "car 速配_時程評估.md",
     "Markdown.md",
     "Regular Expression 正則表達式.md",
-    "Compass.md",
     "principle/Work Principle.md",
     "principle/Render Mode.md",
     "TypeScript/Method.md",
@@ -259,7 +260,6 @@
     "patterns/設計模式.md",
     "patterns",
     "JavaScript/Factory function 工廠函數.md",
-    "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript",
     "Pasted image 20231130161429.png",
     "OS",

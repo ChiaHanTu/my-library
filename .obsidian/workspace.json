@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "JavaScript/Parsing process.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "JavaScript/Parsing process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "JavaScript/Parsing process.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Work Principle.md"
+                "file": "JavaScript/Parsing process.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle/Work Principle.md",
+                "file": "JavaScript/Parsing process.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,11 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Vite/index.md",
+    "JavaScript/Parsing process.md",
+    "Vite/環境變量 env.md",
+    "OS/Linux.md",
+    "principle/Work Principle.md",
     "principle/Render Mode.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/柯里化函數.md",
@@ -238,7 +243,6 @@
     "car 速配_時程評估.md",
     "Markdown.md",
     "Regular Expression 正則表達式.md",
-    "principle/Work Principle.md",
     "TypeScript/Method.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Mapped Types 映射類型.md",
@@ -253,12 +257,8 @@
     "CSS",
     "().md",
     "Network/CSP Content-Security-Policy.md",
-    "Vite/環境變量 env.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",
-    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
-    "Info Security/雜湊 Hash.md",
-    "patterns/設計模式.md",
     "patterns",
     "JavaScript",
     "Pasted image 20231130161429.png",

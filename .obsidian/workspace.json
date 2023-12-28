@@ -231,13 +231,14 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
-    "Vite/index.md",
+    "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
+    "assets/img/Script-tag-loading-visualized.jpeg",
     "JavaScript/Parsing process.md",
+    "Vite/index.md",
     "Vite/環境變量 env.md",
     "OS/Linux.md",
     "principle/Work Principle.md",
     "principle/Render Mode.md",
-    "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/柯里化函數.md",
     "Compass.md",
     "car 速配_時程評估.md",
@@ -258,7 +259,6 @@
     "().md",
     "Network/CSP Content-Security-Policy.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
-    "Info Security/SQL Injection.md",
     "patterns",
     "JavaScript",
     "Pasted image 20231130161429.png",
@@ -275,7 +275,6 @@
     "Test",
     "assets/img/SSR_principle.png",
     "assets/img",
-    "assets",
-    "Pasted image 20230923003738.png"
+    "assets"
   ]
 }

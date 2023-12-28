@@ -16,7 +16,7 @@
 
 ## FID First Input Delay 首次輸入延遲
 
-> 使用者第一次與網站互動時，瀏覽器執行事件處理回應時間
+> 使用者第一次與網站互動時至瀏覽器執行事件處理的時間
 
 
 ## CLS Cumulative Layout Shift 累積佈局偏移
@@ -26,7 +26,7 @@
 
 ## TTI Time To Interact  可互動時間
 
-> 網頁要花多久時間讓用戶可以與網頁互動
+> 網頁要花多久時間才讓用戶可以與網頁互動
 
 
 ## TBT Total Blocking Time 總阻塞時間

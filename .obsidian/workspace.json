@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Parsing process.md",
+                "file": "Network/Performance.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Parsing process.md",
+                "file": "Network/Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Parsing process.md",
+                "file": "Network/Performance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Parsing process.md"
+                "file": "Network/Performance.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript/Parsing process.md",
+                "file": "Network/Performance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,12 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Network/Mechanism.md",
+    "Network/Performance.md",
+    "Network/CSP Content-Security-Policy.md",
+    "JavaScript/Parsing process.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "assets/img/Script-tag-loading-visualized.jpeg",
-    "JavaScript/Parsing process.md",
     "Vite/index.md",
     "Vite/環境變量 env.md",
     "OS/Linux.md",
@@ -257,8 +260,6 @@
     "CSS/Hide date placeholder.md",
     "CSS",
     "().md",
-    "Network/CSP Content-Security-Policy.md",
-    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "patterns",
     "JavaScript",
     "Pasted image 20231130161429.png",

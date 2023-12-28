@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "principle/Work Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "principle/Work Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "principle/Work Principle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Render Mode.md"
+                "file": "principle/Work Principle.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "principle/Work Principle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,7 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "principle/Render Mode.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/柯里化函數.md",
     "Compass.md",
@@ -238,7 +239,6 @@
     "Markdown.md",
     "Regular Expression 正則表達式.md",
     "principle/Work Principle.md",
-    "principle/Render Mode.md",
     "TypeScript/Method.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Mapped Types 映射類型.md",

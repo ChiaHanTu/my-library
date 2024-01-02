@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compass.md",
+                "file": "Test/Practice Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compass.md",
+                "file": "Test/Practice Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compass.md",
+                "file": "Test/Practice Note.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compass.md"
+                "file": "Test/Practice Note.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Compass.md",
+                "file": "Test/Practice Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,9 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Test/Test Method.md",
+    "Test/Practice Note.md",
+    "Compass.md",
     "car 速配_時程評估.md",
     "Network/Performance.md",
     "Network/Mechanism.md",
@@ -244,7 +247,6 @@
     "principle/Work Principle.md",
     "principle/Render Mode.md",
     "JavaScript/柯里化函數.md",
-    "Compass.md",
     "Markdown.md",
     "Regular Expression 正則表達式.md",
     "TypeScript/Method.md",
@@ -255,8 +257,6 @@
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "assets/img/Pasted image 20231220155813.png",
     "Interview Questions.md",
-    "Test/Practice Note.md",
-    "Test/Test Method.md",
     "CSS/Hide date placeholder.md",
     "CSS",
     "().md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
+                "file": "Test/Practice Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
+                "file": "Test/Practice Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
+                "file": "Test/Practice Note.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md"
+                "file": "Test/Practice Note.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
+                "file": "Test/Practice Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,16 +231,18 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Test/Test Method.md",
+    "Test/Practice Note.md",
+    "TypeScript/Method.md",
+    "TypeScript/tsconfig.json.md",
+    "TypeScript/Mapped Types 映射類型.md",
+    "principle/Render Mode.md",
+    "patterns/設計模式.md",
+    "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/柯里化函數.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
-    "principle/Render Mode.md",
     "principle/Work Principle.md",
-    "Test/Practice Note.md",
-    "Test/Test Method.md",
-    "TypeScript/Mapped Types 映射類型.md",
-    "TypeScript/Method.md",
-    "TypeScript/tsconfig.json.md",
     "Interview Questions.md",
     "Compass.md",
     "Regular Expression 正則表達式.md",
@@ -250,7 +252,6 @@
     "Network/Mechanism.md",
     "Network/CSP Content-Security-Policy.md",
     "JavaScript/Parsing process.md",
-    "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "Vite/index.md",
     "Vite/環境變量 env.md",
@@ -258,7 +259,6 @@
     "Network/Worker.md",
     "JavaScript/傳值 v.s 傳址.md",
     "assets/img/Pasted image 20231220155813.png",
-    "CSS/Hide date placeholder.md",
     "CSS",
     "patterns",
     "JavaScript",

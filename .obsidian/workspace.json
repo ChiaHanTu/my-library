@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compass.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compass.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compass.md",
+                "file": "Markdown.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compass.md"
+                "file": "Markdown.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Compass.md",
+                "file": "Markdown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,14 +231,16 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
-    "Interview Questions.md",
     "Regular Expression 正則表達式.md",
+    "Vue/Style-guide.md",
+    "TypeScript/Mapped Types 映射類型.md",
+    "Compass.md",
+    "Interview Questions.md",
     "JavaScript/Parsing process.md",
     "Test/Practice Note.md",
     "Test/Test Method.md",
     "TypeScript/Method.md",
     "TypeScript/tsconfig.json.md",
-    "TypeScript/Mapped Types 映射類型.md",
     "principle/Render Mode.md",
     "patterns/設計模式.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
@@ -246,7 +248,6 @@
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "principle/Work Principle.md",
-    "Compass.md",
     "car 速配_時程評估.md",
     "Markdown.md",
     "Network/Performance.md",
@@ -257,7 +258,6 @@
     "Vite/環境變量 env.md",
     "OS/Linux.md",
     "Network/Worker.md",
-    "JavaScript/傳值 v.s 傳址.md",
     "assets/img/Pasted image 20231220155813.png",
     "CSS",
     "patterns",

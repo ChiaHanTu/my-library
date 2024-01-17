@@ -1,8 +1,8 @@
 # Client Side Render
 
 1. 空 HTML 被送至瀏覽器
-2. 瀏覽器在背景下載並運行 JavaScript 
-3. 進行 Hydration 注入 JavaScript，賦予畫面互動性
+2. 瀏覽器下載並運行 JavaScript 
+3. 畫面被渲染並具有互動性
 
 > 頁面切換較為快速
 
@@ -11,9 +11,9 @@
 
 # Server Side Render
 
-
-2. 瀏覽器下載並運行 JavaScript 
-3. 畫面被渲染並具有互動性
+1. HTML 被送至瀏覽器並渲染到畫面上
+2. 瀏覽器在背景下載並運行 JavaScript
+3. 進行 Hydration 注入 JavaScript，賦予畫面互動性
 
 > 有利於 SEO (Search Engine Optimization 搜尋引擎優化)
 

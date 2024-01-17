@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/作用域.md",
+                "file": "JavaScript/for 迴圈比較.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/作用域.md",
+                "file": "JavaScript/for 迴圈比較.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/作用域.md",
+                "file": "JavaScript/for 迴圈比較.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/作用域.md"
+                "file": "JavaScript/for 迴圈比較.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript/作用域.md",
+                "file": "JavaScript/for 迴圈比較.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,11 +231,12 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "JavaScript/作用域.md",
+    "JavaScript/for 迴圈比較.md",
     "Network/CSP Content-Security-Policy.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/柯里化函數.md",
-    "JavaScript/作用域.md",
     "Interview.md",
     "Pasted image 20240117135721.png",
     "Compass.md",
@@ -257,7 +258,6 @@
     "Network/Worker.md",
     "Network/Serialize & Unserialize.md",
     "Algorithm/Big O notation.md",
-    "JavaScript/Parsing process.md",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",
     "CSS",

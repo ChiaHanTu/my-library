@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Network/Performance.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Network/Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Network/Performance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Render Mode.md"
+                "file": "Network/Performance.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Network/Performance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,11 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Network/Race Condition 競態條件.md",
+    "Network/Performance.md",
+    "Network/Mechanism.md",
+    "Network/CSP Content-Security-Policy.md",
+    "principle/Render Mode.md",
     "Interview.md",
     "Markdown.md",
     "Regular Expression 正則表達式.md",
@@ -245,16 +250,11 @@
     "OS/Linux.md",
     "Network/Worker.md",
     "Network/Serialize & Unserialize.md",
-    "Network/Race Condition 競態條件.md",
-    "Network/Performance.md",
-    "Network/Mechanism.md",
-    "Network/CSP Content-Security-Policy.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/柯里化函數.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "Algorithm/Big O notation.md",
     "JavaScript/Parsing process.md",
-    "principle/Render Mode.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "principle/Work Principle.md",
     "assets/img/Script-tag-loading-visualized.jpeg",

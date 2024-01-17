@@ -231,9 +231,10 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Pasted image 20240117135721.png",
+    "Interview.md",
     "Compass.md",
     "principle/Render Mode.md",
-    "Interview.md",
     "Network/Performance.md",
     "Network/Mechanism.md",
     "principle/Work Principle.md",
@@ -256,7 +257,6 @@
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "Algorithm/Big O notation.md",
     "JavaScript/Parsing process.md",
-    "JavaScript/Object.assign() v.s Object spread operator.md",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",
     "CSS",
@@ -274,7 +274,6 @@
     "assets/img/Pasted image 20231123100724.png",
     "白箱測試 **Clear box testing ",
     "Test",
-    "assets/img/SSR_principle.png",
     "assets/img",
     "assets"
   ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview.md",
+                "file": "principle/Render Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview.md",
+                "file": "principle/Render Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview.md",
+                "file": "principle/Render Mode.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview.md"
+                "file": "principle/Render Mode.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Interview.md",
+                "file": "principle/Render Mode.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,10 +231,10 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Interview.md",
     "Network/Performance.md",
     "Network/Mechanism.md",
     "principle/Work Principle.md",
-    "Interview.md",
     "principle/Render Mode.md",
     "Network/Race Condition 競態條件.md",
     "Network/CSP Content-Security-Policy.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/for 迴圈比較.md",
+                "file": "Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/for 迴圈比較.md",
+                "file": "Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/for 迴圈比較.md",
+                "file": "Interview.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/for 迴圈比較.md"
+                "file": "Interview.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript/for 迴圈比較.md",
+                "file": "Interview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,8 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
-    "JavaScript/作用域.md",
     "JavaScript/for 迴圈比較.md",
+    "JavaScript/作用域.md",
     "Network/CSP Content-Security-Policy.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",

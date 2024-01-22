@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown.md",
+                "file": "Test/Test Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown.md",
+                "file": "Test/Test Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown.md",
+                "file": "Test/Test Method.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown.md"
+                "file": "Test/Test Method.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Markdown.md",
+                "file": "Test/Test Method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,8 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "Test/Practice Note.md",
+    "Markdown.md",
     "Interview.md",
     "JavaScript/for 迴圈比較.md",
     "JavaScript/作用域.md",
@@ -245,14 +247,12 @@
     "Network/Mechanism.md",
     "principle/Work Principle.md",
     "Network/Race Condition 競態條件.md",
-    "Markdown.md",
     "Regular Expression 正則表達式.md",
     "Vue/Style-guide.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Method.md",
     "TypeScript/Mapped Types 映射類型.md",
     "Test/Test Method.md",
-    "Test/Practice Note.md",
     "patterns/設計模式.md",
     "OS/Linux.md",
     "Network/Worker.md",

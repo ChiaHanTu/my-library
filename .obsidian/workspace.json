@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "patterns/設計模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "patterns/設計模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "patterns/設計模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/開發模式.md"
+                "file": "patterns/設計模式.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "patterns/設計模式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,9 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "patterns/開發模式.md",
     "patterns/設計模式.md",
     "Network/CSP Content-Security-Policy.md",
-    "patterns/開發模式.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
     "Markdown.md",

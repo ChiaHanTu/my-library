@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "patterns/開發模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "patterns/開發模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "patterns/開發模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Test Method.md"
+                "file": "patterns/開發模式.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "patterns/開發模式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,12 +231,15 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
+    "patterns/設計模式.md",
+    "Network/CSP Content-Security-Policy.md",
+    "patterns/開發模式.md",
+    "Test/Test Method.md",
     "Test/Practice Note.md",
     "Markdown.md",
     "Interview.md",
     "JavaScript/for 迴圈比較.md",
     "JavaScript/作用域.md",
-    "Network/CSP Content-Security-Policy.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/柯里化函數.md",
@@ -252,12 +255,9 @@
     "TypeScript/tsconfig.json.md",
     "TypeScript/Method.md",
     "TypeScript/Mapped Types 映射類型.md",
-    "Test/Test Method.md",
-    "patterns/設計模式.md",
     "OS/Linux.md",
     "Network/Worker.md",
     "Network/Serialize & Unserialize.md",
-    "Algorithm/Big O notation.md",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",
     "CSS",

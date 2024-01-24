@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/設計模式.md"
+                "file": "patterns/SOLID 設計原則.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,9 @@
   },
   "active": "faa5a6626c557777",
   "lastOpenFiles": [
-    "patterns/開發模式.md",
     "patterns/設計模式.md",
+    "patterns/SOLID 設計原則.md",
+    "patterns/開發模式.md",
     "Network/CSP Content-Security-Policy.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
@@ -257,7 +258,6 @@
     "TypeScript/Mapped Types 映射類型.md",
     "OS/Linux.md",
     "Network/Worker.md",
-    "Network/Serialize & Unserialize.md",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",
     "CSS",

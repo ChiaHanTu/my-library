@@ -39,4 +39,4 @@
 
 ## 介面隔離原則 I - Interface-segregation principles
 
-> 
+> 目的是系統解開耦合，從而容易重構，更改和重新部署

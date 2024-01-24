@@ -24,4 +24,4 @@
 
 ## 里氏替換原則 L - Liskov Substitution principle
 
-> 
+>  一個類別可以被一個子類別替換而不會造成程式碼的錯誤。

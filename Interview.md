@@ -30,7 +30,7 @@
 > 處理大檔案的上傳與下載  
   
 > 上傳（10GB)  
-1. 以 20MB 為單位切分Chunks  
+1. 以 20MB 為單位切分 Chunks  
 2. ChunkList 計算校驗值（Checksum)檢驗是否有上傳過  
 3. 若無，Promise.all 併發上傳至 Azure Server  
 4. 實時回傳上傳進度（算術平均數）  

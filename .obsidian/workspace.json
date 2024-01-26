@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54296d98ba03a0d9",
+        "id": "c1a146b0e0669a55",
         "type": "tabs",
         "children": [
           {
-            "id": "faa5a6626c557777",
+            "id": "b70484e272dbd49b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -229,10 +229,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "faa5a6626c557777",
+  "active": "b70484e272dbd49b",
   "lastOpenFiles": [
-    "Interview.md",
+    "JavaScript/Object.assign() v.s Object spread operator.md",
+    "JavaScript/傳值 v.s 傳址.md",
+    "JavaScript/深拷貝 v.s 淺拷貝.md",
+    "JavaScript/作用域.md",
     "Markdown.md",
+    "Interview.md",
     "patterns/SOLID 設計原則.md",
     "patterns/設計模式.md",
     "patterns/開發模式.md",
@@ -240,8 +244,6 @@
     "Test/Test Method.md",
     "Test/Practice Note.md",
     "JavaScript/for 迴圈比較.md",
-    "JavaScript/作用域.md",
-    "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/柯里化函數.md",
     "Pasted image 20240117135721.png",
@@ -256,8 +258,6 @@
     "TypeScript/tsconfig.json.md",
     "TypeScript/Method.md",
     "TypeScript/Mapped Types 映射類型.md",
-    "OS/Linux.md",
-    "Network/Worker.md",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",
     "CSS",

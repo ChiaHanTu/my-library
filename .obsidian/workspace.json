@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle/Render Mode.md"
+                "file": "Network/CSP Content-Security-Policy.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,10 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
-    "principle/Work Principle.md",
+    "Test/Test Method.md",
+    "Test/Practice Note.md",
     "principle/Render Mode.md",
+    "principle/Work Principle.md",
     "patterns/SOLID 設計原則.md",
     "Network/Serialize & Unserialize.md",
     "Network/Worker.md",
@@ -250,8 +252,6 @@
     "JavaScript/作用域.md",
     "patterns/設計模式.md",
     "patterns/開發模式.md",
-    "Test/Test Method.md",
-    "Test/Practice Note.md",
     "JavaScript/for 迴圈比較.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/柯里化函數.md",

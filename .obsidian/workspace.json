@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Practice Note.md",
+                "file": "Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Practice Note.md",
+                "file": "Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/Practice Note.md",
+                "file": "Interview.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Practice Note.md"
+                "file": "Interview.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test/Practice Note.md",
+                "file": "Interview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,9 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "Test/Practice Note.md",
     "Network/CSP Content-Security-Policy.md",
     "Test/Test Method.md",
-    "Test/Practice Note.md",
     "principle/Render Mode.md",
     "principle/Work Principle.md",
     "patterns/SOLID 設計原則.md",

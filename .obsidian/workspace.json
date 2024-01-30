@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md"
+                "file": "Network/CSP Content-Security-Policy.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,7 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "TypeScript/Mapped Types 映射類型.md",
     "Test/Test Method.md",
     "OS/Linux.md",
     "patterns/開發模式.md",
@@ -256,7 +257,6 @@
     "Vite/環境變量 env.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Method.md",
-    "TypeScript/Mapped Types 映射類型.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

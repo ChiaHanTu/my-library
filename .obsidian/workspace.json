@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md"
+                "file": "TypeScript/Mapped Types 映射類型.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,10 +231,16 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "Test/Test Method.md",
+    "OS/Linux.md",
+    "patterns/開發模式.md",
+    "patterns/設計模式.md",
+    "Network/Worker.md",
+    "Network/Serialize & Unserialize.md",
     "Network/Race Condition 競態條件.md",
     "Network/Performance.md",
-    "Network/CSP Content-Security-Policy.md",
     "Network/Mechanism.md",
+    "Network/CSP Content-Security-Policy.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",
     "Info Security/CSS Injection.md",
@@ -251,12 +257,6 @@
     "TypeScript/tsconfig.json.md",
     "TypeScript/Method.md",
     "TypeScript/Mapped Types 映射類型.md",
-    "Test/Test Method.md",
-    "Test/Practice Note.md",
-    "principle/Work Principle.md",
-    "principle/Render Mode.md",
-    "patterns/SOLID 設計原則.md",
-    "patterns/開發模式.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

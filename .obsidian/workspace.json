@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "principle/Render Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "principle/Render Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "principle/Render Mode.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md"
+                "file": "principle/Render Mode.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "principle/Render Mode.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +231,16 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "principle/Work Principle.md",
     "TypeScript/Mapped Types 映射類型.md",
+    "TypeScript/Method.md",
+    "TypeScript/tsconfig.json.md",
+    "Vue/Style-guide.md",
+    "Regular Expression 正則表達式.md",
+    "Markdown.md",
+    "Compass.md",
+    "Interview.md",
+    "Network/CSP Content-Security-Policy.md",
     "Test/Test Method.md",
     "OS/Linux.md",
     "patterns/開發模式.md",
@@ -241,7 +250,6 @@
     "Network/Race Condition 競態條件.md",
     "Network/Performance.md",
     "Network/Mechanism.md",
-    "Network/CSP Content-Security-Policy.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",
     "Info Security/CSS Injection.md",
@@ -249,14 +257,6 @@
     "Info Security/雜湊 Hash.md",
     "Browser mechanism/HTTP Cache.md",
     "Algorithm/Big O notation.md",
-    "Regular Expression 正則表達式.md",
-    "Markdown.md",
-    "Compass.md",
-    "Vue/Style-guide.md",
-    "Vite/index.md",
-    "Vite/環境變量 env.md",
-    "TypeScript/tsconfig.json.md",
-    "TypeScript/Method.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

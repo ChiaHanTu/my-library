@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "Markdown.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Big O notation.md"
+                "file": "Markdown.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "Markdown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,8 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "Regular Expression 正則表達式.md",
+    "Algorithm/Big O notation.md",
     "principle/Render Mode.md",
     "Compass.md",
     "Interview.md",
@@ -239,7 +241,6 @@
     "TypeScript/Method.md",
     "TypeScript/tsconfig.json.md",
     "Vue/Style-guide.md",
-    "Regular Expression 正則表達式.md",
     "Markdown.md",
     "Network/CSP Content-Security-Policy.md",
     "Test/Test Method.md",
@@ -256,7 +257,6 @@
     "Info Security/CSS Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Info Security/雜湊 Hash.md",
-    "Browser mechanism/HTTP Cache.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

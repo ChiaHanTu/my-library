@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/開發模式.md"
+                "file": "TypeScript/Mapped Types 映射類型.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "TypeScript/Mapped Types 映射類型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,32 +231,32 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
-    "patterns/設計模式.md",
-    "principle/Work Principle.md",
-    "principle/Render Mode.md",
-    "Test/Test Method.md",
-    "TypeScript/Method.md",
-    "TypeScript/tsconfig.json.md",
-    "Vite/環境變量 env.md",
     "Vite/index.md",
-    "Markdown.md",
-    "Regular Expression 正則表達式.md",
-    "JavaScript/Parsing process.md",
-    "JavaScript/Object.assign() v.s Object spread operator.md",
-    "JavaScript/傳值 v.s 傳址.md",
-    "JavaScript/深拷貝 v.s 淺拷貝.md",
+    "Vite/環境變量 env.md",
+    "Vue/Style-guide.md",
+    "patterns/開發模式.md",
+    "patterns/SOLID 設計原則.md",
+    "patterns/設計模式.md",
+    "Algorithm/Big O notation.md",
+    "Browser mechanism/DOM 的事件傳遞機制.md",
+    "Browser mechanism/HTTP Cache.md",
+    "CSS/Hide date placeholder.md",
+    "Info Security/CSS Injection.md",
+    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
+    "Info Security/雜湊 Hash.md",
     "JavaScript/作用域.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
+    "JavaScript/柯里化函數.md",
+    "JavaScript/深拷貝 v.s 淺拷貝.md",
+    "JavaScript/傳值 v.s 傳址.md",
+    "JavaScript/for 迴圈比較.md",
+    "JavaScript/Parsing process.md",
+    "JavaScript/Object.assign() v.s Object spread operator.md",
     "Network/Worker.md",
     "Network/Serialize & Unserialize.md",
     "Network/Race Condition 競態條件.md",
     "Network/Performance.md",
     "Network/Mechanism.md",
-    "Network/CSP Content-Security-Policy.md",
-    "OS/Linux.md",
-    "patterns/開發模式.md",
-    "patterns/SOLID 設計原則.md",
-    "Test/Practice Note.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

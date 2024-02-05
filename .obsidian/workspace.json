@@ -231,6 +231,7 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "README.md",
     "TypeScript/Mapped Types 映射類型.md",
     "TypeScript/Method.md",
     "Vite/index.md",
@@ -256,7 +257,6 @@
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "Network/Worker.md",
     "Network/Serialize & Unserialize.md",
-    "Network/Race Condition 競態條件.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

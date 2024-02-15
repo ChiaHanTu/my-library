@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "Algorithm/Big O notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "Algorithm/Big O notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "Algorithm/Big O notation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Method.md"
+                "file": "Algorithm/Big O notation.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TypeScript/Method.md",
+                "file": "Algorithm/Big O notation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,9 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "TypeScript/Method.md",
     "README.md",
     "TypeScript/Mapped Types 映射類型.md",
-    "TypeScript/Method.md",
     "Vite/index.md",
     "Vite/環境變量 env.md",
     "Vue/Style-guide.md",

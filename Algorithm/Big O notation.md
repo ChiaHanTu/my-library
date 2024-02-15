@@ -33,3 +33,5 @@
 名詞：
 1. 上界：執行的邊界值
 2. n：輸入值的長度
+3. The Ω symbol is used to denote the best case of an algorithm, such as Ω(log⁡n).
+4. The Θ symbol is used to denote where the upper bound and lower bound are the same, where the best case and the worst case running times are the same.

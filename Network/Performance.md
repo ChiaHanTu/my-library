@@ -16,7 +16,7 @@
 
 ## FID First Input Delay 首次輸入延遲 (deprecated)
 
-> 使用者第一次與網站互動時至瀏覽器執行事件處理的時間，將於 2024 年 3 月 12 日移除，並由 INP ()
+> 使用者第一次與網站互動時至瀏覽器執行事件處理的時間，將於 2024 年 3 月 12 日移除，並由 INP (Interaction to Next Paint)，
 
 
 ## CLS Cumulative Layout Shift 累積佈局偏移

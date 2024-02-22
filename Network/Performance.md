@@ -14,9 +14,9 @@
 > 網頁載入過程中「首個最大內容的出現所需的時間」，包含 `<img>`、`<video>`、透過 `url()`函數加載帶有背景圖像的元素
 
 
-## FID First Input Delay 首次輸入延遲
+## FID First Input Delay 首次輸入延遲 (deprecated)
 
-> 使用者第一次與網站互動時至瀏覽器執行事件處理的時間
+> 使用者第一次與網站互動時至瀏覽器執行事件處理的時間，將於 2024 年 3 月 12 日移除，並由 INP ()
 
 
 ## CLS Cumulative Layout Shift 累積佈局偏移

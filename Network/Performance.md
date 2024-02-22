@@ -34,7 +34,6 @@
 > 測量 FCP 與 TTI 之間主執行緒被阻塞而影響輸入回應性的時間，
 
 
-
-
+##  Interaction To Next Frame 
 
 

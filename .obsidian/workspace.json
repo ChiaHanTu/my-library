@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "Network/Performance.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "Network/Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "Network/Performance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Big O notation.md"
+                "file": "Network/Performance.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithm/Big O notation.md",
+                "file": "Network/Performance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,9 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "Network/Mechanism.md",
+    "Network/CSP Content-Security-Policy.md",
+    "Algorithm/Big O notation.md",
     "TypeScript/Method.md",
     "README.md",
     "TypeScript/Mapped Types 映射類型.md",
@@ -240,7 +243,6 @@
     "patterns/開發模式.md",
     "patterns/SOLID 設計原則.md",
     "patterns/設計模式.md",
-    "Algorithm/Big O notation.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Browser mechanism/HTTP Cache.md",
     "CSS/Hide date placeholder.md",
@@ -255,8 +257,6 @@
     "JavaScript/for 迴圈比較.md",
     "JavaScript/Parsing process.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
-    "Network/Worker.md",
-    "Network/Serialize & Unserialize.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

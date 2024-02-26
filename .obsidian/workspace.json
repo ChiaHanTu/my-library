@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c893a479635354b9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +229,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c893a479635354b9",
+  "active": "b70484e272dbd49b",
   "lastOpenFiles": [
     "Network/Mechanism.md",
     "Network/CSP Content-Security-Policy.md",

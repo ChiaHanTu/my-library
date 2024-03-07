@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Performance.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Performance.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Performance.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Performance.md"
+                "file": "patterns/SOLID 設計原則.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/Performance.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,32 +231,32 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "patterns/開發模式.md",
+    "patterns/設計模式.md",
+    "OS/Linux.md",
+    "Network/Worker.md",
+    "Network/Serialize & Unserialize.md",
+    "Network/Race Condition 競態條件.md",
+    "Network/Performance.md",
     "Network/mechanism.md",
     "Network/CSP Content-Security-Policy.md",
-    "JavaScript/Object.assign() v.s Object spread operator.md",
-    "JavaScript/Parsing process.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",
     "Info Security/CSS Injection.md",
-    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Info Security/雜湊 Hash.md",
+    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
+    "JavaScript/Object.assign() v.s Object spread operator.md",
+    "JavaScript/Parsing process.md",
     "CSS/hide date placeholder.md",
-    "patterns/設計模式.md",
-    "patterns/開發模式.md",
     "principle/Render Mode.md",
     "principle/Work Principle.md",
     "Markdown.md",
     "README.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Regular Expression 正則表達式.md",
-    "Network/Performance.md",
     "Network/Mechanism.md",
     "Algorithm/Big O notation.md",
     "TypeScript/Method.md",
-    "TypeScript/Mapped Types 映射類型.md",
-    "Vite/index.md",
-    "Vite/環境變量 env.md",
-    "Vue/Style-guide.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

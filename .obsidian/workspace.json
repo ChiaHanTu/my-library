@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Network/Web Socket.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Network/Web Socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Network/Web Socket.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Worker.md"
+                "file": "Network/Web Socket.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Network/Web Socket.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,9 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Network/Worker.md",
+    "Network/Web Socket.md",
+    "conflict-files-obsidian-git.md",
     "Network/Serialize & Unserialize.md",
     "Network/Race Condition 競態條件.md",
     "Network/Performance.md",
@@ -256,7 +257,6 @@
     "Info Security/雜湊 Hash.md",
     "JavaScript/作用域.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
-    "JavaScript/柯里化函數.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

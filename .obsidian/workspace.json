@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Performance.md",
+                "file": "Network/Worker.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Performance.md",
+                "file": "Network/Worker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Performance.md",
+                "file": "Network/Worker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Performance.md"
+                "file": "Network/Worker.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/Performance.md",
+                "file": "Network/Worker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,11 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
-    "Network/Mechanism.md",
+    "Network/Serialize & Unserialize.md",
+    "Network/Race Condition 競態條件.md",
+    "Network/Performance.md",
     "Network/CSP Content-Security-Policy.md",
+    "Network/Mechanism.md",
     "Algorithm/Big O notation.md",
     "TypeScript/Method.md",
     "README.md",
@@ -254,9 +257,6 @@
     "JavaScript/柯里化函數.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/傳值 v.s 傳址.md",
-    "JavaScript/for 迴圈比較.md",
-    "JavaScript/Parsing process.md",
-    "JavaScript/Object.assign() v.s Object spread operator.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

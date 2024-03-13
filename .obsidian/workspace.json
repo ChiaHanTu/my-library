@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/特殊符號.md",
+                "file": "JavaScript/型別判定相等.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/特殊符號.md",
+                "file": "JavaScript/型別判定相等.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/特殊符號.md",
+                "file": "JavaScript/型別判定相等.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/特殊符號.md"
+                "file": "JavaScript/型別判定相等.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript/特殊符號.md",
+                "file": "JavaScript/型別判定相等.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,10 +229,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b70484e272dbd49b",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
-    "JavaScript/型別轉換.md",
+    "assets/img/sameness_comparison.png",
     "JavaScript/特殊符號.md",
+    "JavaScript/型別判定相等.md",
+    "JavaScript/型別轉換.md",
     "patterns/SOLID 設計原則.md",
     "assets/img/type_transform.png",
     "Network/mechanism.md",
@@ -256,8 +258,6 @@
     "CSS/hide date placeholder.md",
     "principle/Render Mode.md",
     "principle/Work Principle.md",
-    "Markdown.md",
-    "README.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/型別判定相等.md",
+                "file": "Network/Web Socket.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/型別判定相等.md",
+                "file": "Network/Web Socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/型別判定相等.md",
+                "file": "Network/Web Socket.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/型別判定相等.md"
+                "file": "Network/Web Socket.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript/型別判定相等.md",
+                "file": "Network/Web Socket.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,46 +218,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "assets/img/type_transform.png",
     "assets/img/sameness_comparison.png",
     "JavaScript/特殊符號.md",
-    "JavaScript/型別判定相等.md",
     "JavaScript/型別轉換.md",
-    "patterns/SOLID 設計原則.md",
-    "assets/img/type_transform.png",
-    "Network/mechanism.md",
-    "conflict-files-obsidian-git.md",
-    "Network/Race Condition 競態條件.md",
-    "Network/Serialize & Unserialize.md",
-    "Network/CSP Content-Security-Policy.md",
-    "Network/Web Socket.md",
-    "patterns/開發模式.md",
-    "patterns/設計模式.md",
-    "OS/Linux.md",
+    "JavaScript/型別判定相等.md",
     "Network/Worker.md",
+    "Network/Web Socket.md",
+    "conflict-files-obsidian-git.md",
+    "Network/Serialize & Unserialize.md",
+    "Network/Race Condition 競態條件.md",
     "Network/Performance.md",
-    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
-    "Info Security/SQL Injection.md",
+    "Network/CSP Content-Security-Policy.md",
+    "Network/Mechanism.md",
+    "Algorithm/Big O notation.md",
+    "TypeScript/Method.md",
+    "README.md",
+    "TypeScript/Mapped Types 映射類型.md",
+    "Vite/index.md",
+    "Vite/環境變量 env.md",
+    "Vue/Style-guide.md",
+    "patterns/開發模式.md",
+    "patterns/SOLID 設計原則.md",
+    "patterns/設計模式.md",
+    "Browser mechanism/DOM 的事件傳遞機制.md",
+    "Browser mechanism/HTTP Cache.md",
+    "CSS/Hide date placeholder.md",
     "Info Security/CSS Injection.md",
-    "Info Security/雜湊 Hash.md",
-    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
-    "JavaScript/Object.assign() v.s Object spread operator.md",
-    "JavaScript/Parsing process.md",
-    "CSS/hide date placeholder.md",
-    "principle/Render Mode.md",
-    "principle/Work Principle.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

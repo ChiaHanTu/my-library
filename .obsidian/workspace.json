@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Web Socket.md",
+                "file": "Network/Performance.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Web Socket.md",
+                "file": "Network/Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Web Socket.md",
+                "file": "Network/Performance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Web Socket.md"
+                "file": "Network/Performance.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/Web Socket.md",
+                "file": "Network/Performance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,13 +231,13 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "Network/Web Socket.md",
     "assets/img/type_transform.png",
     "assets/img/sameness_comparison.png",
     "JavaScript/特殊符號.md",
     "JavaScript/型別轉換.md",
     "JavaScript/型別判定相等.md",
     "Network/Worker.md",
-    "Network/Web Socket.md",
     "conflict-files-obsidian-git.md",
     "Network/Serialize & Unserialize.md",
     "Network/Race Condition 競態條件.md",
@@ -272,7 +272,6 @@
     "assets/img/CSR_principle.png",
     "assets/img/Pasted image 20231123100744.png",
     "Untitled.canvas",
-    "assets/img/Pasted image 20231123100733.png",
     "白箱測試 **Clear box testing ",
     "Test",
     "assets/img",

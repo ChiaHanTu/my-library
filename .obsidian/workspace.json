@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Untitled.md",
+                "file": "JavaScript/檔名區分 .js, .cjs, .mjs.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Untitled.md",
+                "file": "JavaScript/檔名區分 .js, .cjs, .mjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Untitled.md",
+                "file": "JavaScript/檔名區分 .js, .cjs, .mjs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Untitled.md"
+                "file": "JavaScript/檔名區分 .js, .cjs, .mjs.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript/Untitled.md",
+                "file": "JavaScript/檔名區分 .js, .cjs, .mjs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
     "TypeScript/Mapped Types 映射類型.md",
-    "JavaScript/Untitled.md",
+    "JavaScript/檔名區分 .js, .cjs, .mjs.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Method.md",
     "Markdown.md",

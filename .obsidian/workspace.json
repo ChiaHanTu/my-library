@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "JavaScript/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "JavaScript/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "JavaScript/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md"
+                "file": "JavaScript/Untitled.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TypeScript/Mapped Types 映射類型.md",
+                "file": "JavaScript/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,10 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "TypeScript/Mapped Types 映射類型.md",
+    "JavaScript/Untitled.md",
+    "TypeScript/tsconfig.json.md",
+    "TypeScript/Method.md",
     "Markdown.md",
     "README.md",
     "Regular Expression 正則表達式.md",
@@ -255,10 +259,6 @@
     "Info Security/SQL Injection.md",
     "Info Security/CSS Injection.md",
     "Info Security/雜湊 Hash.md",
-    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
-    "JavaScript/Object.assign() v.s Object spread operator.md",
-    "JavaScript/Parsing process.md",
-    "CSS/hide date placeholder.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

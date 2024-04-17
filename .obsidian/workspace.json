@@ -231,8 +231,8 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
-    "Markdown.md",
     "patterns/設計模式.md",
+    "Markdown.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/傳值 v.s 傳址.md",
     "JavaScript/Parsing process.md",

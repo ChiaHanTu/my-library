@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "patterns/開發模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "patterns/開發模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "patterns/開發模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/設計模式.md"
+                "file": "patterns/開發模式.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "patterns/開發模式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,6 +232,7 @@
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
     "patterns/設計模式.md",
+    "patterns/開發模式.md",
     "Markdown.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/傳值 v.s 傳址.md",
@@ -256,7 +257,6 @@
     "Network/Serialize & Unserialize.md",
     "Network/CSP Content-Security-Policy.md",
     "Network/Web Socket.md",
-    "patterns/開發模式.md",
     "OS/Linux.md",
     "Network/Worker.md",
     "Pasted image 20240117135721.png",

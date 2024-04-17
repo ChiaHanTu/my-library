@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "Vite/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "Vite/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "Vite/index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Test Method.md"
+                "file": "Vite/index.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "Vite/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,17 +231,19 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
-    "Test/Practice Note.md",
-    "Test/Test Method.md",
-    "principle/Work Principle.md",
-    "principle/Render Mode.md",
-    "patterns/SOLID 設計原則.md",
+    "Vite/環境變量 env.md",
     "patterns/開發模式.md",
     "patterns/設計模式.md",
-    "Markdown.md",
-    "JavaScript/深拷貝 v.s 淺拷貝.md",
-    "JavaScript/傳值 v.s 傳址.md",
     "JavaScript/Parsing process.md",
+    "Test/Test Method.md",
+    "Test/Practice Note.md",
+    "JavaScript/深拷貝 v.s 淺拷貝.md",
+    "OS/Linux.md",
+    "patterns/SOLID 設計原則.md",
+    "principle/Work Principle.md",
+    "principle/Render Mode.md",
+    "Markdown.md",
+    "JavaScript/傳值 v.s 傳址.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "JavaScript/for 迴圈比較.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
@@ -257,8 +259,6 @@
     "assets/img/type_transform.png",
     "Network/mechanism.md",
     "conflict-files-obsidian-git.md",
-    "Network/Race Condition 競態條件.md",
-    "Network/Serialize & Unserialize.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

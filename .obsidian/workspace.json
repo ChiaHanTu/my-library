@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/開發模式.md"
+                "file": "patterns/SOLID 設計原則.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patterns/開發模式.md",
+                "file": "patterns/SOLID 設計原則.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,9 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
-    "patterns/設計模式.md",
     "patterns/開發模式.md",
+    "patterns/SOLID 設計原則.md",
+    "patterns/設計模式.md",
     "Markdown.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/傳值 v.s 傳址.md",
@@ -249,7 +250,6 @@
     "assets/img/sameness_comparison.png",
     "JavaScript/特殊符號.md",
     "JavaScript/型別轉換.md",
-    "patterns/SOLID 設計原則.md",
     "assets/img/type_transform.png",
     "Network/mechanism.md",
     "conflict-files-obsidian-git.md",

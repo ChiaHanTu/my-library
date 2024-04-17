@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/SOLID 設計原則.md",
+                "file": "Test/Test Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/SOLID 設計原則.md",
+                "file": "Test/Test Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/SOLID 設計原則.md",
+                "file": "Test/Test Method.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/SOLID 設計原則.md"
+                "file": "Test/Test Method.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patterns/SOLID 設計原則.md",
+                "file": "Test/Test Method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,12 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
-    "patterns/開發模式.md",
+    "Test/Practice Note.md",
+    "Test/Test Method.md",
+    "principle/Work Principle.md",
+    "principle/Render Mode.md",
     "patterns/SOLID 設計原則.md",
+    "patterns/開發模式.md",
     "patterns/設計模式.md",
     "Markdown.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
@@ -255,10 +259,6 @@
     "conflict-files-obsidian-git.md",
     "Network/Race Condition 競態條件.md",
     "Network/Serialize & Unserialize.md",
-    "Network/CSP Content-Security-Policy.md",
-    "Network/Web Socket.md",
-    "OS/Linux.md",
-    "Network/Worker.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

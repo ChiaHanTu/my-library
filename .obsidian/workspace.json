@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vite/index.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vite/index.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vite/index.md",
+                "file": "Markdown.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vite/index.md"
+                "file": "Markdown.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vite/index.md",
+                "file": "Markdown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,8 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "README.md",
+    "Vite/index.md",
     "Vite/環境變量 env.md",
     "patterns/開發模式.md",
     "patterns/設計模式.md",
@@ -247,7 +249,6 @@
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "JavaScript/for 迴圈比較.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
-    "README.md",
     "Regular Expression 正則表達式.md",
     "TypeScript/Mapped Types 映射類型.md",
     "TypeScript/tsconfig.json.md",
@@ -258,7 +259,6 @@
     "JavaScript/型別轉換.md",
     "assets/img/type_transform.png",
     "Network/mechanism.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

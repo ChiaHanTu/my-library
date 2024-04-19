@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "patterns/設計模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "patterns/設計模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "patterns/設計模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regular Expression 正則表達式.md"
+                "file": "patterns/設計模式.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "patterns/設計模式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,11 +231,12 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "patterns/開發模式.md",
+    "Regular Expression 正則表達式.md",
     "Markdown.md",
     "README.md",
     "Vite/index.md",
     "Vite/環境變量 env.md",
-    "patterns/開發模式.md",
     "patterns/設計模式.md",
     "JavaScript/Parsing process.md",
     "Test/Test Method.md",
@@ -249,7 +250,6 @@
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "JavaScript/for 迴圈比較.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
-    "Regular Expression 正則表達式.md",
     "TypeScript/Mapped Types 映射類型.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Method.md",

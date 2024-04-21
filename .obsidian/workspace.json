@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Network/OSI Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Network/OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Network/OSI Model.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/設計模式.md"
+                "file": "Network/OSI Model.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Network/OSI Model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,9 +256,10 @@
   },
   "active": "b80fc0defe3f650b",
   "lastOpenFiles": [
+    "patterns/設計模式.md",
+    "Network/OSI Model.md",
     "patterns/SOLID 設計原則.md",
     "patterns/開發模式.md",
-    "patterns/設計模式.md",
     "conflict-files-obsidian-git.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
     "Network/Worker.md",
@@ -283,7 +284,6 @@
     "Vite/環境變量 env.md",
     "Vue/Style-guide.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
-    "Browser mechanism/HTTP Cache.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

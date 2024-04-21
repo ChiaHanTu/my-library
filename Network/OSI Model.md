@@ -16,5 +16,12 @@ DHCP(v6), DNS, FTP, HTTP, SSH, RTP, GTP...
 
 > 會議層 Session layer (deprecated)
 
+負責在數據傳輸中設定和維護電腦網路中兩台電腦之間的通訊連結
 
+> 傳輸層 Transport layer
 
+把傳輸表頭（TH）加至資料以形成封包。傳輸表頭包含了所使用的協定等傳送資訊。例如:傳輸控制協定（TCP）等。
+
+```
+TCP, TLS/SSL 
+```

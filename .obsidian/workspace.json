@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a146b0e0669a55",
+        "id": "a18447e71b4f5a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "b70484e272dbd49b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Parsing process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b80fc0defe3f650b",
+            "id": "31856dd3a48344b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,10 +229,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b80fc0defe3f650b",
+  "active": "31856dd3a48344b1",
   "lastOpenFiles": [
-    "Network/OSI Model.md",
     "JavaScript/Parsing process.md",
+    "Network/OSI Model.md",
+    "patterns/設計模式.md",
+    "patterns/開發模式.md",
+    "patterns/SOLID 設計原則.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "JavaScript/for 迴圈比較.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
@@ -259,9 +249,6 @@
     "JavaScript/作用域.md",
     "Network/Performance.md",
     "Test/Test Method.md",
-    "patterns/設計模式.md",
-    "patterns/SOLID 設計原則.md",
-    "patterns/開發模式.md",
     "conflict-files-obsidian-git.md",
     "Network/Worker.md",
     "Test/Practice Note.md",

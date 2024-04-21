@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/OSI Model.md",
+                "file": "patterns/設計模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/OSI Model.md",
+                "file": "patterns/設計模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/OSI Model.md",
+                "file": "patterns/設計模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/OSI Model.md"
+                "file": "patterns/設計模式.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/OSI Model.md",
+                "file": "patterns/設計模式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,6 +244,7 @@
   },
   "active": "b80fc0defe3f650b",
   "lastOpenFiles": [
+    "Network/OSI Model.md",
     "JavaScript/Parsing process.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "JavaScript/for 迴圈比較.md",
@@ -258,7 +259,6 @@
     "JavaScript/作用域.md",
     "Network/Performance.md",
     "Test/Test Method.md",
-    "Network/OSI Model.md",
     "patterns/設計模式.md",
     "patterns/SOLID 設計原則.md",
     "patterns/開發模式.md",

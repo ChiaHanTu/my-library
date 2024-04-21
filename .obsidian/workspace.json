@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f8b16fb1a1b9dc4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "patterns/設計模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "patterns/設計模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "patterns/設計模式.md"
               }
             }
           },
@@ -217,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "patterns/設計模式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,8 +254,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8b16fb1a1b9dc4b",
+  "active": "b80fc0defe3f650b",
   "lastOpenFiles": [
+    "patterns/SOLID 設計原則.md",
+    "patterns/開發模式.md",
     "patterns/設計模式.md",
     "conflict-files-obsidian-git.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
@@ -292,8 +282,6 @@
     "Vite/index.md",
     "Vite/環境變量 env.md",
     "Vue/Style-guide.md",
-    "patterns/開發模式.md",
-    "patterns/SOLID 設計原則.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Browser mechanism/HTTP Cache.md",
     "Pasted image 20240117135721.png",

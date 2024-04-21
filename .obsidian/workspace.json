@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8b16fb1a1b9dc4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/設計模式.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -205,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,11 +266,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b80fc0defe3f650b",
+  "active": "f8b16fb1a1b9dc4b",
   "lastOpenFiles": [
-    "Network/Worker.md",
-    "conflict-files-obsidian-git.md",
     "patterns/設計模式.md",
+    "conflict-files-obsidian-git.md",
+    "JavaScript/檔名區分 .js, .cjs, .mjs.md",
+    "Network/Worker.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
     "Network/Performance.md",
@@ -283,7 +296,6 @@
     "patterns/SOLID 設計原則.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Browser mechanism/HTTP Cache.md",
-    "CSS/Hide date placeholder.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

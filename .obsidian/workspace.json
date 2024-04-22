@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c90c99909ac5bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Worker.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,10 +242,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "8c90c99909ac5bf6",
   "lastOpenFiles": [
-    "Network/Web Socket.md",
     "Network/Worker.md",
+    "conflict-files-obsidian-git.md",
+    "patterns/軟體架構模式.md",
+    "Network/OSI Model.md",
+    "Network/Web Socket.md",
     "patterns/設計模式.md",
     "patterns/開發模式.md",
     "Regular Expression 正則表達式.md",
@@ -254,10 +270,7 @@
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
     "TypeScript/Mapped Types 映射類型.md",
     "TypeScript/tsconfig.json.md",
-    "TypeScript/Method.md",
-    "JavaScript/型別判定相等.md",
     "assets/img/sameness_comparison.png",
-    "JavaScript/特殊符號.md",
     "assets/img/type_transform.png",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",

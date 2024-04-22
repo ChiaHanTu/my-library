@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Network/Web Socket.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Network/Web Socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Network/Web Socket.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patterns/設計模式.md"
+                "file": "Network/Web Socket.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patterns/設計模式.md",
+                "file": "Network/Web Socket.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,13 +231,15 @@
   },
   "active": "b70484e272dbd49b",
   "lastOpenFiles": [
+    "Network/Worker.md",
+    "Network/Web Socket.md",
+    "patterns/設計模式.md",
     "patterns/開發模式.md",
     "Regular Expression 正則表達式.md",
     "Markdown.md",
     "README.md",
     "Vite/index.md",
     "Vite/環境變量 env.md",
-    "patterns/設計模式.md",
     "JavaScript/Parsing process.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
@@ -256,9 +258,7 @@
     "JavaScript/型別判定相等.md",
     "assets/img/sameness_comparison.png",
     "JavaScript/特殊符號.md",
-    "JavaScript/型別轉換.md",
     "assets/img/type_transform.png",
-    "Network/mechanism.md",
     "Pasted image 20240117135721.png",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",

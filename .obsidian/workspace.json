@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Linux.md",
+                "file": "Network/Performance.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux.md",
+                "file": "Network/Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux.md",
+                "file": "Network/Performance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux.md"
+                "file": "Network/Performance.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "OS/Linux.md",
+                "file": "Network/Performance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,8 +229,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "4990bcce74991670",
   "lastOpenFiles": [
+    "OS/Linux.md",
     "patterns/軟體架構模式.md",
     "patterns/設計模式.md",
     "Test/Test Method.md",
@@ -256,7 +257,6 @@
     "Info Security/雜湊 Hash.md",
     "CSS/hide date placeholder.md",
     "Browser mechanism/HTTP Cache.md",
-    "Browser mechanism/DOM 的事件傳遞機制.md",
     "assets/img/sameness_comparison.png",
     "assets/img/type_transform.png",
     "Pasted image 20240117135721.png",

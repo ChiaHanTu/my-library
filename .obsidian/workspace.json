@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown.md",
+                "file": "JavaScript/for 迴圈比較.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown.md",
+                "file": "JavaScript/for 迴圈比較.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown.md",
+                "file": "JavaScript/for 迴圈比較.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown.md"
+                "file": "JavaScript/for 迴圈比較.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Markdown.md",
+                "file": "JavaScript/for 迴圈比較.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,32 +231,32 @@
   },
   "active": "4990bcce74991670",
   "lastOpenFiles": [
-    "README.md",
-    "Regular Expression 正則表達式.md",
-    "Test/Test Method.md",
-    "Network/Worker.md",
-    "Network/Web Socket.md",
-    "Network/OSI Model.md",
-    "patterns/SOLID 設計原則.md",
-    "patterns/設計模式.md",
-    "patterns/軟體架構模式.md",
-    "patterns/開發模式.md",
-    "Network/Serialize & Unserialize.md",
-    "conflict-files-obsidian-git.md",
-    "Markdown.md",
-    "Vite/index.md",
-    "Vite/環境變量 env.md",
-    "JavaScript/Parsing process.md",
-    "Test/Practice Note.md",
-    "JavaScript/深拷貝 v.s 淺拷貝.md",
-    "OS/Linux.md",
-    "principle/Work Principle.md",
-    "principle/Render Mode.md",
-    "JavaScript/傳值 v.s 傳址.md",
-    "JavaScript/Object.assign() v.s Object spread operator.md",
-    "JavaScript/for 迴圈比較.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
+    "JavaScript/傳值 v.s 傳址.md",
+    "JavaScript/深拷貝 v.s 淺拷貝.md",
+    "JavaScript/特殊符號.md",
+    "JavaScript/柯里化函數.md",
+    "JavaScript/型別轉換.md",
+    "JavaScript/型別判定相等.md",
+    "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
+    "JavaScript/作用域.md",
+    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
+    "Info Security/SQL Injection.md",
+    "Info Security/CSS Injection.md",
+    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
+    "Info Security/雜湊 Hash.md",
+    "CSS/hide date placeholder.md",
+    "Browser mechanism/HTTP Cache.md",
+    "Browser mechanism/DOM 的事件傳遞機制.md",
+    "TypeScript/tsconfig.json.md",
+    "TypeScript/Method.md",
     "TypeScript/Mapped Types 映射類型.md",
+    "patterns/SOLID 設計原則.md",
+    "patterns/開發模式.md",
+    "patterns/軟體架構模式.md",
+    "patterns/設計模式.md",
+    "JavaScript/Parsing process.md",
+    "JavaScript/for 迴圈比較.md",
     "assets/img/sameness_comparison.png",
     "assets/img/type_transform.png",
     "Pasted image 20240117135721.png",

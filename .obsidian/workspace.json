@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Network/OSI Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Network/OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Network/OSI Model.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Worker.md"
+                "file": "Network/OSI Model.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/Worker.md",
+                "file": "Network/OSI Model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,11 @@
   },
   "active": "4990bcce74991670",
   "lastOpenFiles": [
-    "Network/Web Socket.md",
+    "Network/mechanism.md",
+    "Network/OSI Model.md",
     "Network/Performance.md",
+    "Network/Worker.md",
+    "Network/Web Socket.md",
     "OS/Linux.md",
     "patterns/軟體架構模式.md",
     "patterns/設計模式.md",
@@ -254,9 +257,6 @@
     "JavaScript/for 迴圈比較.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",
-    "Info Security/CSS Injection.md",
-    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
-    "Info Security/雜湊 Hash.md",
     "assets/img/sameness_comparison.png",
     "assets/img/type_transform.png",
     "Pasted image 20240117135721.png",

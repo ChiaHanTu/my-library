@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info Security/雜湊 Hash.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info Security/雜湊 Hash.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info Security/雜湊 Hash.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info Security/雜湊 Hash.md"
+                "file": "Network/CSP Content-Security-Policy.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info Security/雜湊 Hash.md",
+                "file": "Network/CSP Content-Security-Policy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,11 @@
   },
   "active": "4990bcce74991670",
   "lastOpenFiles": [
+    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
+    "Info Security/CSS Injection.md",
+    "Info Security/SQL Injection.md",
+    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
+    "Info Security/雜湊 Hash.md",
     "Network/OSI Model.md",
     "Network/mechanism.md",
     "Network/Performance.md",
@@ -252,11 +257,6 @@
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/傳值 v.s 傳址.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
-    "JavaScript/Parsing process.md",
-    "JavaScript/Object.assign() v.s Object spread operator.md",
-    "JavaScript/for 迴圈比較.md",
-    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
-    "Info Security/SQL Injection.md",
     "assets/img/sameness_comparison.png",
     "assets/img/type_transform.png",
     "Pasted image 20240117135721.png",

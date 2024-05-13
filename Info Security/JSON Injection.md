@@ -20,10 +20,11 @@ $json_string = '{
 4.  惡意使用者附加數據到 input form 或是藉由 HTTP 標頭傳遞。此資料未經驗證而被發送到後端
 5.  導致後端儲存類似如下的資料
    ```JSON
-   { 
-	  "accountType":"user",
-      "userName":"john",
-      "accountType":"administrator",
-      "pass":"password"
-   }
+{ 
+  "accountType":"user",
+  "userName":"john",
+  "accountType":"administrator",
+  "pass":"password"
+}
 ```
+6.  當讀取這個資料時，授予了該 user 管理權，進而可能導致重要資料洩露、或是

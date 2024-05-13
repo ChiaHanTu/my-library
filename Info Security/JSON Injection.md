@@ -6,4 +6,13 @@
 > 可能導致 JSON Injection 的情境
 1. 伺服器以 JSON 格式儲存資料，並且包含帳號類型
 2. 使用者名稱及密碼可以在不經過驗證、過濾即直接被存取
-3. 
+3. 使用簡單的串聯來創立 JSON string
+
+ ```php
+$json_string = '{
+"accountType":"user",
+"userName":"'.$_GET['userName'].'",
+"pass":"'.$_GET['pass'].'"
+}';
+```
+

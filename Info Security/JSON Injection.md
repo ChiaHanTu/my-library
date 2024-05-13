@@ -40,4 +40,5 @@ $json_string = '{
 ```JSON
 user"});alert(document.cookie);({"accountType":"user
 ```
-5.  `eval` 執行了其中的 ``
+5. `eval` 執行了其中的 `alert('call')` 
+6.  導致 XSS 攻擊的產生 (document.cookie 被洩露)

@@ -31,4 +31,7 @@ $json_string = '{
 
 ### Client Side
 
-> 
+> 可能導致 JSON Injection 的情境：
+
+1.  如同上例一樣的 JSON string
+2.  伺服端ㄉ

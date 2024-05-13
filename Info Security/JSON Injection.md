@@ -27,7 +27,7 @@ $json_string = '{
   "pass":"password"
 }
 ```
-6.  當讀取這個資料時，授予了該 user 管理權，進而可能導致重要資料洩露、或是被執行惡意行為
+6.  當讀取這個資料時，JSON 解析器遇到了兩種的 `accountType` 並接受了最後一個值，授予了該 user 管理權，進而可能導致重要資料洩露、或是被執行惡意行為
 
 ### Client Side
 
@@ -36,4 +36,8 @@ $json_string = '{
 1.  如同上例一樣的 JSON string
 2.  伺服端從未信任的來源且未經驗證取得包含惡意參數的 JSON 資料
 3.  客戶端使用 `eval` 解析 JSON string
-4.  
+4.  `accountType` 被插入惡意程式
+```JSON
+user"});alert(document.cookie);({"accountType":"user
+```
+5.  `eval` 執行了其中的 ``

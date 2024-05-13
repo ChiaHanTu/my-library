@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "Info Security/JSON Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "Info Security/JSON Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "Info Security/JSON Injection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md"
+                "file": "Info Security/JSON Injection.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/CSP Content-Security-Policy.md",
+                "file": "Info Security/JSON Injection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,8 @@
   },
   "active": "4990bcce74991670",
   "lastOpenFiles": [
+    "Network/CSP Content-Security-Policy.md",
+    "Info Security/JSON Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Info Security/CSS Injection.md",
     "Info Security/SQL Injection.md",
@@ -255,8 +257,6 @@
     "JavaScript/柯里化函數.md",
     "JavaScript/特殊符號.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
-    "JavaScript/傳值 v.s 傳址.md",
-    "JavaScript/檔名區分 .js, .cjs, .mjs.md",
     "assets/img/sameness_comparison.png",
     "assets/img/type_transform.png",
     "Pasted image 20240117135721.png",

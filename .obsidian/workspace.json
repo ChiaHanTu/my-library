@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "646ad9d6b567e646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regular Expression 正則表達式.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,8 +242,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "31856dd3a48344b1",
+  "active": "646ad9d6b567e646",
   "lastOpenFiles": [
+    "Regular Expression 正則表達式.md",
+    "conflict-files-obsidian-git.md",
+    "Note.zip",
+    "封存.zip",
+    "note.zip",
     "README.md",
     "Markdown.md",
     "patterns/軟體架構模式.md",
@@ -252,11 +270,8 @@
     "JavaScript/作用域.md",
     "Network/Performance.md",
     "Test/Test Method.md",
-    "conflict-files-obsidian-git.md",
     "Network/Worker.md",
     "Test/Practice Note.md",
-    "Network/Mechanism.md",
-    "Network/Web Socket.md",
     "assets/img/type_transform.png",
     "assets/img/sameness_comparison.png",
     "Pasted image 20240117135721.png",
@@ -274,8 +289,6 @@
     "assets/img/Pasted image 20231123100744.png",
     "Untitled.canvas",
     "白箱測試 **Clear box testing ",
-    "Test",
-    "assets/img",
-    "assets"
+    "Test"
   ]
 }

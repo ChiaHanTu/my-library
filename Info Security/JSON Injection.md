@@ -34,4 +34,6 @@ $json_string = '{
 > 可能導致 JSON Injection 的情境：
 
 1.  如同上例一樣的 JSON string
-2.  伺服端ㄉ
+2.  伺服端從未信任的來源且未經驗證取得包含惡意參數的 JSON 資料
+3.  客戶端使用 `eval` 解析 JSON string
+4.  

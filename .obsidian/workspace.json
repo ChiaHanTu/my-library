@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info Security/JSON Injection.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info Security/JSON Injection.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info Security/JSON Injection.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info Security/JSON Injection.md"
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info Security/JSON Injection.md",
+                "file": "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,13 @@
   },
   "active": "31856dd3a48344b1",
   "lastOpenFiles": [
+    "Info Security/SQL Injection.md",
+    "Info Security/JSON Injection.md",
+    "Info Security/雜湊 Hash.md",
+    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
+    "Info Security/CSS Injection.md",
     "Regular Expression 正則表達式.md",
     "conflict-files-obsidian-git.md",
-    "Info Security/JSON Injection.md",
     "Note.zip",
     "封存.zip",
     "note.zip",
@@ -256,10 +260,6 @@
     "JavaScript/型別判定相等.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/作用域.md",
-    "Network/Performance.md",
-    "Test/Test Method.md",
-    "Network/Worker.md",
-    "Test/Practice Note.md",
     "assets/img/type_transform.png",
     "assets/img/sameness_comparison.png",
     "Pasted image 20240117135721.png",

@@ -11,6 +11,7 @@
 
 > between C# code and machine code.  
 
-###
-1. CLR Common Language Runtime: complie IL code into native machine code.  
-2. The process of compilation of IL code to machine code is called JIT(Just In Time Compilation).
+### CLR Common Language Runtime
+
+> compile IL code into native machine code. The process of compilation of IL code to machine code is called JIT(Just In Time Compilation).
+

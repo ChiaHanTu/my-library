@@ -18,7 +18,7 @@
 
 ### Overflowing 
 
-> The value is 
+> Value is out of bound of the type.
 
 ```C#
 checked
@@ -29,3 +29,4 @@ checked
 ```
 
 This situation would throw an exception to prevent overflow.
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "C#/C Sharp Beginning.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "C#/C Sharp Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "C#/C Sharp Beginning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Basic.md"
+                "file": "C#/C Sharp Beginning.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "C#/C Sharp Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,13 +225,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "303bb98b1e7a124d",
   "lastOpenFiles": [
-    "assets/img/Pasted image 20240528210204.png",
     "C#/Basic.md",
+    "C#/C Sharp Beginning.md",
+    "assets/img/Pasted image 20240528210204.png",
     "C#",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",

@@ -15,3 +15,13 @@
 
 > compile IL code into native machine code. The process of compilation of IL code to machine code is called JIT(Just In Time Compilation).
 
+
+### Overflowing 
+
+```C#
+checked
+{
+	byte number = 255;
+	number = 
+}
+```

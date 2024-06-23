@@ -18,10 +18,14 @@
 
 ### Overflowing 
 
+> The value is 
+
 ```C#
 checked
 {
 	byte number = 255;
-	number = 
+	number = number + 1;
 }
 ```
+
+This situation would throw an exception to prevent overflow.

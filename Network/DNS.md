@@ -8,3 +8,9 @@
 ## CNAME Record
 
 > canonical name
+
+
+
+## AAAA Record
+
+> 

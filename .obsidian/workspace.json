@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/C Sharp Beginning.md",
+                "file": "Network/DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/C Sharp Beginning.md",
+                "file": "Network/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C Sharp Beginning.md",
+                "file": "Network/DNS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/C Sharp Beginning.md"
+                "file": "Network/DNS.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/C Sharp Beginning.md",
+                "file": "Network/DNS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +231,10 @@
   },
   "active": "dce4072abb2a5701",
   "lastOpenFiles": [
+    "C#/C Sharp Beginning.md",
+    "Network/DNS.md",
     "C#/Basic.md",
     "JavaScript/作用域.md",
-    "C#/C Sharp Beginning.md",
     "assets/img/Pasted image 20240528210204.png",
     "C#",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
@@ -261,7 +262,6 @@
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/傳值 v.s 傳址.md",
     "JavaScript/特殊符號.md",
-    "JavaScript/柯里化函數.md",
     "assets/img/type_transform.png",
     "assets/img/sameness_comparison.png",
     "Pasted image 20240117135721.png",

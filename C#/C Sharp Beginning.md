@@ -30,3 +30,12 @@ checked
 
 This situation would throw an exception to prevent overflow.
 
+### Casting
+
+> It means explicit type conversion
+
+```C#
+int i = 1;
+byte b = (byte)i;
+```
+

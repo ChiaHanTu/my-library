@@ -17,5 +17,4 @@
 > canonical name,  points from an alias domain to a "canonical" domain.
 
 - must point to an domain, not an IP address.
-- 
 

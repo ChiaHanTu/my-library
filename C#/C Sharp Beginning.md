@@ -47,6 +47,7 @@ byte b = (byte)i;
 - Allocated on stack.
 - Memory allocation done automatically.
 - Immediately removed when out of scope.
+- Primitive types(bool, int, char, float), Custom Structure.
 
 
 ### Classes 
@@ -56,6 +57,7 @@ byte b = (byte)i;
 - Need to allocate memory.
 - Memory allocated on heap.
 - Garbage collected by CLR.
+- String, Array, Custom classes.
 
 ### Verbatim text "@"
 

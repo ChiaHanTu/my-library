@@ -44,4 +44,11 @@ byte b = (byte)i;
 > w
 
 
-### Verbat
+### Verbatim string
+
+> 1
+
+```c#
+string path = @"c:\projects\folder";
+```
+

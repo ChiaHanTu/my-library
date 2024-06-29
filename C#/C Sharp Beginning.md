@@ -125,3 +125,7 @@ string y = i.Tostring("C0"); // "$1,234"
 
 > A programming paradigm based on procedure calls. Break down code into a number of methods or functions each responsible for one thing.
 
+
+### Defensive Programming
+
+> 

@@ -51,7 +51,11 @@ byte b = (byte)i;
 
 ### Classes 
 
-> 
+> non-primitive types. Mostly used.
+
+- Need to allocate memory.
+- Memory allocated on heap.
+- Garbage collected by CLR.
 
 ### Verbatim text "@"
 

@@ -44,10 +44,11 @@ byte b = (byte)i;
 > w
 
 
-### Verbatim string
+### Verbatim text
 
 > 1. won't convert backslash or hexadecimal.
 > 2. To use C# keyword as identifier.
+> 3. Solving Attribute naming conflict.
 
 ```c#
 string path = @"c:\projects\folder";
@@ -70,3 +71,15 @@ for (int ctr = 0; ctr < @for.Length; ctr++)
 // Here is your gift, Jamie!
 ```
 
+```c#
+[Info("A simple executable.")]
+// Generates compiler error CS1614. Ambiguous Info and InfoAttribute.
+// Prepend '@' to select 'Info' ([@Info("A simple executable.")]). Specify the full name 'InfoAttribute' to select it.
+public class Example
+{ 
+	[InfoAttribute("The entry point.")]
+	public static void Main()
+	{
+	}
+}
+```

@@ -115,3 +115,9 @@ string y = i.Tostring("C0"); // "$1,234"
 3. E - Exponential 1052.0329112756 (E) -> 1.052033E + 003
 4. F - Fixed Point 1234.567 (F1) -> 1234.5
 5. X - Hexadecimal 255 (X) -> FF
+
+### StringBuilder
+
+- Not for search.
+- Quickly create string.
+

@@ -39,3 +39,6 @@ int i = 1;
 byte b = (byte)i;
 ```
 
+### Struct
+
+> 

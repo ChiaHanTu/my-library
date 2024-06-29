@@ -41,7 +41,10 @@ byte b = (byte)i;
 
 ### Struct
 
-> w
+> Primitive types. Used for simple type.
+
+- Values types.
+- Classes are reference types.
 
 
 ### Verbatim text "@"

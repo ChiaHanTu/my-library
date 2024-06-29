@@ -44,7 +44,7 @@ byte b = (byte)i;
 > w
 
 
-### Verbatim text
+### Verbatim text "@"
 
 > 1. won't convert backslash or hexadecimal.
 > 2. To use C# keyword as identifier.

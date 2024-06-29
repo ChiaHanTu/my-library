@@ -39,13 +39,19 @@ int i = 1;
 byte b = (byte)i;
 ```
 
-### Struct
+### Structures (struct)
 
 > Primitive types. Used for simple type.
 
 - Values types.
-- Classes are reference types.
+- Allocated on stack.
+- Memory allocation done automatically.
+- Immediately removed when out of scope.
 
+
+### Classes 
+
+> 
 
 ### Verbatim text "@"
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/DNS.md",
+                "file": "C#/C Sharp Beginning.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/DNS.md",
+                "file": "C#/C Sharp Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/DNS.md",
+                "file": "C#/C Sharp Beginning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/DNS.md"
+                "file": "C#/C Sharp Beginning.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/DNS.md",
+                "file": "C#/C Sharp Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,8 @@
   },
   "active": "dce4072abb2a5701",
   "lastOpenFiles": [
-    "C#/C Sharp Beginning.md",
     "Network/DNS.md",
+    "C#/C Sharp Beginning.md",
     "C#/Basic.md",
     "JavaScript/作用域.md",
     "assets/img/Pasted image 20240528210204.png",

@@ -50,7 +50,11 @@ byte b = (byte)i;
 
 ```c#
 string path = @"c:\projects\folder";
-//
+// equals "c:\\projects\\folder";
+
 string s2 = @"He said, ""This is the last \u0063hance\x0021""";
+// equals "He said, ""This is the last \u0063hance\x0021"
 ```
+
+
 

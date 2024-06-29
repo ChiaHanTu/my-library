@@ -109,7 +109,9 @@ string t = i.Tostring("C"); // "$1,234.00"
 string y = i.Tostring("C0"); // "$1,234"
 ```
 
-#### For
-- C - Currency
-- D - Decimal
-- 
+#### Format Specifier
+1. C - Currency 123456 (C) -> $123,456
+2. D - Decimal 1234 (D6) -> 001234
+3. E - Exponential 1052.0329112756 (E) -> 1.052033E + 003
+4. F - Fixed Point 1234.567 (F1) -> 1234.5
+5. X - Hexadecimal 255 (X) -> FF

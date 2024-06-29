@@ -98,3 +98,18 @@ public class Example
 	}
 }
 ```
+
+
+### Format String
+
+```c#
+int i = 1234;
+string s = i.ToString(); // "1234"
+string t = i.Tostring("C"); // "$1,234.00"
+string y = i.Tostring("C0"); // "$1,234"
+```
+
+#### For
+- C - Currency
+- D - Decimal
+- 

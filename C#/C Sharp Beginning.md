@@ -121,3 +121,6 @@ string y = i.Tostring("C0"); // "$1,234"
 - Not for search.
 - Quickly create string.
 
+### Procedural Programming
+
+> A programming paradigm based on procedure calls. Break down code into a number of 

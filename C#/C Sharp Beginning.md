@@ -123,4 +123,5 @@ string y = i.Tostring("C0"); // "$1,234"
 
 ### Procedural Programming
 
-> A programming paradigm based on procedure calls. Break down code into a number of 
+> A programming paradigm based on procedure calls. Break down code into a number of methods or functions each responsible for one thing.
+

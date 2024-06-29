@@ -46,9 +46,11 @@ byte b = (byte)i;
 
 ### Verbatim string
 
-> 1
+> won't convert backslash or hexadecimal.
 
 ```c#
 string path = @"c:\projects\folder";
+//
+string s2 = @"He said, ""This is the last \u0063hance\x0021""";
 ```
 

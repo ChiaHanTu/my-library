@@ -59,7 +59,6 @@ weirdo.DoAWeirdThing(ref a); // a = 3
 
 ### Out Modifier (Code Smell)
 
-
 ```c#
 public class MyClass
 {
@@ -72,3 +71,4 @@ public class MyClass
 int a;
 myClass.MyMethod(out a);
 ```
+

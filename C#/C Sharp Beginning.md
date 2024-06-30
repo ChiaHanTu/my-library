@@ -136,12 +136,15 @@ string y = i.Tostring("C0"); // "$1,234"
 > Should have only one instance of the concept in the memory.
 
 
-### Object initialize
+### Object initializers
+
+> Default constructer will be called, and fields will be initialized.
 
 ```c#
 var person = new Person()
 				{
 					FirstName = "Mosh";
-					LastName = "Hamedemi"
+					LastName = "Hamedani";
 				}
 ```
+

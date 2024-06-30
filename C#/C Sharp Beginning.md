@@ -130,3 +130,9 @@ string y = i.Tostring("C0"); // "$1,234"
 
 > Prevent application from throwing an unknown error.
 
+
+### Singleton
+
+> Should have only one instance of the concept in the memory.
+
+

@@ -136,3 +136,12 @@ string y = i.Tostring("C0"); // "$1,234"
 > Should have only one instance of the concept in the memory.
 
 
+### Object initialize
+
+```c#
+var person = new Person()
+				{
+					FirstName = "Mosh";
+					LastName = "Hamedemi"
+				}
+```

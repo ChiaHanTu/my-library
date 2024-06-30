@@ -26,3 +26,14 @@ public class Point
 }
 ```
 
+### Params Modifier
+
+```c#
+public class Calculator
+{
+	public int Add(params int[] numbers){}
+}
+
+var result = calculators.Add(new int[]{1, 2, 3, 4});
+var result = calculators
+```

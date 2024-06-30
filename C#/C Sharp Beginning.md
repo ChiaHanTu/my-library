@@ -129,22 +129,3 @@ string y = i.Tostring("C0"); // "$1,234"
 ### Defensive Programming
 
 > Prevent application from throwing an unknown error.
-
-
-### Singleton
-
-> Should have only one instance of the concept in the memory.
-
-
-### Object initializers
-
-> Default constructer will be called, and fields will be initialized.
-
-```c#
-var person = new Person()
-				{
-					FirstName = "Mosh";
-					LastName = "Hamedani";
-				}
-```
-

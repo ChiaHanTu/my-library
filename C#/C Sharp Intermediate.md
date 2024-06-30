@@ -59,3 +59,16 @@ weirdo.DoAWeirdThing(ref a); // a = 3
 
 ### Out Modifier (Code Smell)
 
+
+```c#
+public class MyClass
+{
+	public void MyMethod(out int result)
+	{
+		result = 1;
+	}
+}
+
+int a;
+myClass.MyMethod(out a);
+```

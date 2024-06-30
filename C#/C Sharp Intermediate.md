@@ -40,9 +40,9 @@ var result = calculators.Add(new int[]{1, 2, 3, 4});
 var result = calculators.Add(1, 2, 3, 4);
 ```
 
-### Ref Modifier
+### Ref Modifier (Code Smell)
 
-> Turn a value type variance into reference type, and so it can be changed by 
+> Turn a value type variance into reference type, and so it can be changed as parameter.
 
 ```c#
 public class Weirdo
@@ -56,3 +56,6 @@ public class Weirdo
 var a = 1;
 weirdo.DoAWeirdThing(ref a); // a = 3
 ```
+
+### Out Modifier (Code Smell)
+

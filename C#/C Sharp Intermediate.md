@@ -28,7 +28,7 @@ public class Point
 
 ### Params Modifier
 
-> No needs for creating  parameters. Just define "params" in front of the params signature.
+> No needs for creating new array for parameters. Just define "params" in front of the params signature.
 
 ```c#
 public class Calculator

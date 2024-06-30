@@ -28,6 +28,8 @@ public class Point
 
 ### Params Modifier
 
+> No needs for creating  parameters. Just define "params" in front of the params signature.
+
 ```c#
 public class Calculator
 {
@@ -35,5 +37,6 @@ public class Calculator
 }
 
 var result = calculators.Add(new int[]{1, 2, 3, 4});
-var result = calculators
+var result = calculators.Add(1, 2, 3, 4);
 ```
+

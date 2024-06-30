@@ -72,3 +72,11 @@ int a;
 myClass.MyMethod(out a);
 ```
 
+### Dictionary
+
+```c#
+public class HttpCookie
+{
+	private 
+}
+```

@@ -128,4 +128,5 @@ string y = i.Tostring("C0"); // "$1,234"
 
 ### Defensive Programming
 
-> 
+> Prevent application from throwing an unknown error.
+

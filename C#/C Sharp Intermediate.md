@@ -40,3 +40,19 @@ var result = calculators.Add(new int[]{1, 2, 3, 4});
 var result = calculators.Add(1, 2, 3, 4);
 ```
 
+### Ref Modifier
+
+> Turn a value type variance into reference type, and so it can be changed by 
+
+```c#
+public class Weirdo
+{
+	public void DoAWeirdThing(ref int a)
+	{
+		a += 2;
+	}
+}
+
+var a = 1;
+weirdo.DoAWeirdThing(ref a); // a = 3
+```

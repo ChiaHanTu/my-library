@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/作用域.md",
+                "file": "Regular Expression 正則表達式.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/作用域.md",
+                "file": "Regular Expression 正則表達式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/作用域.md",
+                "file": "Regular Expression 正則表達式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/作用域.md"
+                "file": "Regular Expression 正則表達式.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript/作用域.md",
+                "file": "Regular Expression 正則表達式.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,8 +229,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "1449b2a3eafac3ad",
   "lastOpenFiles": [
+    "JavaScript/作用域.md",
     "JavaScript/Parsing process.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "JavaScript/for 迴圈比較.md",
@@ -242,7 +243,6 @@
     "C#/C Sharp Beginning.md",
     "Network/DNS.md",
     "C#/Basic.md",
-    "JavaScript/作用域.md",
     "assets/img/Pasted image 20240528210204.png",
     "C#",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",

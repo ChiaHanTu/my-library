@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "Markdown.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regular Expression 正則表達式.md"
+                "file": "Markdown.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "Markdown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,8 @@
   },
   "active": "1449b2a3eafac3ad",
   "lastOpenFiles": [
+    "README.md",
+    "Regular Expression 正則表達式.md",
     "JavaScript/作用域.md",
     "JavaScript/Parsing process.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
@@ -251,12 +253,10 @@
     "Info Security/雜湊 Hash.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Info Security/CSS Injection.md",
-    "Regular Expression 正則表達式.md",
     "conflict-files-obsidian-git.md",
     "Note.zip",
     "封存.zip",
     "note.zip",
-    "README.md",
     "Markdown.md",
     "patterns/軟體架構模式.md",
     "patterns/開發模式.md",

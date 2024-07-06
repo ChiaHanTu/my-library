@@ -102,4 +102,5 @@ public class HttpCookie
 
 ## Inheritance vs Composition
 
-1. Inheritance is higher coupling, composition is l
+-  Inheritance is higher coupling, composition is loosely coupled.
+

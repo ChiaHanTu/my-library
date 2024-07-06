@@ -132,3 +132,6 @@ namespace Constructors
 // This way, it can construct Vehicle first with the parameter registration, then construct Car with the parameter registration.
 ```
 
+### Upcasting & Downcasting
+
+- Upcasting: 

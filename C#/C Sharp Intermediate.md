@@ -174,3 +174,13 @@ if (car != null)
 }
 ```
 
+### The Is keyword
+
+```c#
+if (obj is Car)
+{
+	Car car = (Car) obj;
+	...
+}
+```
+

@@ -161,4 +161,16 @@ Shape shape = circle;
 Circle anotherCircle = (Circle)shape;
 ```
 
-### 
+### The As keyword
+
+```c#
+Car car = (Car) obj;
+
+Car car = obj as Car; 
+// if the object cannot be converted, it will not going to get an exception, and return null.
+if (car != null)
+{
+
+}
+```
+

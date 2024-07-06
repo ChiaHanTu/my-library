@@ -104,3 +104,6 @@ public class HttpCookie
 
 -  Inheritance is higher coupling, composition is loosely coupled.
 
+### Access Modifier
+
+- Protected: Accessible only from the class and its derived classes. 

@@ -195,3 +195,12 @@ object obj = number;
 // or
 object obj = 10;
 ```
+
+### Unboxing
+
+```c#
+object obj = 10;
+int number = (int)obj;
+```
+
+- Have a performance penalty.

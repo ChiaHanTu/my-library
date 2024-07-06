@@ -134,4 +134,5 @@ namespace Constructors
 
 ### Upcasting & Downcasting
 
-- Upcasting: 
+- Upcasting: Conversion from a derived class to a base class.
+- Downcasting: Conversion from a base class to a derived class.

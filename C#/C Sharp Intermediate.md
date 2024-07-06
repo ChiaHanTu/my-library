@@ -124,10 +124,10 @@ namespace Constructors
 		}
 	}
 
-	publice Vehicle
+	public Vehicle(string registration)
 	{
+		Console.WriteLine("Vehicle is being initialized.);
 	}
 }
-
-
+// This way, it can construct Vehicle first with the parameter registration, then construct Car with the parameter registration.
 ```

@@ -100,5 +100,6 @@ public class HttpCookie
 
 ![[Pasted image 20240706144250.png]]
 
-## Composition
+## Inheritance vs Composition
 
+1. Inheritance is higher coupling, composition is l

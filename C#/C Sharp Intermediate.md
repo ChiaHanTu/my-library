@@ -106,4 +106,5 @@ public class HttpCookie
 
 ### Access Modifier
 
-- Protected: Accessible only from the class and its derived classes. 
+- Protected: Accessible only from the class and its derived classes.
+- Internal: Accessible only from the same assembly.

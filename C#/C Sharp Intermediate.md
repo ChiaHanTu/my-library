@@ -124,7 +124,7 @@ namespace Constructors
 		}
 	}
 
-	public Vehicle(string registration)
+	public class Vehicle(string registration)
 	{
 		Console.WriteLine("Vehicle is being initialized.);
 	}
@@ -134,15 +134,7 @@ namespace Constructors
 
 ### Upcasting & Downcasting
 
-- Upcasting: Conversion from a derived class to a base class.
-- Downcasting: Conversion from a base class to a derived class.
-
 ```c#
-Circle circle = new Circle();
-Shape shape = circle;
-
-Circle anotherCircle = (Circle)shape;
-
 public class Shape
 {
 
@@ -151,4 +143,20 @@ public class Circle : Shape
 {
 
 }
+```
+
+#### Upcasting: Conversion from a derived class to a base class.
+
+```c#
+Circle circle = new Circle();
+Shape shape = circle;
+```
+
+#### Downcasting: Conversion from a base class to a derived class.
+
+```c#
+Circle circle = new Circle();
+Shape shape = circle;
+
+Circle anotherCircle = (Circle)shape;
 ```

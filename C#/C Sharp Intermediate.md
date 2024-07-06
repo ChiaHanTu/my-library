@@ -102,4 +102,3 @@ public class HttpCookie
 
 ## Composition
 
-![[Pasted image 20240706145706.png]]

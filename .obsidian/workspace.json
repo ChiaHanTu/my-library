@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a846591c2bf3a78d",
+        "id": "b29a58a1c112c458",
         "type": "tabs",
         "children": [
           {
-            "id": "b41da259bd1a63d7",
+            "id": "a4ebc5a3e106dce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -229,11 +229,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "a4ebc5a3e106dce8",
   "lastOpenFiles": [
+    "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20240706145706.png",
-    "assets/img/Pasted image 20240706144250.png",
+    "assets/img/sameness_comparison.png",
     "C#/C Sharp Intermediate.md",
+    "assets/img/Pasted image 20240706144250.png",
     "Markdown.md",
     "README.md",
     "Regular Expression 正則表達式.md",
@@ -264,9 +266,7 @@
     "patterns/開發模式.md",
     "patterns/設計模式.md",
     "assets/img/type_transform.png",
-    "assets/img/sameness_comparison.png",
     "Pasted image 20240117135721.png",
-    "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",
     "CSS",
     "patterns",
@@ -275,7 +275,6 @@
     "OS",
     "Pasted image 20231130112850.png",
     "Algorithm",
-    "Pasted image 20231129102057.png",
     "Untitled.canvas",
     "白箱測試 **Clear box testing "
   ]

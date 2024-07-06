@@ -108,3 +108,4 @@ public class HttpCookie
 
 - Protected: Accessible only from the class and its derived classes.
 - Internal: Accessible only from the same assembly.
+- Protected Internal: Accessible only from the same assembly or any derived classes.

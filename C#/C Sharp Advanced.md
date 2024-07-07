@@ -101,4 +101,6 @@ namespace Delegates
 	}
 }
 
+System.Action<T>
+System.Func<out TResult>
 ```

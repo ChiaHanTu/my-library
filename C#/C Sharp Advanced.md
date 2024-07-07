@@ -107,6 +107,10 @@ System.Func<in T, out TResult>
 
 ### Event
 
+> A mechanism for communication between objects.
+> Used in building Loosely Coupled Applications.
+> Helps extending applications.
+
 ```c#
 namespace EventsAndDelegates
 {

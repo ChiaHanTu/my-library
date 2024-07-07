@@ -110,6 +110,8 @@ System.Func<in T, out TResult>
 ```c#
 namespace EventsAndDelegates
 {
+	
+	
 	public class VideoEncoder
 	{
 		// 1 - Define a delegate

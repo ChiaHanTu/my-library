@@ -277,4 +277,4 @@ public class Circle : Shape
 
 ### Sealed Modifier
 
-
+> Prevents derivation of classes or overriding of methods. 

@@ -17,4 +17,8 @@ namespace Generics
 		}
 	}
 }
+
+default(T) // return the default value of generic type. ex. T = int, return 0.
 ```
+
+

@@ -185,7 +185,9 @@ namespace System
 		public static string Shorten(this String str, int numberOfWords)
 		{
 			if (numberOfWords < 0)
-				throw new 
+				throw new ArgumentOutOfRangeException("NumberOfWords should be greater than or equal to 0.")
+
+			
 		}
 	}
 }

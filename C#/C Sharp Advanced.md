@@ -104,3 +104,18 @@ namespace Delegates
 System.Action<T>
 System.Func<in T, out TResult>
 ```
+
+### Event
+
+```c#
+namespace EventsAndDelegates
+{
+	public class VidioEncoder
+	{
+		// 1 - Define a delegate
+		// 2 - Define a event base on that delegate
+		// 3 - Raise the event
+		public delegate void VideoEncodedEventHandler(object source, EventArgs args);
+	}
+}
+```

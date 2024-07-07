@@ -280,4 +280,13 @@ public class Circle : Shape
 > Prevents derivation of classes or overriding of methods. 
 
 
-### 
+### IEnumerable
+
+```c#
+private read
+
+public class IEnumerable<T> Get()
+{
+	return _list;
+}
+```

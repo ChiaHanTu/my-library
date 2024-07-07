@@ -145,6 +145,9 @@ namespace EventsAndDelegates
 		public delegate void VideoEncodedEventHandler(object source, VideoEventArgs args);
 
 		public event VideoEncodedEventHandler VideoEncoded;
+		// delegate and event can be writed as 
+		// public event Eventhandler<VideoEventArgs> VideoEncoded;
+		// don't need to write delegate method.
 
 		public void Encode(Vidio video)
 		{

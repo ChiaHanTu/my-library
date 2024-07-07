@@ -45,3 +45,16 @@ namespace Generics
 > A reference to a function.
 
 - For designing extensible and flexible applications (eg. frameworks).
+
+```c#
+namespace Delegates
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			var p
+		}
+	}
+}
+```

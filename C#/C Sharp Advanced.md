@@ -76,8 +76,25 @@ namespace Delegates
 		{
 			var photo = Photo.Load(path);
 
-			filterHandler(p)
+			filterHandler(photo);
+
+			photo.Save();
 		}
+	}
+
+	public class PhotoFilters
+	{
+		public void ApplyBrightness(Photo photo)
+		{
+			Console.WriteLine("Apply brightness");
+		}
+
+		public void ApplyContrast(Photo photo)
+		{
+			Console.WriteLine("Apply contrast");
+		}
+
+		public void Resize(Photo photo)
 	}
 }
 ```

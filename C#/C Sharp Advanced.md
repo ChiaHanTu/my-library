@@ -110,7 +110,7 @@ System.Func<in T, out TResult>
 ```c#
 namespace EventsAndDelegates
 {
-	public class VidioEncoder
+	public class VideoEncoder
 	{
 		// 1 - Define a delegate
 		// 2 - Define a event base on that delegate
@@ -127,7 +127,11 @@ namespace EventsAndDelegates
 			OnVideoEncoded();
 		}
 
-		protected virtual void OnV
+		protected virtual void OnVideoEncoded()
+		{
+			if (VideoEncoded != null)
+				VideoEncoded(this, EventArgs.Empty);
+		}
 	}
 }
 ```

@@ -175,3 +175,11 @@ namespace EventsAndDelegates
 > Allow us to add methods to an existing class without changing its source coed, or
 > create a new class that inherits from it.
 
+- Should be in same namespace with where it used.
+
+```c#
+namespace System
+{
+	class 
+}
+```

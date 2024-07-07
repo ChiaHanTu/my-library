@@ -116,6 +116,18 @@ namespace EventsAndDelegates
 		// 2 - Define a event base on that delegate
 		// 3 - Raise the event
 		public delegate void VideoEncodedEventHandler(object source, EventArgs args);
+
+		public event VideoEncodedEventHandler VideoEncoded;
+
+		public void Encode(Vidio video)
+		{
+			Console.WriteLine("Encoding Video...");
+			Thread.Sleep(3000);
+
+			OnVideoEncoded();
+		}
+
+		protected virtual void OnV
 	}
 }
 ```

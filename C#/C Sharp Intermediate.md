@@ -212,7 +212,7 @@ namespace MethodOveriding
 {
 	public class Circle : Shape
 	{
-		public overide void Draw()
+		public override void Draw()
 		{
 			Console.WriteLine("Draw a circle");
 		}
@@ -220,7 +220,7 @@ namespace MethodOveriding
 
 	public class Rectangle : Shape
 	{
-		public overide void Draw()
+		public override void Draw()
 		{
 			Console.WriteLine("Draw a rectangle");
 		}
@@ -254,4 +254,20 @@ namespace MethodOveriding
 
 ### Abstract Modifier
 
-> Indicates that a class or a member is missing implementation. Leaving implementation for its der
+> Indicates that a class or a member is missing implementation. Leaving implementation for its derived classes.
+
+```c#
+public abstract class Shape
+{
+	public abstract void Draw();
+}
+
+public class Circle : Shape
+{
+	public override void Draw()
+	{
+		// Implementation for Circle
+	} 
+}
+```
+

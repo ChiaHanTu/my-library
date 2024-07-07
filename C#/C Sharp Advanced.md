@@ -180,6 +180,13 @@ namespace EventsAndDelegates
 ```c#
 namespace System
 {
-	class 
+	public static class StringExtensions
+	{
+		public static string Shorten(this String str, int numberOfWords)
+		{
+			if (numberOfWords < 0)
+				throw new 
+		}
+	}
 }
 ```

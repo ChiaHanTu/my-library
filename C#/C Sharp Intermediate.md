@@ -205,7 +205,7 @@ int number = (int)obj;
 
 - Have a performance penalty.
 
-### Method Overiding
+### Method Overriding
 
 ```c#
 namespace MethodOveriding
@@ -278,3 +278,4 @@ public class Circle : Shape
 ### Sealed Modifier
 
 > Prevents derivation of classes or overriding of methods. 
+

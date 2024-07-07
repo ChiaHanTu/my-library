@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/C Sharp Advanced.md",
+                "file": "C#/C Sharp Intermediate.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/C Sharp Advanced.md",
+                "file": "C#/C Sharp Intermediate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C Sharp Advanced.md",
+                "file": "C#/C Sharp Intermediate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/C Sharp Advanced.md"
+                "file": "C#/C Sharp Intermediate.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/C Sharp Advanced.md",
+                "file": "C#/C Sharp Intermediate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,9 @@
   },
   "active": "a4ebc5a3e106dce8",
   "lastOpenFiles": [
-    "C#/C Sharp Intermediate.md",
+    "C#/C Sharp Beginning.md",
     "C#/C Sharp Advanced.md",
+    "C#/C Sharp Intermediate.md",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20240706145706.png",
     "assets/img/sameness_comparison.png",
@@ -248,7 +249,6 @@
     "patterns/SOLID 設計原則.md",
     "principle/Render Mode.md",
     "principle/Work Principle.md",
-    "C#/C Sharp Beginning.md",
     "Network/DNS.md",
     "C#/Basic.md",
     "assets/img/Pasted image 20240528210204.png",

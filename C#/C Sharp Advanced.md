@@ -102,5 +102,5 @@ namespace Delegates
 }
 
 System.Action<T>
-System.Func<out TResult>
+System.Func<in T, out TResult>
 ```

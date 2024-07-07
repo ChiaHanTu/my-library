@@ -256,6 +256,8 @@ namespace MethodOveriding
 
 > Indicates that a class or a member is missing implementation. Leaving implementation for its derived classes.
 
+- It a member is declared as abstract, the containing class needs to be declared as abstract too.
+
 ```c#
 public abstract class Shape
 {

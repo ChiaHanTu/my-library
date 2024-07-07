@@ -180,6 +180,15 @@ namespace EventsAndDelegates
 ```c#
 namespace System
 {
+	class Program
+	{
+		statuc void Main(string[] args)
+		{
+			string post = "This is supposed to be a very long blog post...";
+			var shortenPost = post.Shorten(5); // 
+		}
+	}
+
 	public static class StringExtensions
 	{
 		public static string Shorten(this String str, int numberOfWords)

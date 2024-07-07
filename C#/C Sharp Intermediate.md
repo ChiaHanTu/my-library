@@ -275,3 +275,6 @@ public class Circle : Shape
 }
 ```
 
+### Sealed Modifier
+
+

@@ -250,5 +250,8 @@ namespace MethodOveriding
 		}
 	}
 }
-
 ```
+
+### Abstract Modifier
+
+> Indicates that a class or a member is missing implementation. Leaving implementation for its der

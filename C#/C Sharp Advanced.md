@@ -62,9 +62,21 @@ namespace Delegates
 			processor.Process("photo.jpg", filterHandler);
 		}
 
-		static void RemoveRedEyeFilter()
+		static void RemoveRedEyeFilter(Photo photo)
 		{
-			
+			Console.WriteLine("Apply RemoveRedEye");
+		}
+	}
+
+	public class PhotoProcessor
+	{
+		public delegate void PhotoFilterHandler(Photo photo);
+
+		public void Process(string path, PhotoFilterHandler filterHandler)
+		{
+			var photo = Photo.Load(path);
+
+			filterHandler(p)
 		}
 	}
 }

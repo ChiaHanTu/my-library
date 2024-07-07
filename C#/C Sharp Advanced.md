@@ -170,3 +170,8 @@ namespace EventsAndDelegates
 }
 ```
 
+### Extensions
+
+> Allow us to add methods to an existing class without changing its source coed, or
+> create a new class that inherits from it.
+

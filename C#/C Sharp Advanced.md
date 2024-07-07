@@ -110,6 +110,15 @@ System.Func<in T, out TResult>
 ```c#
 namespace EventsAndDelegates
 {
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			var video = new Video() { Title = "Video 1" };
+			var di
+		}
+	}
+
 	public class VideoEventArgs : EventArgs
 	{
 		public Video Video { get; set; }

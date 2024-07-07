@@ -128,7 +128,7 @@ namespace EventsAndDelegates
 	{
 		public void OnVideoEncoded(object source, EventArgs e)
 		{
-			Console.WriteLine("MailService: Sending ")
+			Console.WriteLine("MailService: Sending an email...");
 		}
 	}
 

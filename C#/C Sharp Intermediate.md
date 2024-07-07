@@ -282,11 +282,14 @@ public class Circle : Shape
 
 ### IEnumerable
 
-```c#
-private read
+> A readonly type for Interface list.
 
-public class IEnumerable<T> Get()
+```c#
+private readonly List<ITask> _tasks;
+
+public class IEnumerable<ITask> GetTasks()
 {
-	return _list;
+	return _tasks;
 }
 ```
+

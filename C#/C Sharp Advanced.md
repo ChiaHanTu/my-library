@@ -53,7 +53,18 @@ namespace Delegates
 	{
 		static void Main(string[] args)
 		{
-			var p
+			var processor = new PhotoProcessor();
+			var filters = new PhotoFilters();
+			PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
+			filterHandler += filters.ApplyContrast;
+			filterHandler += RemoveRedEyeFilter;
+
+			processor.Process("photo.jpg", filterHandler);
+		}
+
+		static void RemoveRedEyeFilter()
+		{
+			
 		}
 	}
 }

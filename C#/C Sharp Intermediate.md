@@ -204,3 +204,24 @@ int number = (int)obj;
 ```
 
 - Have a performance penalty.
+
+### Method Overiding
+
+```c#
+namespace MethodOveriding
+{
+	public class Circle : Shape
+	{
+		public overide void Draw()
+		{
+			Console.WriteLine("Draw a circle");
+		}
+	}
+
+	public class Rectangle : Shape
+	{
+		public overider 
+	}
+}
+
+```

@@ -236,6 +236,19 @@ namespace MethodOveriding
 		{
 		}
 	}
+
+	public class Canvas
+	{
+		public void DrawShapes(List<Shape> shapes)
+		{
+			foreach (var shape in shapes)
+			{
+				shape.Draw(); 
+				// when iterate to certain shape,
+				// it will execute its override method
+			}
+		}
+	}
 }
 
 ```

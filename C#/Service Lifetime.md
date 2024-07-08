@@ -9,3 +9,9 @@
 
 ### Singleton
 
+>  Are created either:
+>  1. The first time they're requested.
+>  2. By the developer, when providing an implementation instance directly to the container. This approach is rarely needed.
+>  
+>  Every subsequent request of the service implementation from the dependency injection container uses the same instance
+

@@ -227,5 +227,7 @@ var cheapBooks =
 	select b.Title;
 ```
 
+### Asynchronous Programming
 
+> add async / await to let compiler know it costs time to proceed, so it return controller to method.
 

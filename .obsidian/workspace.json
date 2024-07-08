@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/HTTP.md",
+                "file": "C#/Service Lifetime.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/HTTP.md",
+                "file": "C#/Service Lifetime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/HTTP.md",
+                "file": "C#/Service Lifetime.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/HTTP.md"
+                "file": "C#/Service Lifetime.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/HTTP.md",
+                "file": "C#/Service Lifetime.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,10 @@
   },
   "active": "a4ebc5a3e106dce8",
   "lastOpenFiles": [
-    "Network/Worker.md",
+    "C#/Basic.md",
+    "C#/Service Lifetime.md",
     "Network/HTTP.md",
+    "Network/Worker.md",
     "Network/Web Socket.md",
     "Network/Serialize & Unserialize.md",
     "Network/Race Condition 競態條件.md",
@@ -241,7 +243,6 @@
     "Network/mechanism.md",
     "Network/DNS.md",
     "Network/CSP Content-Security-Policy.md",
-    "C#/Basic.md",
     "C#/C Sharp Advanced.md",
     "JavaScript/型別判定相等.md",
     "C#/C Sharp Beginning.md",
@@ -260,7 +261,6 @@
     "OS/Linux.md",
     "patterns/SOLID 設計原則.md",
     "principle/Render Mode.md",
-    "principle/Work Principle.md",
     "assets/img/Pasted image 20240528210204.png",
     "C#",
     "Note.zip",

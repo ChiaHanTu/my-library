@@ -210,3 +210,12 @@ namespace System
 }
 ```
 
+### LINQ Language Integrated Query
+
+```c#
+var cheapBooks = books
+					.Where(b => b.Price < 10)
+					.OrderBy(b => b.Title)
+					.Select(b => b.Title)
+```
+

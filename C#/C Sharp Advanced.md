@@ -213,9 +213,19 @@ namespace System
 ### LINQ Language Integrated Query
 
 ```c#
+// LINQ Extension Method
 var cheapBooks = books
 					.Where(b => b.Price < 10)
 					.OrderBy(b => b.Title)
 					.Select(b => b.Title)
+
+// LINQ Query Operators
+var cheapBooks =
+	from b in books
+	where b.Price < 10
+	orderby b.Title
+	select b.Title;
 ```
+
+
 

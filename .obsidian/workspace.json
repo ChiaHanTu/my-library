@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/C Sharp Advanced.md",
+                "file": "C#/Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/C Sharp Advanced.md",
+                "file": "C#/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C Sharp Advanced.md",
+                "file": "C#/Basic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/C Sharp Advanced.md"
+                "file": "C#/Basic.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/C Sharp Advanced.md",
+                "file": "C#/Basic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +231,8 @@
   },
   "active": "a4ebc5a3e106dce8",
   "lastOpenFiles": [
-    "JavaScript/型別判定相等.md",
     "C#/C Sharp Advanced.md",
+    "JavaScript/型別判定相等.md",
     "C#/C Sharp Beginning.md",
     "C#/C Sharp Intermediate.md",
     "assets/img/Script-tag-loading-visualized.jpeg",

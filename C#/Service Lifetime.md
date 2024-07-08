@@ -1,4 +1,3 @@
-
 ### Transient
 
 > Are created each time they're requested from the service container.
@@ -14,4 +13,5 @@
 >  2. By the developer, when providing an implementation instance directly to the container. This approach is rarely needed.
 
 - Every subsequent request of the service implementation from the dependency injection container uses **the same instance**.
+
 

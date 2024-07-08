@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "Network/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "Network/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "Network/HTTP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Basic.md"
+                "file": "Network/HTTP.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "Network/HTTP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,17 @@
   },
   "active": "a4ebc5a3e106dce8",
   "lastOpenFiles": [
+    "Network/Worker.md",
+    "Network/HTTP.md",
+    "Network/Web Socket.md",
+    "Network/Serialize & Unserialize.md",
+    "Network/Race Condition 競態條件.md",
+    "Network/Performance.md",
+    "Network/OSI Model.md",
+    "Network/mechanism.md",
+    "Network/DNS.md",
+    "Network/CSP Content-Security-Policy.md",
+    "C#/Basic.md",
     "C#/C Sharp Advanced.md",
     "JavaScript/型別判定相等.md",
     "C#/C Sharp Beginning.md",
@@ -250,22 +261,11 @@
     "patterns/SOLID 設計原則.md",
     "principle/Render Mode.md",
     "principle/Work Principle.md",
-    "Network/DNS.md",
-    "C#/Basic.md",
     "assets/img/Pasted image 20240528210204.png",
     "C#",
-    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
-    "Info Security/SQL Injection.md",
-    "Info Security/JSON Injection.md",
-    "Info Security/雜湊 Hash.md",
-    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
-    "Info Security/CSS Injection.md",
-    "conflict-files-obsidian-git.md",
     "Note.zip",
     "封存.zip",
     "note.zip",
-    "patterns/軟體架構模式.md",
-    "patterns/開發模式.md",
     "assets/img/type_transform.png",
     "Pasted image 20240117135721.png",
     "assets/img/Pasted image 20231220155813.png",

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6403d3d668a5e11f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Controller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/OSI Model.md",
+                "file": "Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/OSI Model.md",
+                "file": "Controller.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/OSI Model.md"
+                "file": "Controller.md"
               }
             }
           },
@@ -180,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/OSI Model.md",
+                "file": "Controller.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,8 +242,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4ebc5a3e106dce8",
+  "active": "6403d3d668a5e11f",
   "lastOpenFiles": [
+    "Network/OSI Model.md",
+    "Controller.md",
+    "DotNet",
     "C#/Service Lifetime.md",
     "C#/Basic.md",
     "Network/HTTP.md",
@@ -239,7 +255,6 @@
     "Network/Serialize & Unserialize.md",
     "Network/Race Condition 競態條件.md",
     "Network/Performance.md",
-    "Network/OSI Model.md",
     "Network/mechanism.md",
     "Network/DNS.md",
     "Network/CSP Content-Security-Policy.md",
@@ -260,7 +275,6 @@
     "JavaScript/for 迴圈比較.md",
     "OS/Linux.md",
     "patterns/SOLID 設計原則.md",
-    "principle/Render Mode.md",
     "assets/img/Pasted image 20240528210204.png",
     "C#",
     "Note.zip",
@@ -276,7 +290,6 @@
     "OS",
     "Pasted image 20231130112850.png",
     "Algorithm",
-    "Untitled.canvas",
-    "白箱測試 **Clear box testing "
+    "Untitled.canvas"
   ]
 }

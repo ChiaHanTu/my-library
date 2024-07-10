@@ -8,6 +8,7 @@
 
 > Indicates that services are created once per client request (connection)
 
+- One instance per request
 ### Singleton
 
 >  Are created either:
@@ -15,5 +16,6 @@
 >  2. By the developer, when providing an implementation instance directly to the container. This approach is rarely needed.
 
 - Every subsequent request of the service implementation from the dependency injection container uses **the same instance**.
+- Single instance for the application
 
 

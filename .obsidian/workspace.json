@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6403d3d668a5e11f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C#/Service Lifetime.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Service Lifetime.md",
+                "file": "Network/OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Service Lifetime.md",
+                "file": "Network/OSI Model.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Service Lifetime.md"
+                "file": "Network/OSI Model.md"
               }
             }
           },
@@ -193,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/Service Lifetime.md",
+                "file": "Network/OSI Model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,12 +229,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6403d3d668a5e11f",
+  "active": "a4ebc5a3e106dce8",
   "lastOpenFiles": [
+    "C#/Service Lifetime.md",
     "DotNet/WebApis.md",
     "Network/OSI Model.md",
     "DotNet",
-    "C#/Service Lifetime.md",
     "C#/Basic.md",
     "Network/HTTP.md",
     "Network/Worker.md",

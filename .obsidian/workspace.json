@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/C Sharp Intermediate.md",
+                "file": "C#/Service Lifetime.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/C Sharp Intermediate.md",
+                "file": "C#/Service Lifetime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C Sharp Intermediate.md",
+                "file": "C#/Service Lifetime.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/C Sharp Intermediate.md"
+                "file": "C#/Service Lifetime.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/C Sharp Intermediate.md",
+                "file": "C#/Service Lifetime.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,9 +244,9 @@
   },
   "active": "89b582f7144fd67e",
   "lastOpenFiles": [
+    "C#/C Sharp Intermediate.md",
     "C#/C Sharp Beginning.md",
     "C#/C Sharp Advanced.md",
-    "C#/C Sharp Intermediate.md",
     "C#/Service Lifetime.md",
     "DotNet/WebApis.md",
     "Network/OSI Model.md",

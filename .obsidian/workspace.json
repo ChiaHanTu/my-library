@@ -23,9 +23,11 @@
             "id": "89b582f7144fd67e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "C#/C Sharp Intermediate.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/OSI Model.md",
+                "file": "C#/C Sharp Intermediate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/OSI Model.md",
+                "file": "C#/C Sharp Intermediate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/OSI Model.md"
+                "file": "C#/C Sharp Intermediate.md"
               }
             }
           },
@@ -191,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/OSI Model.md",
+                "file": "C#/C Sharp Intermediate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,6 +244,9 @@
   },
   "active": "89b582f7144fd67e",
   "lastOpenFiles": [
+    "C#/C Sharp Beginning.md",
+    "C#/C Sharp Advanced.md",
+    "C#/C Sharp Intermediate.md",
     "C#/Service Lifetime.md",
     "DotNet/WebApis.md",
     "Network/OSI Model.md",
@@ -256,10 +261,7 @@
     "Network/mechanism.md",
     "Network/DNS.md",
     "Network/CSP Content-Security-Policy.md",
-    "C#/C Sharp Advanced.md",
     "JavaScript/型別判定相等.md",
-    "C#/C Sharp Beginning.md",
-    "C#/C Sharp Intermediate.md",
     "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20240706145706.png",
     "assets/img/sameness_comparison.png",

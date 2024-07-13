@@ -235,7 +235,7 @@ From Person.Person
 ```
 
 ![[Pasted image 20240713221612.png]]
-### Inner Join
+### Inner Join (交集)
 
 ```SQL
 /* Join / Inner join. Join two table data with same DepID */
@@ -245,7 +245,7 @@ Join tableDepartments
 On tableEmployees.DepID=tableDepartments.DepID
 ```
 
-### Left Join / Right Join 
+### Left Join / Right Join (左交集/右交集)
 
 ```SQL
 /* Left(outer) / Right(outer) Join.
@@ -257,13 +257,14 @@ Left Join Sales.SalesOrderDetail as S
 On P.ProductID=S.ProductID
 ```
 ### Full Join (聯集)
+
 ```SQL
 /* Full(outer) Join.
-Pick all data from left table and data from right table with same ProductID, */
+Pick all data from left and right table with same ProductID, */
 Select Name, SalesOrderDetailID
 From Production.Product as P
 Full Join Sales.SalesOrderDetail as S
 On P.ProductID=S.ProductID
 ```
-
+### Self Join
 

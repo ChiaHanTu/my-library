@@ -193,6 +193,13 @@ Select * From Person.Person Where FirstName Like '%a'
 Select * From Person.Person Where FirstName Like '%inda%'
 ```
 
+```SQL
+/* Find six letter names endsing with inda */
+Select * From Person.Person Where FirstName Like '__inda'
+```
 
+```SQL
+Select * From Person.Person Where FirstName Link
+```
 
 

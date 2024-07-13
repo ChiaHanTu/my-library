@@ -13,7 +13,9 @@
 > Normalization guidelines are divided into normal forms. As the format or the way a database structure is laid out.
 ### 1NF (First Normal Form)
 
- 
+ - The data in each column should only have single value.
+ - Each set of related data should be identified with a primary key.
+ - All the columns in a table should have unique n
 
 
 

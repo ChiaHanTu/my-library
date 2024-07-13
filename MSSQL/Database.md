@@ -23,7 +23,7 @@
 ### 3NF
 
 -  Include all the rules of the 2NF.
-- The table shouldn't contain columns that are not fully dependan
+- The table shouldn't contain columns that are not fully depend upon primary key.
 
 
 

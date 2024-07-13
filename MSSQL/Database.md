@@ -57,8 +57,14 @@ Create Table tableEmployees(
 	EmployeeId int primary key Not Null, /* Primary key */
 	EmplyeeName varchar(50) Not Null, /* Not Null */
 	Phone int Not Null,
-	DepID int Not Null,
+	DepID int foreign key references
+	tableDeparments(DepID) Not Null, /* Foreign key*/
 	Salary Decimal (10, 2) Default 3000.00 /* Default */
+)
+
+Create Table tableEmployees(
+	DepID int primary key Not Null,
+	Department
 )
 ```
 

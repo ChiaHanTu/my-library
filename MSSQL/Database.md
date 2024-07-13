@@ -170,6 +170,9 @@ Group By Shelf
 and process before Group By Clause */
 
 /* Having Clause is executed after Group By */
+
+/* If filtering can be done without the aggregate function.
+Then must use Where clause because it improves performance  */
 ```
 
 

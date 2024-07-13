@@ -124,5 +124,11 @@ Delete tableEmployees
 Where EmployeeID=1001
 ```
 
+### Logical Operations
 
+```SQL
+Select *
+From Person.Person
+Where BusinessEnti
+```
 

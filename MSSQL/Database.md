@@ -2,7 +2,6 @@
 
 - Relational: MSSQL Server, MySQL, Oracle
 - None Relational: NoSQL
-
 ### SSMS SQL Server Management Studio 
 
 ## Normalization
@@ -11,8 +10,9 @@
 - Eliminating redundant data.
 - Ensuring data dependencies make sense.
 
-> Normalization guidelines are divided into normal forms
+> Normalization guidelines are divided into normal forms. As the format or the way a database structure is laid out.
 ### 1NF (First Normal Form)
+
 
 
 

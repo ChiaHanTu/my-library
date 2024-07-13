@@ -171,8 +171,13 @@ and process before Group By Clause */
 
 /* Having Clause is executed after Group By */
 
+/* Aggregate */
+Select Shelf, sum(Quantity) As Quantity,
+From Production.ProductInventory
+Group By Shelf Having sum(Quantity)>10000 Order By Shelf
+
 /* If filtering can be done without the aggregate function.
-Then must use Where clause because it improves performance  */
+Then must use Where clause because it improves performance */
 ```
 
 

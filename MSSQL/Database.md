@@ -62,9 +62,9 @@ Create Table tableEmployees(
 	Salary Decimal (10, 2) Default 3000.00 /* Default */
 )
 
-Create Table tableEmployees(
+Create Table tableDeparments(
 	DepID int primary key Not Null,
-	Department
+	DepartmentName varchar(50) Not Null
 )
 ```
 

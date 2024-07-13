@@ -358,6 +358,10 @@ Select * From Production.Product as P
 Where Not Exist
 	(Select ProductID from Sales.SalesOrderDetail as S
 	Where P.ProductID = S.ProductID)
+
+
+/* Put data into another table */
+
 ```
 
 

@@ -32,13 +32,20 @@ Drop database TEST2
 /* if other connection is still exist. It cannot drop database*/
 ```
 
-	```SQL
+```SQL
+Use Company /* Selected Database */
+Go
+
 Create Table tableEmployees(
 	EmployeeId int primary key Not Null,
 	EmplyeeName varchar(50) Not Null,
 	Phone int Not Null,
 	DepID int Not Null,
 )
+
+/* */
+EXEC sp_rename 'tableEmployees', 'Employees'
+Drop Table Employees
 ```
 
 ## Constraints

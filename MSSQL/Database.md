@@ -288,12 +288,26 @@ Where P1.ListPrice = P2.ListPrice
 
 ## Set Operation
 
+### Union / Union All
+
 ```SQL
-/* get distinct values */
+/* Union, get distinct values */
 Select CurrencyCode -- 109
 from Sales.CountryRegionCurrency
 Union
 Select CurrencyCode --105
 from Sales.Currency
+
+/* The result is 105 because some duplicate values */
+
+/* Union All */
+Select CurrencyCode -- 109
+from Sales.CountryRegionCurrency
+Union
+Select CurrencyCode --105
+from Sales.Currency
+/* Union All will retrieve all data including duplicate values */
 ```
+f
+
 

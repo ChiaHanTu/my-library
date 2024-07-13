@@ -180,7 +180,7 @@ Group By Shelf Having sum(Quantity)>10000 Order By Shelf
 Then must use Where clause because it improves performance */
 ```
 
-### Wildcard operation with Like / no
+### Wildcard operation with Like / Not Like
 
 ```SQL
 /* Find data which starts with ang */
@@ -206,5 +206,9 @@ Select * From Person.Person Where FirstName Like '[abc]%'
 Select * From Person.Person Where FirstName Like '[a-c]%'
 ```
 
+### Case function 
 
+```SQL
+Select DepID
+```
 

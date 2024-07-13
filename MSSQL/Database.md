@@ -361,7 +361,14 @@ Where Not Exist
 
 
 /* Put data into another table */
-
+Insert Into Person.StateProvinceTest
+	Select StatusProvinceCode,
+			CountryRegionCode,
+			IsOnlyStateProvinceFlag,
+			Name,
+			TerritoryID,
+			ModifiedDate
+	From Person.StateProvince
 ```
 
 

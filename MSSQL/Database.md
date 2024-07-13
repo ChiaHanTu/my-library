@@ -180,7 +180,7 @@ Group By Shelf Having sum(Quantity)>10000 Order By Shelf
 Then must use Where clause because it improves performance */
 ```
 
-### Wildcard operation
+### Wildcard operation with Like / no
 
 ```SQL
 /* Find data which starts with ang */
@@ -199,7 +199,12 @@ Select * From Person.Person Where FirstName Like '__inda'
 ```
 
 ```SQL
-Select * From Person.Person Where FirstName Link
+/* Find first names starts with a, b or c */
+Select * From Person.Person Where FirstName Like '[abc]%'
+
+/* Same result */
+Select * From Person.Person Where FirstName Like '[a-c]%'
 ```
+
 
 

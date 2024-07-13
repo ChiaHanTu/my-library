@@ -209,6 +209,12 @@ Select * From Person.Person Where FirstName Like '[a-c]%'
 ### Case function 
 
 ```SQL
-Select DepID
+Select DepID, DepartmentName,
+	Case
+		When DepartmentName='IT' Then 'Information Technology'
+		When DepartmentName='HR' Then 'Human Resources'
+		When DepartmentName='FI' Then 'Financial Institution'
+		END
+from tableDepartments
 ```
 

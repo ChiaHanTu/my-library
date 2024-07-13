@@ -15,7 +15,12 @@
 
  - The data in each column should only have single value.
  - Each set of related data should be identified with a primary key.
- - All the columns in a table should have unique n
+ - All the columns in a table should have unique names.
+### 2NF
+
+- Include all the rules of the 1NF
+- Each set of related data should be stored in a seperate table.
+
 
 
 

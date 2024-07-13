@@ -60,6 +60,7 @@ Create Table tableEmployees(
 	DepID int foreign key references
 	tableDeparments(DepID) Not Null, /* Foreign key*/
 	Salary Decimal (10, 2) Default 3000.00 /* Default */
+	Age
 )
 
 Create Table tableDeparments(
@@ -67,10 +68,13 @@ Create Table tableDeparments(
 	DepartmentName varchar(50) Not Null
 )
 
+/* Alter table unique key */
 Alter Table tableEmployees
 Add Constraint U_Phone
 Unique(Phone)
 ```
+
+	
 
 
 

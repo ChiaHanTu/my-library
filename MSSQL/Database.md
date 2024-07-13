@@ -396,7 +396,7 @@ Select DATEADD(DAY, -5, '2020-01-20') -- '2020-01-15 00:00:00.000'
 Select DATEDIFF(YEAR, '2020-01-23', '2024-01-23') -- 4
 
 /* third parameter represent type of format */
-Select Convert(varchar, GETDATE()) -- 01/11/20
+Select Convert(varchar, GETDATE()) -- 01/11/20 (type 1)
 Select Convert(varchar, GETDATE(), 2) -- 20.01.11
 ```
 

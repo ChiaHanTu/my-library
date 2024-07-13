@@ -353,7 +353,8 @@ Where ProductID = (
 	Where Name = 'Blade'
 )
 
-Select * From Sales.SalesOrderDetail as P
+/* Select products that are not ordered yet */
+Select * From Production.Product as P
 Where Not Exist
 	(Select ProductID from Sales.SalesOrderDetail as S
 	Where P.ProductID = S.ProductID)

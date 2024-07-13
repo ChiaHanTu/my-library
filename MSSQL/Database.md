@@ -115,3 +115,14 @@ Set EmployeeName='Frank', Phone=56875599
 Where EmployeeID=1001
 ```
 
+```SQL
+/* All data will be deleted*/
+Delete tableEmployees
+
+/* Delete */
+Delete tableEmployees
+Where EmployeeID=1001
+```
+
+
+

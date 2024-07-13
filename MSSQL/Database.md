@@ -111,7 +111,7 @@ Values(1005, 'Steve', 44889988, 1)
 ```SQL
 /* Update */
 Update tableEmployees
-Set EmployeeName = 'Frank'
-Where EmployeeID = 11
+Set EmployeeName='Frank', Phone=56875599
+Where EmployeeID=1001
 ```
 

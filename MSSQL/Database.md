@@ -35,7 +35,7 @@ Drop database TEST2
 ```SQL
 Use Company /* Selected Database */
 Go
-
+/* Create */
 Create Table tableEmployees(
 	EmployeeId int primary key Not Null,
 	EmplyeeName varchar(50) Not Null,
@@ -43,8 +43,10 @@ Create Table tableEmployees(
 	DepID int Not Null,
 )
 
-/* */
+/* Rename */
 EXEC sp_rename 'tableEmployees', 'Employees'
+
+/* Drop */
 Drop Table Employees
 ```
 
@@ -52,10 +54,11 @@ Drop Table Employees
 
 ```SQL
 Create Table tableEmployees(
-	EmployeeId int primary key Not Null,
+	EmployeeId int primary key Not Null, /* Not NUll*/
 	EmplyeeName varchar(50) Not Null,
 	Phone int Not Null,
 	DepID int Not Null,
+	Salary Decimal (10, 2) Default 3000.00 /* Default */
 )
 ```
 

@@ -7,6 +7,10 @@
 
 ## Normalization
 
+- Organizing data in the database.
+- Eliminating redundant data.
+- Ensuring data dependencies make sense.
+
 
 
 

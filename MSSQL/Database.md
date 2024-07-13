@@ -54,8 +54,8 @@ Drop Table Employees
 
 ```SQL
 Create Table tableEmployees(
-	EmployeeId int primary key Not Null, /* Not NUll*/
-	EmplyeeName varchar(50) Not Null,
+	EmployeeId int primary key Not Null, /* Primary key */
+	EmplyeeName varchar(50) Not Null, /* Not Null */
 	Phone int Not Null,
 	DepID int Not Null,
 	Salary Decimal (10, 2) Default 3000.00 /* Default */

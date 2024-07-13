@@ -54,13 +54,13 @@ Drop Table Employees
 
 ```SQL
 Create Table tableEmployees(
-	EmployeeId int primary key Not Null, /* Primary key */
+	EmployeeId int Primary Key Not Null, /* Primary key */
 	EmplyeeName varchar(50) Not Null, /* Not Null */
-	Phone int Not Null unique, /* Unique */
-	DepID int foreign key references
+	Phone int Not Null Unique, /* Unique */
+	DepID int Foreign key references
 	tableDeparments(DepID) Not Null, /* Foreign key*/
 	Salary Decimal (10, 2) Default 3000.00 /* Default */
-	Age
+	Age int Not Null Check (Age >= 18) /* Check */ 
 )
 
 Create Table tableDeparments(

@@ -376,6 +376,8 @@ Set TerritoryID = 99
 Where CountryCode IN
 	(Select CountryRegionCode from Person.StateProvince
 	Where CountryRegionCode = 'CA')
+
+/* Delet*/
 ```
 
 

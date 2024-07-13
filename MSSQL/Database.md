@@ -389,6 +389,9 @@ Where CountryCode In
 ```SQL
 Select DATEPART(YEAR, '2020-01-23') -- 2020 (integer)
 Select DATENAME(MONTH, '2020-01-23') -- January (Nvarchar)
+
+Select DATEADD(DAY, 5, '2020-01-20') -- '2020-01-25 00:00:00.000'
+Select DATEADD(DAY, -5, '2020-01-20') -- '2020-01-15 00:00:00.000'
 ```
 
 

@@ -278,7 +278,6 @@ On P1.ListPrice = P2.ListPrice
 	And P1.Name <> P2.Name -- Exclude the same product
 Order By ListPrice
 
-
 /* Same result */
 Select P1.Name, P2 Name, P1 ListPrice
 From Production.Product as P1, Production.Product as P2
@@ -286,3 +285,5 @@ Where P1.ListPrice = P2.ListPrice
 	And P1.ListPrice <> 0 -- value is not equal to 0 
 	And P1.Name <> P2.Name
 ```
+
+

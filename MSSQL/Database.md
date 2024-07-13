@@ -244,14 +244,16 @@ Join tableDepartments
 On tableEmployees.DepID=tableDepartments.DepID
 ```
 
-### Left Join
+### Left Join / Right Join 
 
 ```SQL
-/* Left(outer) Join.
+/* Left(outer) / Right(outer) Join.
 Pick all data from left table and data from right table with same ProductID,
-it will show S.SalesOrderDetailID data from left if it contains , or display null */
+it will show S.SalesOrderDetailID from left if it contains, or will display null */
 Select Name, SalesOrderDetailID
 From Production.Product as P
 Left Join Sales.SalesOrderDetail as S
 On P.ProductID=S.ProductID
 ```
+
+

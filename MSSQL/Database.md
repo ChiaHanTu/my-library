@@ -158,9 +158,13 @@ Order By Shelf
 /* Having */
 Select Shelf, sum(Quantity)
 From Production.ProductInventory
+Group By Shelf Having Shelf='A'
+
+/* same result */
+Select Shelf, sum(Quantity)
+From Production.ProductInventory
+Where Shelf='A'
 Group By Shelf
-Order By Shelf
-Having 
 ```
 
 

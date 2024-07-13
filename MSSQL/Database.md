@@ -127,8 +127,16 @@ Where EmployeeID=1001
 ### Logical Operations
 
 ```SQL
+/* between */
 Select *
 From Person.Person
-Where BusinessEnti
+Where BusinessEntityID between 1 and 5
+
+/* In */
+Select *
+From Person.Person
+Where BusinessEntityID In(1,2,5)
+
+
 ```
 

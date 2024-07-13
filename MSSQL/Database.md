@@ -387,7 +387,8 @@ Where CountryCode In
 ## Datetime function 
 
 ```SQL
-Select DATEPART(YEAR, '2020-01-23') -- 2020
+Select DATEPART(YEAR, '2020-01-23') -- 2020 (integer)
+Select DATENAME(MONTH, '2020-01-23') -- January
 ```
 
 

@@ -145,9 +145,13 @@ Where BusinessEntityID In(1,2,5)
 Select Distinct PersonType
 From Person.Person
 
-/* order by */
+/* Order by */
 Select FirstName, MiddleName, LastName
-From Person.Person Order By FirstName ASC
+From Person.Person Order By FirstName ASC /* or DESC */
+
+/* Group by */
+Select Shelf, sum(Quantity)
+From Production.ProductInventory
 ```
 
 

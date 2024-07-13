@@ -271,6 +271,14 @@ On P.ProductID=S.ProductID
 ```SQL
 /* Finds Product with the same list price */
 Select P1.Name, P2 Name, P1 ListPrice
+From Production.Product P1
+Join Production.Product P2
+On P1.ListPrice = P2.ListPrice
+	And P1.ListPrice <> 0 -- Exclude products with no price
+	And P1.Name <> P2.Name -- Exclude 
+
+
+Select P1.Name, P2 Name, P1 ListPrice
 From Production.Product as P1, Production.Product as P2
 Where P1.ListPrice = P2.ListPrice
 	And P1.ListPrice <> 0 /* value is not equal to 0 */

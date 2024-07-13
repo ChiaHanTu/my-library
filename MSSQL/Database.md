@@ -289,7 +289,7 @@ Where P1.ListPrice = P2.ListPrice
 ## Set Operation
 
 - The result sets of all queries must have the same number of columns.
-- In every 
+- In every result set the data type of each column must match the data type of its corresponding column in the first result set.
 ### Union / Union All
 
 ```SQL

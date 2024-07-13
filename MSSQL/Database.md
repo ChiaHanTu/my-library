@@ -247,5 +247,8 @@ On tableEmployees.DepID=tableDepartments.DepID
 ### Left Join
 
 ```SQL
-
+Select Name, SalesOrderDetailID
+From Production.Product as P
+Left Join Sale.SalesOrderDetail as S
+On P.Product
 ```

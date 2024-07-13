@@ -237,5 +237,9 @@ From Person.Person
 ### Inner Join
 
 ```SQL
-
+/* Join / Inner join */
+Select EmployeeID, EmployeeName, DepartmentName
+From tableEmployees
+Join tableDepartments
+On tableEmployees.DepID=tableDepartments.DepID
 ```

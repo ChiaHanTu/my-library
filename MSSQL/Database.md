@@ -247,8 +247,9 @@ On tableEmployees.DepID=tableDepartments.DepID
 ### Left Join
 
 ```SQL
-/* Left(outer) Join. Pick all data from left table,
-if data contains Sales*/
+/* Left(outer) Join.
+Pick all data from left table and data from right table with same ProductID,
+if data contains SalesOrderDetailID, it will show, or display null */
 Select Name, SalesOrderDetailID
 From Production.Product as P
 Left Join Sales.SalesOrderDetail as S

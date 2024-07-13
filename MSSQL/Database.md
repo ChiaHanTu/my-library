@@ -95,7 +95,11 @@ Check(Age >= 18)
 Alter Table tableEmployees
 Drop Constraint CHK_EmployeeAge
 ```
+### Data manipulation
 
-
-
+```SQL
+Insert Into tableEmployees
+(EmployeeID, EmployeeName, Phone, DepID)
+Values(1005, 'Steve', 44889988, 1)
+```
 

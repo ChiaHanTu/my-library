@@ -297,17 +297,16 @@ from Sales.CountryRegionCurrency
 Union
 Select CurrencyCode --105
 from Sales.Currency
-
 /* The result is 105 because some duplicate values */
 
-/* Union All */
+/* Union All, including duplicate values*/
 Select CurrencyCode -- 109
 from Sales.CountryRegionCurrency
-Union
+Union All
 Select CurrencyCode --105
 from Sales.Currency
-/* Union All will retrieve all data including duplicate values */
+/* The result is 214 */
 ```
-f
+
 
 

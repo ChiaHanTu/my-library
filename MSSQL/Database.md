@@ -20,7 +20,10 @@
 
 - Include all the rules of the 1NF
 - Each set of related data should be stored in a separate table.
+### 3NF
 
+-  Include all the rules of the 2NF.
+- The table shouldn't contain columns that are not fully dependan
 
 
 

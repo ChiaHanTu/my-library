@@ -288,4 +288,12 @@ Where P1.ListPrice = P2.ListPrice
 
 ## Set Operation
 
+```SQL
+/* get distinct values */
+Select CurrencyCode -- 109
+from Sales.CountryRegionCurrency
+Union
+Select CurrencyCode --105
+from Sales.Currency
+```
 

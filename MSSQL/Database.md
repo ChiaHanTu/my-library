@@ -268,3 +268,7 @@ On P.ProductID=S.ProductID
 ```
 ### Self Join
 
+```SQL
+Select P1.Name, P2 Name, P1 ListPrice
+From Production.Product as P1
+```

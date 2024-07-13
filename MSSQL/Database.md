@@ -255,5 +255,15 @@ From Production.Product as P
 Left Join Sales.SalesOrderDetail as S
 On P.ProductID=S.ProductID
 ```
+### Full Join
+```SQL
+/* Left(outer) / Right(outer) Join.
+Pick all data from left table and data from right table with same ProductID,
+it will show S.SalesOrderDetailID from left if it contains, or will display null */
+Select Name, SalesOrderDetailID
+From Production.Product as P
+Left Join Sales.SalesOrderDetail as S
+On P.ProductID=S.ProductID
+```
 
 

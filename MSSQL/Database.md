@@ -373,12 +373,19 @@ Insert Into Person.StateProvinceTest
 /* Change all Canada's territoryID into 99 */
 Update Person.StateProvinceTest
 Set TerritoryID = 99
-Where CountryCode IN
+Where CountryCode In
 	(Select CountryRegionCode from Person.StateProvince
 	Where CountryRegionCode = 'CA')
 
-/* Delet*/
+/* Delete all Canada data */
+Delete From Person.StateProvinceTest
+Where CountryCode In
+	(Select CountryRegionCode from Person.StateProvince
+	Where CountryRegionCode = 'CA')
 ```
+
+
+
 
 
 

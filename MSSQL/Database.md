@@ -312,11 +312,18 @@ from Sales.Currency
 ```SQL
 Select JobTitle
 From HumanResources.Employee
-Where Gender = 'M'
-Intersect
+Where Gender = 'M' -- 206
+Intersect -- 26
 Select JobTitle
 From HumanResources.Employee
-Wher
+Where Gender = 'F' -- 84
+
+/* Same result */
+Select JobTitle
+From HumanResources.Employee As HR1
+Join 
 ```
+
+
 
 

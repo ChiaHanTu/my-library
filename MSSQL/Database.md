@@ -11,6 +11,8 @@
 - Eliminating redundant data.
 - Ensuring data dependencies make sense.
 
+> Normalization guidelines are divided into normal forms
+### 1NF (First Normal Form)
 
 
 

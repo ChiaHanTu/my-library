@@ -152,6 +152,15 @@ From Person.Person Order By FirstName ASC /* or DESC */
 /* Group by */
 Select Shelf, sum(Quantity)
 From Production.ProductInventory
+Group By Shelf
+Order By Shelf
+
+/* Having */
+Select Shelf, sum(Quantity)
+From Production.ProductInventory
+Group By Shelf
+Order By Shelf
+Having 
 ```
 
 

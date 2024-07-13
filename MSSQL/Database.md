@@ -56,7 +56,7 @@ Drop Table Employees
 Create Table tableEmployees(
 	EmployeeId int primary key Not Null, /* Primary key */
 	EmplyeeName varchar(50) Not Null, /* Not Null */
-	Phone int Not Null,
+	Phone int Not Null unique, /* Unique */
 	DepID int foreign key references
 	tableDeparments(DepID) Not Null, /* Foreign key*/
 	Salary Decimal (10, 2) Default 3000.00 /* Default */

@@ -319,7 +319,7 @@ From HumanResources.Employee
 Where Gender = 'F' -- 84
 
 /* Same result */
-Select JobTitle
+Select Distinct JobTitle
 From HumanResources.Employee As EM
 Join HumanResources.Employee As EF
 On EM.JobTitle = EF.JobTitle

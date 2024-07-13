@@ -98,8 +98,17 @@ Drop Constraint CHK_EmployeeAge
 ### Data manipulation
 
 ```SQL
+/* Insert */
 Insert Into tableEmployees
 (EmployeeID, EmployeeName, Phone, DepID)
 Values(1005, 'Steve', 44889988, 1)
+
+/* Same result*/
+Insert Into tableEmployees
+Values(1005, 'Steve', 44889988, 1)
+```
+
+```SQL
+
 ```
 

@@ -220,4 +220,9 @@ from tableDepartments
 
 ### Conversion function 
 
-
+```SQL
+/* Transform Date type to string type */
+Select FirstName, LastName, ModifiedDate,
+	Case(ModifiedDate as varchar) DateToText
+From Person.Person
+```

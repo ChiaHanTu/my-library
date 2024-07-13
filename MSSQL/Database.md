@@ -4,6 +4,7 @@
 - None Relational: NoSQL
 ### SSMS SQL Server Management Studio 
 
+---
 ## Normalization
 
 - Organizing data in the database.
@@ -11,6 +12,7 @@
 - Ensuring data dependencies make sense.
 
 > Normalization guidelines are divided into normal forms. As the format or the way a database structure is laid out.
+
 ### 1NF (First Normal Form)
 
  - The data in each column should only have single value.
@@ -24,6 +26,8 @@
 
 -  Include all the rules of the 2NF.
 - The table shouldn't contain columns that are not fully depend upon primary key.
+
+--- 
 
 ```SQL
 Create database TEST2

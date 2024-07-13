@@ -29,7 +29,16 @@
 Create database TEST2
 Alter database TEST3 modify name=TEST1
 Drop database TEST2
-// if
+/* if other connection is still exist. It cannot drop database*/
+```
+
+	```SQL
+Create Table tableEmployees(
+	EmployeeId int primary key Not Null,
+	EmplyeeName varchar(50) Not Null,
+	Phone int Not Null,
+	DepID int Not Null,
+)
 ```
 
 ## Constraints

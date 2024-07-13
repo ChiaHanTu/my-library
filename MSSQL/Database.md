@@ -388,7 +388,7 @@ Where CountryCode In
 
 ```SQL
 Select DATEPART(YEAR, '2020-01-23') -- 2020 (integer)
-Select DATENAME(MONTH, '2020-01-23') -- January
+Select DATENAME(MONTH, '2020-01-23') -- January (Nvarchar)
 ```
 
 

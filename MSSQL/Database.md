@@ -137,6 +137,9 @@ Select *
 From Person.Person
 Where BusinessEntityID In(1,2,5)
 
-/* */
+/* Distinct */
+Select Distinct PersonType
+From Person.Person
 ```
+
 

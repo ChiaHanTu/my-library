@@ -180,6 +180,6 @@ Group By Shelf Having sum(Quantity)>10000 Order By Shelf
 Then must use Where clause because it improves performance */
 ```
 
-
+### Wild
 
 

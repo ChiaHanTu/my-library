@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -232,18 +231,20 @@
   },
   "active": "4f7752455bce71e9",
   "lastOpenFiles": [
+    "Test/Test Method.md",
+    "Test/Practice Note.md",
     "DotNet/WebApis.md",
+    "C#/C Sharp Beginning.md",
+    "C#/C Sharp Intermediate.md",
+    "C#/Basic.md",
     "MSSQL/Database.md",
     "C#/Service Lifetime.md",
     "Untitled 1",
     "Untitled",
     "MSSQL",
-    "C#/C Sharp Intermediate.md",
-    "C#/C Sharp Beginning.md",
     "C#/C Sharp Advanced.md",
     "Network/OSI Model.md",
     "DotNet",
-    "C#/Basic.md",
     "Network/HTTP.md",
     "Network/Worker.md",
     "Network/Web Socket.md",
@@ -264,8 +265,6 @@
     "JavaScript/作用域.md",
     "JavaScript/Parsing process.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
-    "JavaScript/for 迴圈比較.md",
-    "OS/Linux.md",
     "assets/img/Pasted image 20240528210204.png",
     "C#",
     "Note.zip",

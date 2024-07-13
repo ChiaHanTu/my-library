@@ -28,6 +28,7 @@
 - The table shouldn't contain columns that are not fully depend upon primary key.
 
 --- 
+- database
 
 ```SQL
 Create database TEST2
@@ -35,6 +36,8 @@ Alter database TEST3 modify name=TEST1
 Drop database TEST2
 /* if other connection is still exist. It cannot drop database*/
 ```
+
+- table 
 
 ```SQL
 Use Company /* Selected Database */

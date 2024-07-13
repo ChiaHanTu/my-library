@@ -3,6 +3,11 @@
 - Relational: MSSQL Server, MySQL, Oracle
 - None Relational: NoSQL
 
-### SSMS SQL Server Management Studio
+### SSMS SQL Server Management Studio 
+
+## Normalization
+
+
+
 
 

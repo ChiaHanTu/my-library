@@ -286,4 +286,6 @@ Where P1.ListPrice = P2.ListPrice
 	And P1.Name <> P2.Name
 ```
 
+## Set Operation
+
 

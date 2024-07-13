@@ -72,6 +72,15 @@ Create Table tableDeparments(
 Alter Table tableEmployees
 Add Constraint U_Phone
 Unique(Phone)
+
+/* Add check */
+Alter Table tableEmployees
+Add Constraint CHK_EmployeeAge
+Check(Age >= 18)
+
+/* Drop check */
+Alter Table tableEmployees
+Drop Constraint CHK_EmployeeAge
 ```
 
 	

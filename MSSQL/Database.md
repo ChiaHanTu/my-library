@@ -180,6 +180,14 @@ Group By Shelf Having sum(Quantity)>10000 Order By Shelf
 Then must use Where clause because it improves performance */
 ```
 
-### Wild
+### Wildcard 
+
+```SQL
+/* Find data which stast */
+Select * From Person.Person Where FirstName Like 'ang%'
+
+/* Find data which ends with a */
+Select * From Person.Person Where FirstName Like '%a'
+```
 
 

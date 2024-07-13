@@ -136,10 +136,16 @@ Where BusinessEntityID between 1 and 5
 Select *
 From Person.Person
 Where BusinessEntityID In(1,2,5)
+```
 
+### Sorting and grouping data
+
+```SQL
 /* Distinct */
 Select Distinct PersonType
 From Person.Person
+
+
 ```
 
 

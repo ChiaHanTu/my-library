@@ -320,8 +320,11 @@ Where Gender = 'F' -- 84
 
 /* Same result */
 Select JobTitle
-From HumanResources.Employee As HR1
-Join 
+From HumanResources.Employee As EM
+Join HumanResources.Employee As EF
+On EM.JobTitle = EF.JobTitle
+	And EM.Gender = 'M'
+	And EF.Gender = 'F'
 ```
 
 

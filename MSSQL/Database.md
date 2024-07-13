@@ -237,9 +237,15 @@ From Person.Person
 ### Inner Join
 
 ```SQL
-/* Join / Inner join */
+/* Join / Inner join. Join two table data with same DepID */
 Select EmployeeID, EmployeeName, DepartmentName
 From tableEmployees
 Join tableDepartments
 On tableEmployees.DepID=tableDepartments.DepID
+```
+
+### Left Join
+
+```SQL
+
 ```

@@ -331,7 +331,16 @@ On EM.JobTitle = EF.JobTitle
 ### Except
 
 ```SQL
-
+/* Jobtitle just held by male */
+Select JobTitle
+From HumanResources.Employee
+Where Gender = 'M' -- 206
+Except -- 31
+Select JobTitle
+From HumanResources.Employee
+Where Gender = 'F' -- 84
 ```
+
+
 
 

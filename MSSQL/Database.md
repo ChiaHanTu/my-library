@@ -369,6 +369,11 @@ Insert Into Person.StateProvinceTest
 			TerritoryID,
 			ModifiedDate
 	From Person.StateProvince
+
+Update Person.StateProvinceTest
+Set TerritoryID = 99
+Where CountryCode IN
+	(Select CountryRegionCode fr)
 ```
 
 

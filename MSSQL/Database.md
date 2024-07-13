@@ -165,6 +165,11 @@ Select Shelf, sum(Quantity)
 From Production.ProductInventory
 Where Shelf='A'
 Group By Shelf
+
+/* Where clause should process right after From clause
+and process before Group By Clause */
+
+/* Having Clause is executed after Group By */
 ```
 
 

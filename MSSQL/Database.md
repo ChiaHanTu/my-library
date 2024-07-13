@@ -384,7 +384,11 @@ Where CountryCode In
 	Where CountryRegionCode = 'CA')
 ```
 
+## Datetime function 
 
+```SQL
+Select DATEPART(YEAR, '2020-01-23') -- 2020
+```
 
 
 

@@ -234,6 +234,7 @@ From Person.Person
 /* 2009-01-07 00:00:00.000 -> Jan 7 2009 12:00 AM */
 ```
 
+![[Pasted image 20240713221612.png]]
 ### Inner Join
 
 ```SQL
@@ -255,9 +256,9 @@ From Production.Product as P
 Left Join Sales.SalesOrderDetail as S
 On P.ProductID=S.ProductID
 ```
-### Full Join
+### Full Join (聯集)
 ```SQL
-/* Left(outer) Join.
+/* Full(outer) Join.
 Pick all data from left table and data from right table with same ProductID, */
 Select Name, SalesOrderDetailID
 From Production.Product as P

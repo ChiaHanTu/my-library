@@ -25,6 +25,13 @@
 -  Include all the rules of the 2NF.
 - The table shouldn't contain columns that are not fully depend upon primary key.
 
+```SQL
+Create database TEST2
+Alter database TEST3 modify name=TEST1
+Drop database TEST2
+// if
+```
+
 ## Constraints
 
 ```SQL
@@ -35,5 +42,7 @@ Create Table tableEmployees(
 	DepID int Not Null,
 )
 ```
+
+
 
 

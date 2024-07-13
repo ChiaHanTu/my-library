@@ -307,6 +307,16 @@ Select CurrencyCode --105
 from Sales.Currency
 /* The result is 214 */
 ```
+### Intersect 
 
+```SQL
+Select JobTitle
+From HumanResources.Employee
+Where Gender = 'M'
+Intersect
+Select JobTitle
+From HumanResources.Employee
+Wher
+```
 
 

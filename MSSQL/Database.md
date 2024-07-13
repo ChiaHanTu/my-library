@@ -247,8 +247,10 @@ On tableEmployees.DepID=tableDepartments.DepID
 ### Left Join
 
 ```SQL
+/* Left(outer) Join. Pick all data from left table,
+if data contains Sales*/
 Select Name, SalesOrderDetailID
 From Production.Product as P
-Left Join Sale.SalesOrderDetail as S
-On P.Product
+Left Join Sales.SalesOrderDetail as S
+On P.ProductID=S.ProductID
 ```

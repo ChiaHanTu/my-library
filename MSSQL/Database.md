@@ -288,7 +288,8 @@ Where P1.ListPrice = P2.ListPrice
 
 ## Set Operation
 
-- 
+- The result sets of all queries must have the same number of columns.
+- In every 
 ### Union / Union All
 
 ```SQL

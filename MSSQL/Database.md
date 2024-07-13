@@ -225,4 +225,6 @@ from tableDepartments
 Select FirstName, LastName, ModifiedDate,
 	Case(ModifiedDate as varchar) DateToText
 From Person.Person
+
+/* 2009/ */
 ```

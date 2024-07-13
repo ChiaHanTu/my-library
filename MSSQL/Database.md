@@ -25,5 +25,15 @@
 -  Include all the rules of the 2NF.
 - The table shouldn't contain columns that are not fully depend upon primary key.
 
+## Constraints
+
+```SQL
+Create Table tableEmployees(
+	EmployeeId int primary key Not Null,
+	EmplyeeName varchar(50) Not Null,
+	Phone int Not Null,
+	DepID int Not Null,
+)
+```
 
 

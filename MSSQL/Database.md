@@ -66,6 +66,10 @@ Create Table tableDeparments(
 	DepID int primary key Not Null,
 	DepartmentName varchar(50) Not Null
 )
+
+Alter Table tableEmployees
+Add Constraint U_Phone
+Unique(Phone)
 ```
 
 

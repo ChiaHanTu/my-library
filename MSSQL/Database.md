@@ -342,6 +342,18 @@ From HumanResources.Employee
 Where Gender = 'F' -- 84
 ```
 
-## Subqu
+## Subqueries
+
+```SQL
+/* Return the count of certain product with specific ID */
+Select Count(*) From Sales.SalesOrderDetail
+Where ProductID = (
+	Select ProductID
+	From Production.Product
+	Where Name = 'Blade'
+)
+```
+
+
 
 

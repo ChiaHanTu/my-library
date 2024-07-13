@@ -223,8 +223,13 @@ from tableDepartments
 ```SQL
 /* Transform Date type to string type */
 Select FirstName, LastName, ModifiedDate,
-	Case(ModifiedDate as varchar) DateToText
+	Cast(ModifiedDate as varchar) DateToText
 From Person.Person
 
-/* 2009/ */
+/* Same result */
+Select FirstName, LastName, ModifiedDate,
+	Convert()
+
+/* 2009-01-07 00:00:00.000 -> Jan 7 2009 12:00 AM */
 ```
+

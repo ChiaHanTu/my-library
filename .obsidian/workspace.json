@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f7752455bce71e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSSQL/Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Service Lifetime.md",
+                "file": "MSSQL/Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Service Lifetime.md",
+                "file": "MSSQL/Database.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Service Lifetime.md"
+                "file": "MSSQL/Database.md"
               }
             }
           },
@@ -193,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/Service Lifetime.md",
+                "file": "MSSQL/Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,12 +254,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "89b582f7144fd67e",
+  "active": "4f7752455bce71e9",
   "lastOpenFiles": [
+    "C#/Service Lifetime.md",
+    "MSSQL/Database.md",
+    "Untitled 1",
+    "Untitled",
+    "MSSQL",
     "C#/C Sharp Intermediate.md",
     "C#/C Sharp Beginning.md",
     "C#/C Sharp Advanced.md",
-    "C#/Service Lifetime.md",
     "DotNet/WebApis.md",
     "Network/OSI Model.md",
     "DotNet",
@@ -274,7 +290,6 @@
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "JavaScript/for 迴圈比較.md",
     "OS/Linux.md",
-    "patterns/SOLID 設計原則.md",
     "assets/img/Pasted image 20240528210204.png",
     "C#",
     "Note.zip",
@@ -285,11 +300,8 @@
     "assets/img/Pasted image 20231220155813.png",
     "CSS",
     "patterns",
-    "JavaScript",
     "Pasted image 20231130161429.png",
-    "OS",
     "Pasted image 20231130112850.png",
-    "Algorithm",
     "Untitled.canvas"
   ]
 }

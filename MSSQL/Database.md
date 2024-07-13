@@ -19,7 +19,7 @@
 ### 2NF
 
 - Include all the rules of the 1NF
-- Each set of related data should be stored in a seperate table.
+- Each set of related data should be stored in a separate table.
 
 
 

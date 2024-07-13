@@ -210,11 +210,14 @@ Select * From Person.Person Where FirstName Like '[a-c]%'
 
 ```SQL
 Select DepID, DepartmentName,
-	Case
-		When DepartmentName='IT' Then 'Information Technology'
-		When DepartmentName='HR' Then 'Human Resources'
-		When DepartmentName='FI' Then 'Financial Institution'
-		END
+	Case DepartmentName
+		When 'IT' Then 'Information Technology'
+		When 'HR' Then 'Human Resources'
+		Else 'Financial Institution'
+	END As 'Department Long Name'
 from tableDepartments
 ```
+
+### Conversion function 
+
 

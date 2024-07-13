@@ -288,6 +288,7 @@ Where P1.ListPrice = P2.ListPrice
 
 ## Set Operation
 
+- 
 ### Union / Union All
 
 ```SQL
@@ -327,6 +328,10 @@ On EM.JobTitle = EF.JobTitle
 	And EF.Gender = 'F'
 ```
 
+### Except
 
+```SQL
+
+```
 
 

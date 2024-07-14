@@ -421,7 +421,10 @@ Select Avg(ListPrice) From Production.Product
 Select Ceiling(15.01) -- 16
 Select Count(*) From Production.Product -- return product count
 Select Floor(15.99) -- 15
-Select Max(ListPrice)
+Select Max(ListPrice) From Production.Product
+Select Min(ListPrice) From Production.Product
+Select Power(2, 3) -- 8
+Select Rand() -- return a random number between 0-1, parameter is option
 ```
 
 

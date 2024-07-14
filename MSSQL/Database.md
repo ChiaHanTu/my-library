@@ -522,10 +522,17 @@ Where name = 'SequenceObject'
 Alter Sequence SequenceObject
 Restart With 1
 
+/* Insert SequenceObject's next value (1) into table */
 Insert Into HumanResources.Departments
 Values(
 	Next Value For SequenceObject, 'S'
 )
+
+/* decrement sequence */
+Create Sequence DecSequence
+As INT
+Start With 100
+Increment By -1
 ```
 
 

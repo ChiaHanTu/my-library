@@ -518,9 +518,14 @@ Select Next Value for SequenceObject
 Select current_value From sys.sequences
 Where name = 'SequenceObject'
 
-/**
+/* Reset sequence */
 Alter Sequence SequenceObject
 Restart With 1
+
+Insert Into HumanResources.Departments
+Values(
+	Next Value For SequenceObject, 'S'
+)
 ```
 
 

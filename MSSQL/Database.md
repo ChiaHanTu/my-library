@@ -408,7 +408,9 @@ Select LEFT('OAK ACADEMY 2020', 3) -- oak
 Select Trim('OAK ACADEMY      ') -- OAK ACADEMY
 Select Lower('OAK ACADEMY 2020') -- oak academy 2020
 Select Upper('oak academy 2020') -- OAK ACADEMY 2020
-Select Reverse('OAK ACADEMY 2020') -- 0202 YMED
+Select Reverse('OAK ACADEMY 2020') -- 0202 YMEDACA KAO
+Select Replace('OAK ACADEMY 2020', '2020', '2021') -- OAK ACADEMY 2021
+Select Substring('OAK ACADEMY 2020', 5, 12) -- ACADEMY 2020
 ```
 
 

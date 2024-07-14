@@ -475,6 +475,11 @@ Rollback Tran SaveMiddleName -- change of LastName will recover.
 
 ## Schema objects
 
+```SQL
+Create Schema TestSchema -- schema name
+Authorization Test_User -- schema owner
 
+
+```
 
 

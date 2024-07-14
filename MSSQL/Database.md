@@ -406,7 +406,9 @@ Select Convert(varchar, GETDATE(), 2) -- 20.01.11
 Select Len('OAK ACADEMY 2020') -- 16
 Select LEFT('OAK ACADEMY 2020', 3) -- oak
 Select Trim('OAK ACADEMY      ') -- OAK ACADEMY
-
+Select Lower('OAK ACADEMY 2020') -- oak academy 2020
+Select Upper('oak academy 2020') -- OAK ACADEMY 2020
+Select Reverse('OAK ACADEMY 2020') -- 0202 YMED
 ```
 
 

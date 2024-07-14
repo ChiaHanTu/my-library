@@ -493,5 +493,11 @@ Drop Schema TestSchema
 /* cannot remove the schema is still being used by other table */
 ```
 
+```SQL
+Create View VPersonWithMailAddress As
+Select FirstName, LastName, EmailAddress
+From Person.Person As P
+```
+
 
 

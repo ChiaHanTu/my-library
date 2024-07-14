@@ -455,4 +455,20 @@ Rollback -- cancel transaction, data will not affected
 Commit -- change data
 ```
 
+```SQL
+Begin Tran
+
+Update Person.Person
+Set FirstName = 'Tom' Where BusinessEntityID = 2
+Save Tran SaveFirstName
+
+Update Person.Person
+Set MiddleName = 'Z' Where BusinessEntityID = 2
+Save Tran SaveMiddleName
+
+Update Person.Person
+Set FirstName = 'Terri' Where BusinessEntityID = 2
+Save Tran SaveLastName 
+```
+
 

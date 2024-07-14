@@ -536,11 +536,21 @@ Increment By -1
 
 Select Next Value for DecSequence -- 100 -> 99 -> 98
 
+/* Set sequence with min/max value */
 Create Sequence MinMaxSequence
 Start With 100
 Increment By 20
 MinValue 100
 MaxValue 200
+
+/* set cycle mode. When number comes to max, it will go back to min */
+Alter Sequence MinMaxSequence
+Increment By 20
+MinValue 100
+MaxValue 200
+Cycle
+
+Drop Sequence MinMaxSequence
 ```
 
 

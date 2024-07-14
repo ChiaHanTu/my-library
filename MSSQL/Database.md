@@ -438,8 +438,9 @@ Select Square(3) -- 9
 
 ## SQL Transaction
 
-```SQL
+### ACID Principle
 
-```
+1. Atomicity - Transactions are all or nothing.
+2. Consistency - Only va
 
 

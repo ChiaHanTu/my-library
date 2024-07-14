@@ -428,7 +428,9 @@ Select Rand() -- return a random number between 0-1, parameter is option
 Select Rand(5) -- if passing a parameter, it will always return the same value
 Select Rand()*10 -- returns a random number between 0-10
 Select Floor(Rand()*10) -- returns a integer 0-10
-Select Round()
+Select Round(123.321, 0) -- 123.000
+Select Round(123.321, -1) -- 120.000
+Select Sqrt()
 ```
 
 

@@ -494,9 +494,13 @@ Drop Schema TestSchema
 ```
 
 ```SQL
-Create View VPersonWithMailAddress As
+Create View VPersonWithMailAddress As -- create view for future use.
 Select FirstName, LastName, EmailAddress
 From Person.Person As P
+Join Person.EmailAddress As E
+On P.BusinessEntityID = E.BusinessEntityID
+
+Select * From VPersonWithMailAddress -- get all data from written query.
 ```
 
 

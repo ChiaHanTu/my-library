@@ -485,7 +485,11 @@ Create Table TestSchema.Departments
 	DepartmentName varchar Not Null
 ) -- create a Departments table with TestSchema
 
-Alter
+/* Changes schema of a table */
+Alter Schema NewSchema -- new schema for the table
+Transfer TestSchema.Departments -- the schema being changed
+
+Drop Schema TestSchema -- cannot remove 
 ```
 
 

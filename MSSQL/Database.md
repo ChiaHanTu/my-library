@@ -400,7 +400,7 @@ Select Convert(varchar, GETDATE()) -- 01/11/20 (type 1)
 Select Convert(varchar, GETDATE(), 2) -- 20.01.11
 ```
 
-### String function
+## String function
 
 ```SQL
 Select Len('OAK ACADEMY 2020') -- 16
@@ -411,6 +411,14 @@ Select Upper('oak academy 2020') -- OAK ACADEMY 2020
 Select Reverse('OAK ACADEMY 2020') -- 0202 YMEDACA KAO
 Select Replace('OAK ACADEMY 2020', '2020', '2021') -- OAK ACADEMY 2021
 Select Substring('OAK ACADEMY 2020', 5, 12) -- ACADEMY 2020
+```
+
+## Math function 
+
+```SQL
+Select Abs(-202) -- 202
+Select Avg(ListPrice) From Production.Product
+Select Ceiling()
 ```
 
 

@@ -507,5 +507,11 @@ Drop View VPersonWithMailAddress
 
 ### Sequence
 
+```SQL
+Create Sequence SequenceObject
+Start With 1
+Increment By 1
+```
+
 
 

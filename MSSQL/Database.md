@@ -451,7 +451,8 @@ Update Person.Person
 Set FirstName = 'Terri' Where BusinessEntityID = 2
 /* The row will be locked until next move */
 
-Rollback -- cancel transaction, data 
+Rollback -- cancel transaction, data will not affected
+Commit -- change data
 ```
 
 

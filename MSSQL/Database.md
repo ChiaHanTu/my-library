@@ -489,7 +489,9 @@ Create Table TestSchema.Departments
 Alter Schema NewSchema -- new schema for the table
 Transfer TestSchema.Departments -- the schema being changed
 
-Drop Schema TestSchema -- cannot remove 
+Drop Schema TestSchema 
+/* cannot remove the schema is still being used by other table */
 ```
+
 
 

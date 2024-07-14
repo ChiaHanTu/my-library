@@ -505,5 +505,7 @@ Select * From VPersonWithMailAddress -- get all data from written query.
 Drop View VPersonWithMailAddress
 ```
 
+### Sequence
+
 
 

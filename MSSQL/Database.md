@@ -445,4 +445,13 @@ Select Square(3) -- 9
 3. Isolation - Transactions do not affect each other.
 4. Durability - Written data will not be lost.
 
+```SQL
+Begin Tran -- Begin transaction
+Update Person.Person
+Set FirstName = 'Terri' Where BusinessEntityID = 2
+/* The row will be locked until next move */
+
+Rollback -- cancel transaction, data 
+```
+
 

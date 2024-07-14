@@ -418,7 +418,10 @@ Select Substring('OAK ACADEMY 2020', 5, 12) -- ACADEMY 2020
 ```SQL
 Select Abs(-202) -- 202
 Select Avg(ListPrice) From Production.Product
-Select Ceiling()
+Select Ceiling(15.01) -- 16
+Select Count(*) From Production.Product -- return product count
+Select Floor(15.99) -- 15
+Select Max(ListPrice)
 ```
 
 

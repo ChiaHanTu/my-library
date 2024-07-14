@@ -403,7 +403,10 @@ Select Convert(varchar, GETDATE(), 2) -- 20.01.11
 ### String function
 
 ```SQL
-Select LEFT('OAK ACA)
+Select Len('OAK ACADEMY 2020') -- 16
+Select LEFT('OAK ACADEMY 2020', 3) -- oak
+Select Trim('OAK ACADEMY      ') -- OAK ACADEMY
+
 ```
 
 

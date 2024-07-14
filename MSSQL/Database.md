@@ -501,6 +501,8 @@ Join Person.EmailAddress As E
 On P.BusinessEntityID = E.BusinessEntityID
 
 Select * From VPersonWithMailAddress -- get all data from written query.
+
+Drop View VPersonWithMailAddress
 ```
 
 

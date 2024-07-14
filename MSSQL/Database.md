@@ -426,7 +426,9 @@ Select Min(ListPrice) From Production.Product
 Select Power(2, 3) -- 8
 Select Rand() -- return a random number between 0-1, parameter is option
 Select Rand(5) -- if passing a parameter, it will always return the same value
-Select Rand()*10 -- returns a number bwe
+Select Rand()*10 -- returns a random number between 0-10
+Select Floor(Rand()*10) -- returns a integer 0-10
+Select Round()
 ```
 
 

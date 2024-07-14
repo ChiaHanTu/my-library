@@ -533,6 +533,14 @@ Create Sequence DecSequence
 As INT
 Start With 100
 Increment By -1
+
+Select Next Value for DecSequence -- 100 -> 99 -> 98
+
+Create Sequence MinMaxSequence
+Start With 100
+Increment By 20
+MinValue 100
+MaxValue 200
 ```
 
 

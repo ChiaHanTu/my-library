@@ -460,15 +460,21 @@ Begin Tran
 
 Update Person.Person
 Set FirstName = 'Tom' Where BusinessEntityID = 2
-Save Tran SaveFirstName
+Save Tran SaveFirstName -- save point for first name
 
 Update Person.Person
 Set MiddleName = 'Z' Where BusinessEntityID = 2
-Save Tran SaveMiddleName
+Save Tran SaveMiddleName -- save point for middle name
 
 Update Person.Person
-Set FirstName = 'Terri' Where BusinessEntityID = 2
-Save Tran SaveLastName 
+Set FirstName = 'Walker' Where BusinessEntityID = 2
+Save Tran SaveLastName -- save point for last name
+
+Rollback Tran SaveMiddleName -- change of LastName will recover.
 ```
+
+## Schema objects
+
+
 
 

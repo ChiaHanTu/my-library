@@ -511,6 +511,16 @@ Drop View VPersonWithMailAddress
 Create Sequence SequenceObject
 Start With 1
 Increment By 1
+
+/* Next sequence value */
+Select Next Value for SequenceObject
+
+Select current_value From sys.sequences
+Where name = 'SequenceObject'
+
+/**
+Alter Sequence SequenceObject
+Restart With 1
 ```
 
 

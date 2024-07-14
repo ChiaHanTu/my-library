@@ -423,6 +423,8 @@ Select Count(*) From Production.Product -- return product count
 Select Floor(15.99) -- 15
 Select Max(ListPrice) From Production.Product
 Select Min(ListPrice) From Production.Product
+Select Sum(ListPrice) From Production.Product
+
 Select Power(2, 3) -- 8
 Select Rand() -- return a random number between 0-1, parameter is option
 Select Rand(5) -- if passing a parameter, it will always return the same value
@@ -430,7 +432,14 @@ Select Rand()*10 -- returns a random number between 0-10
 Select Floor(Rand()*10) -- returns a integer 0-10
 Select Round(123.321, 0) -- 123.000
 Select Round(123.321, -1) -- 120.000
-Select Sqrt()
+Select Sqrt(9) -- 3
+Select Square(3) -- 9
+```
+
+## SQL Transaction
+
+```SQL
+
 ```
 
 

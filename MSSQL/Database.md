@@ -441,6 +441,8 @@ Select Square(3) -- 9
 ### ACID Principle
 
 1. Atomicity - Transactions are all or nothing.
-2. Consistency - Only va
+2. Consistency - Only valid data is saved.
+3. Isolation - Transactions do not affect each other.
+4. Durability - Written data will not be lost.
 
 

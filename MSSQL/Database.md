@@ -479,7 +479,13 @@ Rollback Tran SaveMiddleName -- change of LastName will recover.
 Create Schema TestSchema -- schema name
 Authorization Test_User -- schema owner
 
+Create Table TestSchema.Departments
+(
+	ID int Not Null,
+	DepartmentName varchar Not Null
+) -- create a Departments table with TestSchema
 
+Alter
 ```
 
 

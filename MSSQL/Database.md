@@ -583,5 +583,6 @@ Grant Create Table To Admin
 Grant Select, Insert, Update, Delete On Table_1 to admin
 
 Deny Create Table To Admin
+Deny Select On Table_1 To Admin
 ```
 

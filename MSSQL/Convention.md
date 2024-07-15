@@ -25,4 +25,6 @@ Where roleid = 1
 > Avoid using `Select *` if possible, list the columns required.
 
 1. Inefficiency in moving data to the consumer.
-2. 
+2. Binding Problems. Query Columns with same name will cause confused.
+
+> Always specify table's column when invoked joining tables.

@@ -55,3 +55,5 @@ Grant execute on [dbo].[Odin+Mgmt_Test] to RoleOdin
 > Avoid to use Hint
 
 1. May cause performance issue.
+
+> Avoid parameter sniffing 

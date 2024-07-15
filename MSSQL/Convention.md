@@ -117,3 +117,11 @@ Select id From t Where num/2=100
 -- Instead 
 Select id From t Where num = 100 * 2
 ```
+
+> Avoid to use function or arithmetic at the left of equation in where condition.
+
+This 
+
+```SQL
+
+```

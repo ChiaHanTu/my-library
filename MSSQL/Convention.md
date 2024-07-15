@@ -14,8 +14,15 @@ Go
 
 1. SQL server ignore table transactions lock status if you using a with (nolock) hint.
 2. Locks in SQL server decrease and leads to performance increase.
+3. Possible to read uncommitted data.
+
 ```SQL
 Select a.Custid, a.UserName, a.Credit
 From dbo.Customer with (nolock)
 Where roleid = 1
 ```
+
+> Avoid using `Select *` if possible, list the columns required.
+
+1. Inefficiency in moving data to the consumer.
+2. 

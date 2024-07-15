@@ -574,6 +574,11 @@ Create User Test_User For Login admin
 ## Permissions and roles
 
 ```SQL
+Select P.* From sys.database_permissions As P
+Join sys.database_principals U
+On P.grantee_principal_id = U.principal_id
+Where U.name = 'admin'
 
+Grant Create Table To Admin 
 ```
 

@@ -39,7 +39,10 @@ As
 Begin
 	Set nocount on;
 End
-Go
+Go -- should add 
 Grant execute on [dbo].[Odin+Mgmt_Test] to RoleOdin
 ```
+> Avoid cross database to access data
 
+1. Info security concern.
+2. on

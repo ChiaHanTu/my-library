@@ -28,3 +28,7 @@ Where roleid = 1
 2. Binding Problems. Query Columns with same name will cause confused.
 
 > Always specify table's column when invoked joining tables.
+
+>Avoid use insert statement without specified columns to be inserted.
+
+> Missing Go statement while define grant execute to stored procedure.

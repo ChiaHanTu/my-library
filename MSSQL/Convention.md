@@ -88,5 +88,19 @@ Go
 1. Indexes available
 
 ```SQL
-if
+if @roleid = 2
+Begin
+	Exec dbo.ScanningStoredProcedure
+End
+else if @roleid = 3
+Begin
+	Exec dbo.SeekingStoredProcedure
+End
+```
+
+2. Where - like
+
+```SQL
+-- avoid
+Select * From orders Where customerid like ''
 ```

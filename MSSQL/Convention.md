@@ -133,3 +133,9 @@ createdate >= '2005-11-30' and
 createdate < '2005-12-1'
 ```
 
+>Avoid to use negative selection.
+
+```SQL
+NOT, !=, <>, !>, !<, NOT EXIST, NOT IN, NOT Like...
+```
+Using n

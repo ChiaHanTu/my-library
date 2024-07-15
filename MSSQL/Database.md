@@ -571,4 +571,9 @@ Drop Login NewLogin
 Create User Test_User For Login admin 
 ```
 
+## Permissions and roles
+
+```SQL
+
+```
 

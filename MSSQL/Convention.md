@@ -78,3 +78,8 @@ Go
 /* seperate as two SP */
 ```
 
+> Delete, update by batch
+
+1. If delete more than 4,000 rows in same transaction, possible have table lock.
+2. Avoid to have long running locks that caused other sessions being blocked.
+

@@ -586,5 +586,6 @@ Deny Create Table To Admin
 Deny Select On Table_1 To Admin
 
 Revoke Create Table To admin
+Revoke all on Table_1 to admin -- Select, Delete, Update, Insert
 ```
 

@@ -45,4 +45,6 @@ Grant execute on [dbo].[Odin+Mgmt_Test] to RoleOdin
 > Avoid cross database to access data
 
 1. Info security concern.
-2. on
+2. one database damage will cause others error.
+
+

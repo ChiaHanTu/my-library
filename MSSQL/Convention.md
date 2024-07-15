@@ -50,4 +50,8 @@ Grant execute on [dbo].[Odin+Mgmt_Test] to RoleOdin
 > Avoid to use linked server
 
 1. hard to troubleshoot.
-2. Login from a entry
+2. Login may not be correct.
+
+> Avoid to use Hint
+
+

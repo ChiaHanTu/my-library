@@ -565,5 +565,10 @@ Alter Login NewLogin With Password = '654321'
 Drop Login NewLogin
 ```
 
+### User
+
+```SQL
+Create User Test_User For Login admin 
+```
 
 

@@ -143,4 +143,9 @@ Using negative selection will cause Query Optimizer generate execution plan with
 
 > Avoid to use `Is Null` or `Is Not Null` in where condition.
 
-suggest use `''` as de
+1. suggest use `''` as default value.
+2. Null will increase the complexity of SQL Server Storage Engine
+
+> Avoid to have more than 50 lines in your Stored Procedure.
+
+Having data logic inside SP, instead of business login in SP.

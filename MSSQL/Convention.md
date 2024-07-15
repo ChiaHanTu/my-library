@@ -102,5 +102,18 @@ End
 
 ```SQL
 -- avoid
-Select * From orders Where customerid like ''
+Select * From orders Where customerid like '%D'
+
+-- Instead
+Select * From orders Where customerid like 'D%'
+```
+
+3. Where calculation
+
+```SQL
+-- avoid 
+Select id From t Where num/2=100
+
+-- Instead 
+Select id From t Where num = 100 * 2
 ```

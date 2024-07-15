@@ -32,3 +32,14 @@ Where roleid = 1
 >Avoid use insert statement without specified columns to be inserted.
 
 > Missing Go statement while define grant execute to stored procedure.
+
+```SQL
+Create Procedure [dbo].[Odin_Mgmt_Test]
+As
+Begin
+	Set nocount on;
+End
+Go
+Grant execute on [dbo].[Odin+Mgmt_Test] to RoleOdin
+```
+

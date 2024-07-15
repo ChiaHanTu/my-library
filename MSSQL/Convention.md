@@ -120,8 +120,16 @@ Select id From t Where num = 100 * 2
 
 > Avoid to use function or arithmetic at the left of equation in where condition.
 
-This 
+This may lead Query Optimizer use index scan instead of index seek and cause performance issue.
 
 ```SQL
+-- avoid 
+Select id From t Where
+Datediff(day, createdate, '2005-11-30')=0
 
+-- Instead
+Select id From t Where
+createdate >= '2005-11-30' and
+createdate < '2005-12-1'
 ```
+

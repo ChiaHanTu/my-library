@@ -138,4 +138,9 @@ createdate < '2005-12-1'
 ```SQL
 NOT, !=, <>, !>, !<, NOT EXIST, NOT IN, NOT Like...
 ```
-Using n
+
+Using negative selection will cause Query Optimizer generate execution plan without using index seek.
+
+> Avoid to use `Is Null` or `Is Not Null` in where condition.
+
+suggest use `''` as de

@@ -57,3 +57,24 @@ Grant execute on [dbo].[Odin+Mgmt_Test] to RoleOdin
 1. May cause performance issue.
 
 > Avoid parameter sniffing 
+
+```SQL
+Create Procedure dbo.xxx
+	@Agentid bigint
+As
+Begin
+If @Agentid = 'xxx'
+Begin
+	Exec dbo.ScanningStoredProcedure @Agentid
+End
+
+Else
+Begin
+	Exec dbo.SeekingStoredProcedure @Agentid
+End
+End
+Go
+
+/* seperate as two SP */
+```
+

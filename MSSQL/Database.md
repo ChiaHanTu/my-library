@@ -553,7 +553,17 @@ Cycle
 Drop Sequence MinMaxSequence
 ```
 
+## Login
 
+```SQL
+Create Login NewLogin With Password = '1234'
+
+Alter Login NewLogin With Name = NewLogin2
+
+Alter Login NewLogin With Password = '654321'
+
+Drop Login NewLogin
+```
 
 
 

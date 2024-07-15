@@ -3,4 +3,15 @@
 1.  Provide DBA more information if problems happened.
 2. Can cache result of SP to save resource.
 
-> Always put set nocount on 
+> Always put `Set NOCOUNT On`. It can save lots of network traffic.
+
+```SQL
+Set NOCOUNT On
+Go
+```
+
+>Always use with (nolock) hint when select a table or view.
+
+```SQL
+Select a.Custid, a.UserName, a.
+```

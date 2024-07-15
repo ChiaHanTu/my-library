@@ -85,3 +85,8 @@ Go
 
 > SARGable query 
 
+1. Indexes available
+
+```SQL
+if
+```

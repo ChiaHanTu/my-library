@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSSQL/Convention.md",
+                "file": "MSSQL/Naming Convention.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSSQL/Convention.md",
+                "file": "MSSQL/Naming Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSSQL/Convention.md",
+                "file": "MSSQL/Naming Convention.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSSQL/Convention.md"
+                "file": "MSSQL/Naming Convention.md"
               }
             }
           },
@@ -180,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MSSQL/Convention.md",
+                "file": "MSSQL/Naming Convention.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,8 +232,9 @@
   },
   "active": "4f7752455bce71e9",
   "lastOpenFiles": [
-    "MSSQL/Database.md",
     "MSSQL/Convention.md",
+    "MSSQL/Naming Convention.md",
+    "MSSQL/Database.md",
     "Network/DNS.md",
     "Pasted image 20240713221612.png",
     "Test/Test Method.md",
@@ -265,7 +267,6 @@
     "README.md",
     "Regular Expression 正則表達式.md",
     "JavaScript/作用域.md",
-    "JavaScript/Parsing process.md",
     "assets/img/Pasted image 20240528210204.png",
     "C#",
     "Note.zip",

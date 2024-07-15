@@ -12,6 +12,10 @@ Go
 
 >Always use with (nolock) hint when select a table or view.
 
+1. SQL server ignore table transactions lock status if you using a with (nolock) hint.
+2. Locks in SQL server decrease and leads to performance increase.
 ```SQL
-Select a.Custid, a.UserName, a.
+Select a.Custid, a.UserName, a.Credit
+From dbo.Customer with (nolock)
+Where roleid = 1
 ```

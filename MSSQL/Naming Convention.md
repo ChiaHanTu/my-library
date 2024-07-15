@@ -17,6 +17,10 @@ Create View [dbo].[vAgentBalance]
 Create Function [dbo].[fGetPTGroupType]
 ```
 
-> Table, SP, Function, View 
+> Table, SP, Function, View, Column name
 
-- Use Pascal Casing for table 
+- Use Pascal Casing.
+
+> Variables for SP
+
+- Use Camel Casing for input/output parameters and variable for SP.

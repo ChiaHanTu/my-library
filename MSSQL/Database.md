@@ -580,5 +580,8 @@ On P.grantee_principal_id = U.principal_id
 Where U.name = 'admin'
 
 Grant Create Table To Admin 
+Grant Select, Insert, Update, Delete On Table_1 to admin
+
+Deny Create Table To Admin
 ```
 

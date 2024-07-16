@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "beefba946b200aa0",
+        "id": "b29a58a1c112c458",
         "type": "tabs",
         "children": [
           {
-            "id": "303bb98b1e7a124d",
+            "id": "4f7752455bce71e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "C#/Service Lifetime.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "C#/Service Lifetime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "C#/Service Lifetime.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Basic.md"
+                "file": "C#/Service Lifetime.md"
               }
             }
           },
@@ -181,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/Basic.md",
+                "file": "C#/Service Lifetime.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,54 +229,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "303bb98b1e7a124d",
+  "active": "4f7752455bce71e9",
   "lastOpenFiles": [
-    "assets/img/Pasted image 20240706144250.png",
-    "Pasted image 20240713221612.png",
-    "Network/HTTP.md",
-    "Network/DNS.md",
-    "MSSQL/Naming Convention.md",
-    "MSSQL/Database.md",
-    "MSSQL/Convention.md",
-    "MSSQL",
-    "DotNet/WebApis.md",
-    "DotNet",
-    "C#/Service Lifetime.md",
-    "C#/C Sharp Intermediate.md",
-    "C#/C Sharp Beginning.md",
-    "C#/C Sharp Advanced.md",
-    "assets/img/Pasted image 20240528210204.png",
     "C#/Basic.md",
-    "C#",
-    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
-    "Info Security/SQL Injection.md",
-    "Info Security/JSON Injection.md",
-    "Info Security/雜湊 Hash.md",
-    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
-    "Info Security/CSS Injection.md",
+    "DotNet/WebApis.md",
+    "MSSQL/Convention.md",
+    "MSSQL/Database.md",
+    "MSSQL/Naming Convention.md",
+    "Network/DNS.md",
+    "Pasted image 20240713221612.png",
+    "Test/Test Method.md",
+    "Test/Practice Note.md",
+    "C#/C Sharp Beginning.md",
+    "C#/C Sharp Intermediate.md",
+    "C#/Service Lifetime.md",
+    "Untitled 1",
+    "Untitled",
+    "MSSQL",
+    "C#/C Sharp Advanced.md",
+    "Network/OSI Model.md",
+    "DotNet",
+    "Network/HTTP.md",
+    "Network/Worker.md",
+    "Network/Web Socket.md",
+    "Network/Serialize & Unserialize.md",
+    "Network/Race Condition 競態條件.md",
+    "Network/Performance.md",
+    "Network/mechanism.md",
+    "Network/CSP Content-Security-Policy.md",
+    "JavaScript/型別判定相等.md",
+    "assets/img/Script-tag-loading-visualized.jpeg",
+    "assets/img/Pasted image 20240706145706.png",
+    "assets/img/sameness_comparison.png",
+    "assets/img/Pasted image 20240706144250.png",
+    "Markdown.md",
+    "README.md",
     "Regular Expression 正則表達式.md",
-    "conflict-files-obsidian-git.md",
+    "JavaScript/作用域.md",
+    "assets/img/Pasted image 20240528210204.png",
+    "C#",
     "Note.zip",
     "封存.zip",
     "note.zip",
-    "README.md",
-    "Markdown.md",
-    "patterns/軟體架構模式.md",
-    "patterns/開發模式.md",
-    "patterns/設計模式.md",
-    "JavaScript/Parsing process.md",
     "assets/img/type_transform.png",
-    "assets/img/sameness_comparison.png",
     "Pasted image 20240117135721.png",
-    "assets/img/Script-tag-loading-visualized.jpeg",
     "assets/img/Pasted image 20231220155813.png",
     "CSS",
     "patterns",
-    "JavaScript",
     "Pasted image 20231130161429.png",
-    "OS",
-    "Pasted image 20231130112850.png",
-    "Pasted image 20231129102057.png",
     "Untitled.canvas"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/C Sharp Intermediate.md",
+                "file": "C#/C Sharp Advanced.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/C Sharp Intermediate.md",
+                "file": "C#/C Sharp Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C Sharp Intermediate.md",
+                "file": "C#/C Sharp Advanced.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/C Sharp Intermediate.md"
+                "file": "C#/C Sharp Advanced.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/C Sharp Intermediate.md",
+                "file": "C#/C Sharp Advanced.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,7 @@
   },
   "active": "4f7752455bce71e9",
   "lastOpenFiles": [
+    "C#/C Sharp Intermediate.md",
     "C#/C Sharp Beginning.md",
     "C#/Basic.md",
     "MSSQL/Convention.md",
@@ -242,7 +243,6 @@
     "Pasted image 20240713221612.png",
     "Test/Test Method.md",
     "Test/Practice Note.md",
-    "C#/C Sharp Intermediate.md",
     "Untitled 1",
     "Untitled",
     "MSSQL",

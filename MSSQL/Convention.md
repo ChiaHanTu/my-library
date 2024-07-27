@@ -85,7 +85,7 @@ Go
 
 > SARGable query (Search ARGument Able)
 
-- Search optimization. Help improve search efficacy
+- Search optimization. Help improve search efficacy with index.
 
 1. Indexes available
 

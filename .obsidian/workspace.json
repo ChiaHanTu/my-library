@@ -16,8 +16,19 @@
                 "file": "assets/img/Pasted image 20240713221612.png"
               }
             }
+          },
+          {
+            "id": "a5244c83ff2066d0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +238,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "a5244c83ff2066d0",
   "lastOpenFiles": [
     "MSSQL/Convention.md",
     "MSSQL/Database.md",

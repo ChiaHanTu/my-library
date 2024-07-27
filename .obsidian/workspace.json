@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b29a58a1c112c458",
+        "id": "0dff0ded690ffd64",
         "type": "tabs",
         "children": [
           {
-            "id": "4f7752455bce71e9",
+            "id": "8b7b3d0611888b06",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/Pasted image 20240713221612.png"
-              }
-            }
-          },
-          {
-            "id": "a5244c83ff2066d0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
+                "file": "MSSQL/Convention.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/Pasted image 20240713221612.png",
+                "file": "MSSQL/Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/img/Pasted image 20240713221612.png",
+                "file": "MSSQL/Convention.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/img/Pasted image 20240713221612.png"
+                "file": "MSSQL/Convention.md"
               }
             }
           },
@@ -189,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/img/Pasted image 20240713221612.png",
+                "file": "MSSQL/Convention.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,11 +229,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a5244c83ff2066d0",
+  "active": "8b7b3d0611888b06",
   "lastOpenFiles": [
-    "MSSQL/Convention.md",
-    "MSSQL/Database.md",
     "MSSQL/Naming Convention.md",
+    "MSSQL/Database.md",
+    "MSSQL/Convention.md",
+    "assets/img/Pasted image 20240713221612.png",
     "C#/C Sharp Advanced.md",
     "C#/C Sharp Intermediate.md",
     "C#/C Sharp Beginning.md",
@@ -250,7 +242,6 @@
     "C#/Service Lifetime.md",
     "DotNet/WebApis.md",
     "Network/DNS.md",
-    "assets/img/Pasted image 20240713221612.png",
     "Test/Test Method.md",
     "Test/Practice Note.md",
     "Untitled 1",
@@ -274,7 +265,6 @@
     "Markdown.md",
     "README.md",
     "Regular Expression 正則表達式.md",
-    "JavaScript/作用域.md",
     "assets/img/Pasted image 20240528210204.png",
     "C#",
     "Note.zip",

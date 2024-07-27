@@ -5,7 +5,7 @@
 
 > Always put `Set NOCOUNT On`. It can save lots of network traffic.
 
-- 用來控制是否返回受 SQL 語句影響的行數的設置
+- 用來控制是否返回受 SQL 語句影響的行數的設置 (10 rows affected)
 
 ```SQL
 Set NOCOUNT On

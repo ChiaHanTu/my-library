@@ -60,6 +60,8 @@ Grant execute on [dbo].[Odin+Mgmt_Test] to RoleOdin
 
 > Avoid parameter sniffing 
 
+ - Parameter sniffing 是指 SQL Server 在編譯存儲過程或參數化查詢時使用當前參數值來生成執行計劃。這個計劃會被緩存並用於後續的相同查詢。如果後續查詢的參數值分佈與最初的參數值不同，這個執行計劃可能並不適合，從而導致性能問題。
+
 ```SQL
 Create Procedure dbo.xxx
 	@Agentid bigint

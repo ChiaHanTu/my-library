@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "link ser",
+                "query": "where",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,9 +233,9 @@
   "active": "8b7b3d0611888b06",
   "lastOpenFiles": [
     "C#/C Sharp Advanced.md",
+    "MSSQL/Convention.md",
     "C#/Service Lifetime.md",
     "C#/Basic.md",
-    "MSSQL/Convention.md",
     "MSSQL/Database.md",
     "MSSQL/Naming Convention.md",
     "assets/img/Pasted image 20240713221612.png",

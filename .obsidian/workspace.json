@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/DNS.md",
+                "file": "DevOps/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/DNS.md",
+                "file": "DevOps/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/DNS.md",
+                "file": "DevOps/Kubernetes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/DNS.md"
+                "file": "DevOps/Kubernetes.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Network/DNS.md",
+                "file": "DevOps/Kubernetes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,9 @@
   },
   "active": "8b7b3d0611888b06",
   "lastOpenFiles": [
+    "Network/DNS.md",
+    "DevOps/Kubernetes.md",
+    "DevOps",
     "MSSQL/Convention.md",
     "C#/C Sharp Advanced.md",
     "C#/Service Lifetime.md",
@@ -241,11 +244,9 @@
     "C#/C Sharp Intermediate.md",
     "C#/C Sharp Beginning.md",
     "DotNet/WebApis.md",
-    "Network/DNS.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
     "Untitled 1",
-    "Untitled",
     "MSSQL",
     "Network/OSI Model.md",
     "DotNet",

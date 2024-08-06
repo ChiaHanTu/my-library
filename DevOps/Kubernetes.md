@@ -5,3 +5,6 @@
 ## Deployment
 
 > keep pods running
+
+
+Rolling update : 逐步部屬 pods

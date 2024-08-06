@@ -8,3 +8,4 @@
 
 
 Rolling update : 逐步部屬 pods
+部屬Service ：確認 configMap , Secret => 

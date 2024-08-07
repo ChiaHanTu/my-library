@@ -8,4 +8,6 @@
 
 
 Rolling update : 逐步部屬 pods
-部署 Service ：確認 configMap , Secret, Ingress
+
+部署 Service ：確認 configMap , Secret
+完成後才可以 bind Ingress

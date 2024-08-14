@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,7 +230,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8b7b3d0611888b06",
+  "active": "cc1970cb92015aa9",
   "lastOpenFiles": [
     "MSSQL/Database.md",
     "MSSQL/Convention.md",

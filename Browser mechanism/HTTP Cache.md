@@ -21,7 +21,7 @@ Expires: Sat, 30 Nov 2024 12:15:00 GMT
 
 ![[Pasted image 20241130122247.png]]
  
-### Last-Modified, If-Modified-Since
+### Last-Modified & If-Modified-Since
 
 ```
 last-modified: Wed, 14 Aug 2024 19:52:49 GMT
@@ -36,6 +36,11 @@ If-Modified-Since: Wed, 14 Aug 2024 19:52:49 GMT
 ```
 
 如果資源沒被更新過，瀏覽器就會返回 status code 304 (Not modified)，並繼續沿用先前的快取
+
+
+### Etag & If-None-Match
+
+
 
 ---
 

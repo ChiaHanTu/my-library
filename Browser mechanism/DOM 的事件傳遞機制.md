@@ -6,8 +6,7 @@
 3. target 的 eventListener 的 eventPhase 就會為 `AT_TARGET`
 4. 事件往回傳至根節點，eventPhase 就會為 `BUBBLING_PHASE`
 
-
-
+> 先捕獲，再冒泡
 
 參考來源：
 

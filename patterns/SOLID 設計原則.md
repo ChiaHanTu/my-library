@@ -50,4 +50,4 @@
    
    (低層組件是對高層組件介面的具體實現)
 
-ex. 某 vue SFC 中定義的 interface，
+ex. 一個父元件依賴子元件中定義的 interface，應該抽象出一個共用的 interface

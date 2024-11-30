@@ -3,7 +3,7 @@
 
 ### Expires
 
-> 存放在本地磁碟快取文件，讀取速度比 memory 慢
+> 存放在本地磁碟快取文件，讀取速度比 memory 慢，瀏覽器關閉時不會消失，適合大資源
 
 ```
 Expires: Sat, 30 Nov 2024 12:15:00 GMT
@@ -15,12 +15,14 @@ Expires: Sat, 30 Nov 2024 12:15:00 GMT
 
 ### Cache-control
 
-> 順放在留ㄌㄢ
+> 存放在瀏覽器 memory 中，讀取速度比 disk 快，但瀏覽器關閉時會消失，適合小資源
 
 可以設置 `max-age` 來決定 response 過期時間，如果和 `expires` 同時出現，會優先採用 `max-age` 
 
 ![[Pasted image 20241130122247.png]]
  
+
+
 ---
 
 參考來源：

@@ -25,8 +25,11 @@ Expires: Sat, 30 Nov 2024 12:15:00 GMT
 
 ```
 last-modified: Wed, 14 Aug 2024 19:52:49 GMT
-
+Cache-Control: max-age=31536000 // 一年
 ```
+
+跟瀏覽器請求資源時，`last-modified` 可以記錄存取資源的時間，假設超過 `cache-control` 設定的時間，瀏覽器就會再跟 server 發送請其ㄡ
+
 
 
 ---

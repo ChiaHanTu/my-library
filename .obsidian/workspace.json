@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -256,8 +255,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "303bb98b1e7a124d",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
+    "assets/img/Pasted image 20241130122009.png",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Browser mechanism/HTTP Cache.md",
     "assets/img/Pasted image 20241130115956.png",

@@ -21,6 +21,8 @@ Expires: Sat, 30 Nov 2024 12:15:00 GMT
 
 ![[Pasted image 20241130122247.png]]
  
+### Last-Modified, If-Modified-Since
+
 
 
 ---

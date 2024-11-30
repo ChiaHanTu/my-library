@@ -11,6 +11,10 @@ Expires: Sat, 30 Nov 2024 12:15:00 GMT
 
 ![[Pasted image 20241130122009.png]]
 
+### Cache-control
+
+可以設置 `max-age` 來決定 response 過期時間，如果和 `expires` 同時出現，會優先採用 `max-age` ，
+ 
 ---
 
 參考來源：

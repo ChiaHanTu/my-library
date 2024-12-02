@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Browser mechanism/HTTP Cache.md",
+                "file": "JavaScript/柯里化函數.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP Cache"
+              "title": "柯里化函數"
             }
           }
         ]
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -258,8 +257,14 @@
   },
   "active": "32764e0754617207",
   "lastOpenFiles": [
-    "assets/img/Pasted image 20241130122247.png",
+    "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
+    "JavaScript/型別轉換.md",
+    "JavaScript/Object.assign() v.s Object spread operator.md",
+    "JavaScript/Parsing process.md",
+    "JavaScript/作用域.md",
+    "JavaScript/傳值 v.s 傳址.md",
     "Browser mechanism/HTTP Cache.md",
+    "assets/img/Pasted image 20241130122247.png",
     "assets/img/Pasted image 20241130122009.png",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "assets/img/Pasted image 20241130115956.png",
@@ -281,12 +286,7 @@
     "Network/CSP Content-Security-Policy.md",
     "Network/DNS.md",
     "Network/HTTP.md",
-    "C#/Basic.md",
-    "CSS/Hide date placeholder.md",
-    "DevOps/Kubernetes.md",
-    "Test/Test Method.md",
     "Untitled.canvas",
-    "Test/Practice Note.md",
     "assets/img/Pasted image 20240713221612.png",
     "DevOps",
     "assets/img/Pasted image 20240706144250.png",

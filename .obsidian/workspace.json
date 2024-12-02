@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "HTTP Cache"
             }
+          },
+          {
+            "id": "cc3e43d8b404c6e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,11 +265,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "32764e0754617207",
+  "active": "cc3e43d8b404c6e1",
   "lastOpenFiles": [
     "assets/img/Pasted image 20241130122247.png",
     "Browser mechanism/HTTP Cache.md",

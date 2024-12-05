@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Parsing process.md",
+                "file": "JavaScript/作用域.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parsing process"
+              "title": "作用域"
             }
           }
         ]
@@ -255,8 +255,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32764e0754617207",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
+    "JavaScript/Parsing process.md",
     "JavaScript/作用域.md",
     "JavaScript/傳值 v.s 傳址.md",
     "JavaScript/型別判定相等.md",
@@ -273,7 +274,6 @@
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "JavaScript/特殊符號.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
-    "JavaScript/Parsing process.md",
     "assets/img/Pasted image 20241130122247.png",
     "assets/img/Pasted image 20241130122009.png",
     "assets/img/Pasted image 20241130115956.png",

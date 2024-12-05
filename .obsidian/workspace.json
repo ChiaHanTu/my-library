@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/特殊符號.md",
+                "file": "Browser mechanism/HTTP Cache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "特殊符號"
+              "title": "HTTP Cache"
             }
           }
         ]
@@ -257,8 +257,10 @@
   },
   "active": "32764e0754617207",
   "lastOpenFiles": [
-    "JavaScript/深拷貝 v.s 淺拷貝.md",
+    "Browser mechanism/DOM 的事件傳遞機制.md",
+    "Browser mechanism/HTTP Cache.md",
     "JavaScript/特殊符號.md",
+    "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
     "JavaScript/柯里化函數.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
@@ -267,10 +269,8 @@
     "JavaScript/Parsing process.md",
     "JavaScript/作用域.md",
     "JavaScript/傳值 v.s 傳址.md",
-    "Browser mechanism/HTTP Cache.md",
     "assets/img/Pasted image 20241130122247.png",
     "assets/img/Pasted image 20241130122009.png",
-    "Browser mechanism/DOM 的事件傳遞機制.md",
     "assets/img/Pasted image 20241130115956.png",
     "Algorithm/Big O notation.md",
     "patterns/軟體架構模式.md",

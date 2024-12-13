@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Mode.md",
+                "file": "HTML/文件模式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mode"
+              "title": "文件模式"
             }
           }
         ]
@@ -258,7 +258,7 @@
   "active": "32764e0754617207",
   "lastOpenFiles": [
     "patterns/設計模式.md",
-    "HTML/Mode.md",
+    "HTML/文件模式.md",
     "HTML",
     "patterns/開發模式.md",
     "patterns/軟體架構模式.md",

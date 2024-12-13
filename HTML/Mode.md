@@ -1,5 +1,22 @@
+## Quirks mode
+
+
+
+> 
+
+## Almost standards mode
+
+> 
+
 
 ## Standards mode
 
-## quirks mode
+```html
+<!doctype html>
+```
+
+> 
+
+
+
 

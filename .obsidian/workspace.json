@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/文件類型.md",
+                "file": "patterns/開發模式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件類型"
+              "title": "開發模式"
             }
           }
         ]
@@ -257,18 +257,19 @@
   },
   "active": "32764e0754617207",
   "lastOpenFiles": [
+    "patterns/軟體架構模式.md",
     "patterns/設計模式.md",
+    "patterns/SOLID 設計原則.md",
+    "principle/Render Mode.md",
+    "principle/Work Principle.md",
     "HTML/文件類型.md",
     "HTML",
     "patterns/開發模式.md",
-    "patterns/軟體架構模式.md",
-    "patterns/SOLID 設計原則.md",
     "JavaScript/型別轉換.md",
     "JavaScript/型別判定相等.md",
     "JavaScript/作用域.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
     "JavaScript/Parsing process.md",
-    "principle/Work Principle.md",
     "Network/HTTP.md",
     "Network/DNS.md",
     "Network/CSP Content-Security-Policy.md",
@@ -279,7 +280,6 @@
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/傳值 v.s 傳址.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
-    "principle/Render Mode.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
     "Browser mechanism/HTTP Cache.md",

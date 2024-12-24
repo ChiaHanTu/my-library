@@ -48,3 +48,16 @@ const greetBound = person.greet.bind({ name: "Bob" });
 greetBound("Hello");
 // Output: "Hello, Bob"
 ```
+
+可以柯里化參數
+
+```js
+function add(a, b) {
+    return a + b;
+}
+
+const addFive = add.bind(null, 5); // 預先固定 a = 5
+console.log(addFive(10)); // Output: 15
+
+// 其中第一個參數 a 被固定為 5。
+```

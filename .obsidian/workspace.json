@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regular Expression 正則表達式.md",
+                "file": "JavaScript/Operator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regular Expression 正則表達式"
+              "title": "Operator"
             }
           }
         ]
@@ -257,6 +257,8 @@
   },
   "active": "8c43698245be7d62",
   "lastOpenFiles": [
+    "Regular Expression 正則表達式.md",
+    "JavaScript/Operator.md",
     "README.md",
     "Markdown.md",
     "Vue/Style-guide.md",
@@ -281,8 +283,6 @@
     "Network/Race Condition 競態條件.md",
     "Network/Performance.md",
     "Network/OSI Model.md",
-    "Network/mechanism.md",
-    "Network/HTTP.md",
     "HTML",
     "assets/img/Pasted image 20241130122247.png",
     "assets/img/Pasted image 20241130122009.png",

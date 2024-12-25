@@ -258,6 +258,7 @@
   "active": "8c43698245be7d62",
   "lastOpenFiles": [
     "patterns/SOLID 設計原則.md",
+    "patterns/設計模式.md",
     "patterns/Component cohesion.md",
     "JavaScript/重新指向 this.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
@@ -282,7 +283,6 @@
     "Vite/index.md",
     "TypeScript/tsconfig.json.md",
     "TypeScript/Method.md",
-    "TypeScript/Mapped Types 映射類型.md",
     "HTML",
     "assets/img/Pasted image 20241130122247.png",
     "assets/img/Pasted image 20241130122009.png",

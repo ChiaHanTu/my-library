@@ -13,7 +13,9 @@
 - 一個影響組件的變更應該僅影響該組件中的類，而不影響其他組件
 
 #### 優勢：
-1. 降低系統耦合度
-2. 提升維護性
+1. 減少影響範圍
+2. 降低系統耦合度
+3. 提升維護性
 
-### The Common Reuse Principle (CRP)
+###  共同重用原則 The Common Reuse Principle (CRP)
+

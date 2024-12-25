@@ -1,1 +1,12 @@
-###  非循環依賴原則 The Acyclic Dependencies Principle (ADP)**
+###  非循環依賴原則 The Acyclic Dependencies Principle (ADP)
+
+>    組件的依賴關係圖中不應存在循環依賴
+
+#### 核心：
+1. 依賴循環會導致耦合性增加
+2. 變更傳染，一個模組的改動會連帶影響其他模組
+3. 可能導致 build 與 release 出問題
+
+#### 處理方式：
+
+

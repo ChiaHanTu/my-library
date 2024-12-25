@@ -39,6 +39,7 @@
 ## 介面隔離原則 I - Interface-segregation principles
 
 > 拆分非常龐大臃腫的介面成為更小的和更具體的介面，縮小介面則被稱為角色介面。目的是系統解開耦合，從而容易重構，更改和重新部署
+> （不需要包含無用的方法和功能）
 
 
 ## 依賴反轉原則 D - Dependency inversion principle

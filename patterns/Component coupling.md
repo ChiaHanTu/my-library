@@ -26,5 +26,10 @@
 2. 增強穩定性
 3. 提升測試性
 
+### 穩定抽象原則  The Stable Abstractions Principle (SAP)
+
+> 越穩定的模組應該越抽象，越不穩定的模組應該越具體。
+
+
 
 

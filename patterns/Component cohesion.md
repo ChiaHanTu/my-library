@@ -7,6 +7,8 @@
 
 ### The Common Closure Principle (CCP)
 
-
+- 共同閉包原則
+-     
+**一個組件中的類應當針對相同類型的變更一起封閉。一個影響組件的變更應該僅影響該組件中的類，而不影響其他組件。**
 
 ### The Common Reuse Principle (CRP)

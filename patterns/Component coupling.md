@@ -18,4 +18,6 @@
 > 一個組件應該只依賴比自己更穩定的組件
 
 穩定性評估：
-1. Fan-in：有多少魔ㄗㄨ
+1. Fan-in（扇入）：Incoming dependencies。有多少模組依賴該模組，指數越高越穩定
+2. Fan-out（扇出）：Outgoing dependencie該模組依賴多少模組，指數越低越穩定
+

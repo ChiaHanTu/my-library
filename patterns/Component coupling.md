@@ -1,0 +1,1 @@
+###  非循環依賴原則 The Acyclic Dependencies Principle (ADP)**

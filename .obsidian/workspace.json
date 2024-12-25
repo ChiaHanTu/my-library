@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/Component coupling.md",
+                "file": "patterns/設計模式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Component coupling"
+              "title": "設計模式"
             }
           }
         ]
@@ -257,8 +257,8 @@
   },
   "active": "122024a19cdcca44",
   "lastOpenFiles": [
-    "patterns/Component cohesion.md",
     "patterns/Component coupling.md",
+    "patterns/Component cohesion.md",
     "patterns/設計模式.md",
     "assets/img/Pasted image 20241225205855.png",
     "patterns/SOLID 設計原則.md",

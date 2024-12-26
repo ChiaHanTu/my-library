@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "547a1f468abd9d2b",
+        "id": "2eb784000ec26880",
         "type": "tabs",
         "children": [
           {
-            "id": "122024a19cdcca44",
+            "id": "dc7fee3d7d029631",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/SOAP 簡單物件存取協定.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SOAP 簡單物件存取協定"
+              "title": "New tab"
             }
           }
         ]
@@ -255,8 +251,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "122024a19cdcca44",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
+    "Network/SOAP 簡單物件存取協定.md",
     "patterns/Component coupling.md",
     "patterns/Component cohesion.md",
     "patterns/SOLID 設計原則.md",
@@ -275,7 +272,6 @@
     "JavaScript/作用域.md",
     "JavaScript/Parsing process.md",
     "JavaScript/Operator.md",
-    "Network/SOAP 簡單物件存取協定.md",
     "Network/Serialize & Unserialize.md",
     "Regular Expression 正則表達式.md",
     "README.md",

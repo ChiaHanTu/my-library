@@ -17,7 +17,7 @@
 2. 降低系統耦合度
 3. 提升維護性
 
-###  共同複用原則 The Common Reuse Principle (CRP)
+### 共同複用原則 The Common Reuse Principle (CRP)
 
 > 組件中的所有類應當一起被複用。如果你複用了一個組件中的某個類，就必須複用該組件中的所有類。
 

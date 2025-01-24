@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/<script> 標籤.md",
+                "file": "JavaScript/Parsing process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "<script> 標籤"
+              "title": "Parsing process"
             }
           }
         ],
@@ -272,8 +272,8 @@
   },
   "active": "4652931641cc188a",
   "lastOpenFiles": [
-    "JavaScript/for 迴圈比較.md",
     "JavaScript/<script> 標籤.md",
+    "JavaScript/for 迴圈比較.md",
     "HTML/文件類型.md",
     "Browser mechanism/HTTP Cache.md",
     "Network/OSI Model.md",

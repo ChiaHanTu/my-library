@@ -5,4 +5,6 @@
 
 1. 根元素
 2. `float` 有設值（非 none）
-3. `position: absolute /`
+3. `position: absolute or position: fixed`
+4. `display: inline-block`
+5. `display: table` 或是

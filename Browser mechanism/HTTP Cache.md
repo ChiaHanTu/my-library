@@ -54,7 +54,7 @@ If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 
 ### max-age=0
 
-> 每一次造訪頁面都會送 request 去確認有無新檔案
+> 每一次造訪頁面都會標示為過期，重新整理後送 request 去確認有無新檔案
 
 首先收到 server response 
 
@@ -71,7 +71,7 @@ If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 
 ###  No-cache
 
-> 不論如何都不會使用快取
+> 
 
 ```
 Cache-Control: no-cache

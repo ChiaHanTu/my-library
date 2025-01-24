@@ -1,5 +1,5 @@
 
-> CSS 渲染區塊，以 float 的方式與其他區塊互動
+> CSS 渲染區塊，以 float 的方式與其他區塊互動，此區塊與外部環境之間的佈局互不干擾
 
 符合以下其中一個條件即滿足：
 
@@ -9,4 +9,4 @@
 4. `display: inline-block`
 5. `display: table` 或是隱式創建為 table cells 的元素
 6. `overflow` 不為 `visible` or `clip`
-7. `display: flow-root`
+7. `display: flow-root`（設定為一個

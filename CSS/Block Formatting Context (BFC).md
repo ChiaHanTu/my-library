@@ -17,5 +17,5 @@
 12. `column-span: all` element (even the element isn't contained by a multicol container)
 
 - Margin 不會影響到 BFC 以外的元素
-- 
-- 
+- float 不會影響到 BFC 以外的元素
+- Clearfix

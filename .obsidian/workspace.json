@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/文件類型.md",
+                "file": "JavaScript/for 迴圈比較.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件類型"
+              "title": "for 迴圈比較"
+            }
+          },
+          {
+            "id": "4652931641cc188a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/<script>.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "<script>"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,8 +270,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dc7fee3d7d029631",
+  "active": "4652931641cc188a",
   "lastOpenFiles": [
+    "JavaScript/for 迴圈比較.md",
+    "JavaScript/<script>.md",
+    "HTML/文件類型.md",
     "Browser mechanism/HTTP Cache.md",
     "Network/OSI Model.md",
     "Network/DNS.md",
@@ -280,9 +298,6 @@
     "Vue/Style-guide.md",
     "principle/Work Principle.md",
     "OS/Linux.md",
-    "Network/Worker.md",
-    "Network/Web Socket.md",
-    "Network/SOAP 簡單物件存取協定.md",
     "assets/img/Pasted image 20241225205855.png",
     "HTML",
     "assets/img/Pasted image 20241130122247.png",

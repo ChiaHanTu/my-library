@@ -12,4 +12,5 @@
 7. `display: flow-root`（將元素創建為一個 BFC）
 8. `<button>`, `<input type="button"> display: flow-root`
 9. `contain: layout, contain: paint, contain: content`
-10. 
+10. flex items and grid items (direct children of the element with `display: flex`, `display: grid`)
+11. 

@@ -4,4 +4,5 @@
 符合以下其中一個條件即滿足：
 
 1. 根元素
-2. 
+2. `float` 有設值（非 none）
+3. `position: absolute /`

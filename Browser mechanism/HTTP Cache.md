@@ -54,6 +54,8 @@ If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 
 ### max-age=0
 
+> 每一次造訪頁面都會送 request 去確認有無新檔案
+
 首先收到 server response 
 
 ```
@@ -67,8 +69,7 @@ Etag: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 ```
 
-
-
+###  
 ---
 
 參考來源：

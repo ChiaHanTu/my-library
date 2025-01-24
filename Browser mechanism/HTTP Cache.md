@@ -40,7 +40,7 @@ If-Modified-Since: Wed, 14 Aug 2024 19:52:49 GMT
 
 ### Etag & If-None-Match
 
-
+可以比喻為快取檔案的
 
 ---
 

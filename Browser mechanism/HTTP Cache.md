@@ -47,7 +47,7 @@ GET /logo.png
 If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 ```
 
-如果有新的回傳新的，沒有的話回傳 status code 304 
+如果有新的回傳新的，沒有的話回傳 status code 304 (Not modified)
 
 ---
 

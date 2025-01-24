@@ -40,7 +40,7 @@ If-Modified-Since: Wed, 14 Aug 2024 19:52:49 GMT
 
 ### Etag & If-None-Match
 
-可以比喻為快取檔案的
+Etag 可以比喻為快取檔案的 Hash 值，判斷檔案是否有更新，帶在 Response header 上，快取過期後瀏覽器可以拿此 Etag 確認檔案是否過期
 
 ---
 

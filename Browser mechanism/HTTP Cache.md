@@ -49,6 +49,26 @@ If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 
 如果有新的回傳新的，沒有的話回傳 status code 304 (Not modified)
 
+
+## 不使用快取的情境
+
+### max-age=0
+
+首先收到 server response 
+
+```
+Cache-Control: max-age=0
+Etag: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
+```
+
+再發出 request
+
+```
+If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
+```
+
+
+
 ---
 
 參考來源：

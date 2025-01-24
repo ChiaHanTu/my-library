@@ -69,7 +69,15 @@ Etag: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 ```
 
-###  
+###  No-cache
+
+> 不論如何都不會使用快取
+
+```
+Cache-Control: no-cache
+```
+
+
 ---
 
 參考來源：

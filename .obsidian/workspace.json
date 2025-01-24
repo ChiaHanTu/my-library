@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Block formatting context.md",
+                "file": "CSS/Block Formatting Context (BFC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Block formatting context"
+              "title": "Block Formatting Context (BFC)"
             }
           }
         ]
@@ -255,10 +255,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "63e1c412db1962df",
   "lastOpenFiles": [
     "CSS/hide date placeholder.md",
-    "CSS/Block formatting context.md",
+    "CSS/Block Formatting Context (BFC).md",
     "JavaScript/Parsing process.md",
     "JavaScript/<script> 標籤.md",
     "JavaScript/for 迴圈比較.md",

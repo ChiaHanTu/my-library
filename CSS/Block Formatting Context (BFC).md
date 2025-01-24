@@ -9,4 +9,5 @@
 4. `display: inline-block`
 5. `display: table` 或是隱式創建為 table cells 的元素
 6. `overflow` 不為 `visible` or `clip`
-7. `display: flow-root`（設定為一個
+7. `display: flow-root`（將元素創建為一個 BFC）
+8. 

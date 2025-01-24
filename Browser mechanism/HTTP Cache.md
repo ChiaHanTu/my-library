@@ -54,7 +54,7 @@ If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 
 ### max-age=0
 
-> 每一次造訪頁面都會標示為過期，重新整理後送 request 去確認有無新檔案
+> 每一次造訪頁面都會標示為過期，重新整理後送 request 去確認有無新檔案，快取合法還是會使用快取
 
 首先收到 server response 
 
@@ -71,13 +71,20 @@ If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 
 ###  No-cache
 
-> 強制每次請求進行驗證，去與伺服器確認有無新檔案
+> 強制每次請求進行驗證，去與伺服器確認有無新檔案，快取合法還是會使用快取
 
 ```
 Cache-Control: no-cache
 ```
 
-### No-sto
+### No-store
+
+> 最消耗流量的方式，永遠不使用快取
+
+```
+Cache-Control: no-store
+```
+
 ---
 
 參考來源：

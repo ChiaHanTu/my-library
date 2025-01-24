@@ -7,4 +7,6 @@
 2. `float` 有設值（非 none）
 3. `position: absolute or position: fixed`
 4. `display: inline-block`
-5. `display: table` 或是
+5. `display: table` 或是隱式創建為 table cells 的元素
+6. `overflow` 不為 `visible` or `clip`
+7. `display: flow-root`

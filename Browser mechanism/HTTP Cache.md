@@ -71,13 +71,13 @@ If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
 
 ###  No-cache
 
-> 
+> 強制每次請求進行驗證，去與伺服器確認有無新檔案
 
 ```
 Cache-Control: no-cache
 ```
 
-
+### No-sto
 ---
 
 參考來源：

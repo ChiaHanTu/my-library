@@ -14,4 +14,8 @@
 9. `contain: layout, contain: paint, contain: content`
 10. flex items and grid items (direct children of the element with `display: flex`, `display: grid`)
 11. `column-count` or `column-width` is not auto (包含 `column-count: 1`)
-12. 
+12. `column-span: all` element (even the element isn't contained by a multicol container)
+
+- Margin 不會影響到 BFC 以外的元素
+- 
+- 

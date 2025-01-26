@@ -9,10 +9,12 @@
 		{"id":"f6d1d51b16306836","type":"text","text":"運動分析","x":-320,"y":120,"width":160,"height":60},
 		{"id":"794fdc6878739c8f","type":"text","text":"叫號軟體","x":-716,"y":600,"width":160,"height":60},
 		{"id":"41fff3016ebf77e1","type":"text","text":"QRCode 掃描","x":-760,"y":854,"width":164,"height":50},
-		{"id":"c9f20a6063020240","x":-556,"y":854,"width":141,"height":50,"type":"text","text":"背景通知"}
+		{"id":"c9f20a6063020240","type":"text","text":"背景通知","x":-556,"y":854,"width":141,"height":50},
+		{"id":"74e5f6df17b7c840","x":-687,"y":1055,"width":131,"height":60,"type":"text","text":"近號通知"}
 	],
 	"edges":[
 		{"id":"4ead797c81a87d55","fromNode":"794fdc6878739c8f","fromSide":"bottom","toNode":"41fff3016ebf77e1","toSide":"top"},
-		{"id":"b5eb513f0b548498","fromNode":"794fdc6878739c8f","fromSide":"bottom","toNode":"c9f20a6063020240","toSide":"top"}
+		{"id":"b5eb513f0b548498","fromNode":"794fdc6878739c8f","fromSide":"bottom","toNode":"c9f20a6063020240","toSide":"top"},
+		{"id":"145bb9da3d758c49","fromNode":"c9f20a6063020240","fromSide":"bottom","toNode":"74e5f6df17b7c840","toSide":"top"}
 	]
 }

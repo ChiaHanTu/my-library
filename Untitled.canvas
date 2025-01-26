@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"a080c1ae2c80ff30","type":"text","text":"七零八落地圖","x":-120,"y":-180,"width":160,"height":60},
-		{"id":"06d8e61d17f4ab76","type":"text","text":"誰是夜市王","x":-120,"y":-80,"width":160,"height":60},
-		{"id":"616803021dd20836","type":"text","text":"英語學習社","x":-120,"y":20,"width":160,"height":60}
-	],
-	"edges":[]
-}

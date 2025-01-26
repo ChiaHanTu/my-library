@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Idea.canvas",
+                "file": "Ide.canvas",
                 "viewState": {
-                  "x": -640.6826662295679,
-                  "y": 861.7210463088808,
+                  "x": -644.0997477861127,
+                  "y": 924.9226278716092,
                   "zoom": -0.02433161678593496
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Idea"
+              "title": "Ide"
             }
           }
         ]
@@ -262,7 +262,7 @@
   "active": "fc91609534d0682b",
   "lastOpenFiles": [
     "Untitled.md",
-    "Idea.canvas",
+    "Ide.canvas",
     "CSS/Block Formatting Context (BFC).md",
     "CSS/hide date placeholder.md",
     "JavaScript/Parsing process.md",

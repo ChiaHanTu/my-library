@@ -11,10 +11,17 @@
             "id": "fc91609534d0682b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -5.065327056158804,
+                  "y": -15.252233272085675,
+                  "zoom": -0.07149053028188408
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -83,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -253,6 +261,7 @@
   },
   "active": "fc91609534d0682b",
   "lastOpenFiles": [
+    "Untitled.md",
     "Untitled.canvas",
     "CSS/Block Formatting Context (BFC).md",
     "CSS/hide date placeholder.md",
@@ -278,7 +287,6 @@
     "patterns/軟體架構模式.md",
     "patterns/SOLID 設計原則.md",
     "patterns/Component coupling.md",
-    "patterns/Component cohesion.md",
     "assets/img/Pasted image 20241225205855.png",
     "HTML",
     "assets/img/Pasted image 20241130122247.png",

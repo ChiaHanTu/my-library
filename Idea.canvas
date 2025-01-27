@@ -9,11 +9,12 @@
 		{"id":"f6d1d51b16306836","type":"text","text":"運動分析","x":-320,"y":120,"width":160,"height":60},
 		{"id":"794fdc6878739c8f","type":"text","text":"叫號軟體","x":-716,"y":600,"width":136,"height":50},
 		{"id":"c9f20a6063020240","type":"text","text":"背景通知","x":-379,"y":854,"width":141,"height":50},
-		{"id":"74e5f6df17b7c840","x":-444,"y":1040,"width":131,"height":60,"type":"text","text":"近號通知"},
-		{"id":"9cb723648096ccd0","x":-277,"y":1040,"width":141,"height":60,"type":"text","text":"到號通知"},
+		{"id":"74e5f6df17b7c840","type":"text","text":"近號通知","x":-444,"y":1040,"width":131,"height":60},
+		{"id":"9cb723648096ccd0","type":"text","text":"到號通知","x":-277,"y":1040,"width":141,"height":60},
 		{"id":"41fff3016ebf77e1","type":"text","text":"QRCode 掃描","x":-716,"y":854,"width":164,"height":50},
-		{"id":"e8318160acbbd71b","x":-1080,"y":854,"width":166,"height":50,"type":"text","text":"當前號碼顯示"},
-		{"id":"7212a8ed4e1fe108","x":-860,"y":1040,"width":182,"height":60,"type":"text","text":"領取流水號碼牌"}
+		{"id":"e8318160acbbd71b","type":"text","text":"當前號碼顯示","x":-1080,"y":854,"width":166,"height":50},
+		{"id":"7212a8ed4e1fe108","type":"text","text":"領取流水號碼牌","x":-860,"y":1040,"width":182,"height":60},
+		{"id":"8304d764b94dca30","x":-313,"y":-80,"width":147,"height":60,"type":"text","text":"節日提醒"}
 	],
 	"edges":[
 		{"id":"4ead797c81a87d55","fromNode":"794fdc6878739c8f","fromSide":"bottom","toNode":"41fff3016ebf77e1","toSide":"top"},
@@ -21,6 +22,7 @@
 		{"id":"145bb9da3d758c49","fromNode":"c9f20a6063020240","fromSide":"bottom","toNode":"74e5f6df17b7c840","toSide":"top"},
 		{"id":"c8a7d7aee28862a9","fromNode":"794fdc6878739c8f","fromSide":"bottom","toNode":"e8318160acbbd71b","toSide":"top"},
 		{"id":"c5a75d4dc04ac981","fromNode":"c9f20a6063020240","fromSide":"bottom","toNode":"9cb723648096ccd0","toSide":"top"},
-		{"id":"cab1c88a486f7224","fromNode":"41fff3016ebf77e1","fromSide":"bottom","toNode":"7212a8ed4e1fe108","toSide":"top"}
+		{"id":"cab1c88a486f7224","fromNode":"41fff3016ebf77e1","fromSide":"bottom","toNode":"7212a8ed4e1fe108","toSide":"top"},
+		{"id":"37eb8ba4e58663ba","fromNode":"8304d764b94dca30","fromSide":"right","toNode":"06d8e61d17f4ab76","toSide":"left"}
 	]
 }

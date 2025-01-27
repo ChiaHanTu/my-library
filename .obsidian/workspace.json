@@ -11,14 +11,17 @@
             "id": "fc91609534d0682b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "JavaScript/深拷貝 v.s 淺拷貝.md",
-                "mode": "source",
-                "source": false
+                "file": "Idea.canvas",
+                "viewState": {
+                  "x": -479.7154841383743,
+                  "y": -71.00726523409988,
+                  "zoom": -0.3954730700580723
+                }
               },
-              "icon": "lucide-file",
-              "title": "深拷貝 v.s 淺拷貝"
+              "icon": "lucide-layout-dashboard",
+              "title": "Idea"
             }
           }
         ]
@@ -257,6 +260,7 @@
   },
   "active": "fc91609534d0682b",
   "lastOpenFiles": [
+    "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
     "Idea.canvas",
     "Untitled.md",
@@ -283,7 +287,6 @@
     "patterns/設計模式.md",
     "patterns/軟體架構模式.md",
     "patterns/SOLID 設計原則.md",
-    "patterns/Component coupling.md",
     "assets/img/Pasted image 20241225205855.png",
     "HTML",
     "assets/img/Pasted image 20241130122247.png",

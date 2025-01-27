@@ -11,17 +11,14 @@
             "id": "fc91609534d0682b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Ide.canvas",
-                "viewState": {
-                  "x": -376.7486510225232,
-                  "y": 464.21260445263897,
-                  "zoom": -0.5822791804188622
-                }
+                "file": "JavaScript/深拷貝 v.s 淺拷貝.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ide"
+              "icon": "lucide-file",
+              "title": "深拷貝 v.s 淺拷貝"
             }
           }
         ]
@@ -90,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -261,8 +257,9 @@
   },
   "active": "fc91609534d0682b",
   "lastOpenFiles": [
+    "JavaScript/檔名區分 .js, .cjs, .mjs.md",
+    "Idea.canvas",
     "Untitled.md",
-    "Ide.canvas",
     "CSS/Block Formatting Context (BFC).md",
     "CSS/hide date placeholder.md",
     "JavaScript/Parsing process.md",

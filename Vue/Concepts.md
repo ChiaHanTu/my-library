@@ -86,5 +86,20 @@ function even(numbers) {
 <div @scroll.passive="onScroll">...</div>
 ```
 
+### v-model
 
+> true-value and false-value
+
+```vue
+<input
+  type="checkbox"
+  v-model="toggle"
+  true-value="yes"
+  false-value="no" />
+```
+
+```vue
+<!-- 在 "change" 事件後同步更新而不是 "input" -->
+<input v-model.lazy="msg" />
+```
 

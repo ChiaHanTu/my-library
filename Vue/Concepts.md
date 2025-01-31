@@ -43,5 +43,25 @@ const map = reactive(new Map([['count', ref(0)]]))
 console.log(map.get('count').value)
 ```
 
+### v-for
 
+> 多層嵌套
 
+```js
+const sets = ref([
+  [1, 2, 3, 4, 5],
+  [6, 7, 8, 9, 10]
+])
+
+function even(numbers) {
+  return numbers.filter((number) => number % 2 === 0)
+}
+```
+
+```vue
+<ul v-for="numbers in sets">
+  <li v-for="n in even(numbers)">{{ n }}</li>
+</ul>
+```
+
+### 

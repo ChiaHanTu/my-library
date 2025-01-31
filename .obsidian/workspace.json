@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Browser mechanism/DOM 的事件傳遞機制.md",
+                "file": "Vue/Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM 的事件傳遞機制"
+              "title": "Concepts"
             }
           }
         ]
@@ -83,13 +83,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -259,6 +257,9 @@
   },
   "active": "91c9551a6dd58b2c",
   "lastOpenFiles": [
+    "Vue/Style-guide.md",
+    "Vue/Concepts.md",
+    "Browser mechanism/DOM 的事件傳遞機制.md",
     "principle/Render Mode.md",
     "principle/Work Principle.md",
     "Idea.canvas",
@@ -283,9 +284,6 @@
     "TypeScript/Mapped Types 映射類型.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
-    "patterns/開發模式.md",
-    "patterns/設計模式.md",
-    "patterns/軟體架構模式.md",
     "assets/img/Pasted image 20241225205855.png",
     "HTML",
     "assets/img/Pasted image 20241130122247.png",

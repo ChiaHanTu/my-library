@@ -1,8 +1,4 @@
 
-### watchEffect
-
-> 會監聽所有可訪問的響應性屬性
-
 ### ref
 
 > 持有非原始值時，會通過 reactive 轉換為響應式代理
@@ -102,4 +98,8 @@ function even(numbers) {
 <!-- 在 "change" 事件後同步更新而不是 "input" -->
 <input v-model.lazy="msg" />
 ```
+
+### watchEffect
+
+> 會監聽所有可訪問的響應性屬性，程式碼較簡潔，但依賴關係不明確
 

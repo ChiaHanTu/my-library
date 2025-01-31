@@ -64,4 +64,27 @@ function even(numbers) {
 </ul>
 ```
 
-### 
+### 事件處理
+
+> Vue 預設在冒泡階段執行事件處理
+
+```vue
+<!-- 僅當 event.target 是元素本身時才會觸發事件處理器 -->
+<!-- 例如：事件處理器不來自子元素 -->
+<div @click.self="doThat">...</div>
+
+<!-- 添加事件監聽器時，使用 `capture` 捕獲模式 -->
+<!-- 例如：指向內部元素的事件，在被內部元素處理前，先被外部處理 -->
+<div @click.capture="doThis">...</div>
+
+<!-- 點擊事件最多被觸發一次 --> 
+<a @click.once="doThis"></a>
+
+<!-- 滾動事件的默認行為 (scrolling) 將立即發生而非等待 `onScroll` 完成 -->
+<!-- 以防其中包含 `event.preventDefault()` -->
+<!-- 通常用於 mobile -->
+<div @scroll.passive="onScroll">...</div>
+```
+
+
+

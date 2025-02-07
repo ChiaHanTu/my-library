@@ -20,6 +20,13 @@
 ![[SSR_principle.png]]
 
 --- 
+
+# Static Site Generation 
+
+1. 在 builder 過程中，
+
+---
+
 ## Nuxt Hybrid Rendering 
 
 > 允許依照路由定義不同的快取模式

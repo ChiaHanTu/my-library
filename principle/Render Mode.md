@@ -23,7 +23,9 @@
 
 # Static Site Generation 
 
-1. 在 builder 過程中，
+1. 在 build 過程中，將 HTML、CSS 結合生成靜態頁面
+2. 執行預渲染，根據特定的路由和數據生成多個靜態頁面實例
+3. build 完成後，SSG 會將生成的靜態頁面輸出到特定資料夾中，這些頁面包含所有需要的 HTML、
 
 ---
 

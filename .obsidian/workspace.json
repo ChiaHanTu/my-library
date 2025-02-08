@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "C#/C Sharp Intermediate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Render Mode"
+              "title": "C Sharp Intermediate"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "constru",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,11 +83,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -255,8 +257,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "91c9551a6dd58b2c",
   "lastOpenFiles": [
+    "C#/C Sharp Advanced.md",
+    "C#/Basic.md",
+    "principle/Render Mode.md",
     "Vue/Concepts.md",
     "Vue/Style-guide.md",
     "Idea.canvas",
@@ -265,7 +270,6 @@
     "Test/Test Method.md",
     "Test/Practice Note.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
-    "principle/Render Mode.md",
     "principle/Work Principle.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/檔名區分 .js, .cjs, .mjs.md",
@@ -282,7 +286,6 @@
     "Network/CSP Content-Security-Policy.md",
     "Network/HTTP.md",
     "Vite/環境變量 env.md",
-    "Vite/index.md",
     "assets/img/Pasted image 20241225205855.png",
     "HTML",
     "assets/img/Pasted image 20241130122247.png",

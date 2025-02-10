@@ -190,3 +190,32 @@ const AsyncComp = defineAsyncComponent({
 })
 ```
 
+
+### directive
+
+```js
+const app = createApp({})
+
+// 使 v-focus 在所有組件中都可用
+app.directive('focus', {
+  /* ... */
+})
+```
+
+```js
+export default {
+  setup() {
+    /*...*/
+  },
+  directives: {
+    // 在模板中啟用 v-focus
+    focus: {
+      /* ... */
+    }
+  }
+}
+```
+
+```js
+<div v-example:foo.bar="baz">
+```

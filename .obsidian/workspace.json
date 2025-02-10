@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Operator.md",
+                "file": "JavaScript/Object.assign() v.s Object spread operator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operator"
+              "title": "Object.assign() v.s Object spread operator"
             }
           }
         ]
@@ -255,8 +255,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "91c9551a6dd58b2c",
   "lastOpenFiles": [
+    "JavaScript/Operator.md",
     "Vue/Concepts.md",
     "assets/img/Pasted image 20250210111127.png",
     "Vue/Style-guide.md",

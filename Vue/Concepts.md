@@ -111,6 +111,13 @@ function even(numbers) {
 
 const emit = defineEmits<{
 	click: null, // 無校驗
-	
+	submit: ({ email, password }) => {
+		if (email && password) {
+			return true
+		} else {
+			console.warn('Invalid submit event payload!')
+			return false
+		}
+	}
 }
 ```

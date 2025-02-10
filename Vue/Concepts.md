@@ -261,6 +261,7 @@ const myDirective = {
 const myPlugin = {
   install(app, options) {
     // 配置此應用
+     app.provide('i18n', options)
   }
 }
 ```

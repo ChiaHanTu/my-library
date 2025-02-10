@@ -252,3 +252,16 @@ const myDirective = {
 
 參考: https://zh-hk.vuejs.org/guide/reusability/custom-directives.html
 
+
+### plugin
+
+> 一個插件可以是一個擁有 `install()` 方法的對象，也可以直接是一個安裝函數本身。安裝函數會接收到安裝它的應用實例和傳遞給 `app.use()` 的額外選項作為參數：
+
+```js
+const myPlugin = {
+  install(app, options) {
+    // 配置此應用
+  }
+}
+```
+

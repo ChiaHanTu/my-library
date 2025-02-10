@@ -129,4 +129,8 @@ function submitForm(email, password) {
 ```
 
 
+### defineModel
 
+```typescript
+const [model, modifiers] = defineModel({ set(value) { if (modifiers.capitalize) { return value.charAt(0).toUpperCase() + value.slice(1) } return value } })
+```

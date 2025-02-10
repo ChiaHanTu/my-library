@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -258,8 +257,9 @@
   },
   "active": "91c9551a6dd58b2c",
   "lastOpenFiles": [
-    "Vue/Style-guide.md",
+    "assets/img/Pasted image 20250210111127.png",
     "Vue/Concepts.md",
+    "Vue/Style-guide.md",
     "C#/C Sharp Intermediate.md",
     "C#/C Sharp Beginning.md",
     "C#/C Sharp Advanced.md",
@@ -284,7 +284,6 @@
     "Regular Expression 正則表達式.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
-    "Browser mechanism/DOM 的事件傳遞機制.md",
     "assets/img/Pasted image 20241225205855.png",
     "HTML",
     "assets/img/Pasted image 20241130122247.png",
@@ -302,7 +301,6 @@
     "封存.zip",
     "note.zip",
     "assets/img/type_transform.png",
-    "assets/img/sameness_comparison.png",
     "CSS",
     "patterns"
   ]

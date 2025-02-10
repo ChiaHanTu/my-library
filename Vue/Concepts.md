@@ -1,4 +1,8 @@
 
+## lifecycle
+
+![[Pasted image 20250210111127.png]]
+
 ### ref
 
 > 持有非原始值時，會通過 reactive 轉換為響應式代理

@@ -109,8 +109,10 @@ function even(numbers) {
 ```typescript
 // 事件校驗
 
-const emit = defineEmits<{
-	click: null, // 無校驗
+const emit = defineEmits({
+	// 無校驗
+	click: null,
+	// 校驗 submit 事件
 	submit: ({ email, password }) => {
 		if (email && password) {
 			return true
@@ -119,5 +121,12 @@ const emit = defineEmits<{
 			return false
 		}
 	}
+})
+
+function submitForm(email, password) {
+	emit('submit', { email, password })
 }
 ```
+
+
+

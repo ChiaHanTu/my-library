@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Concepts.md",
+                "file": "JavaScript/Operator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concepts"
+              "title": "Operator"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "??",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,10 +255,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "91c9551a6dd58b2c",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
-    "assets/img/Pasted image 20250210111127.png",
     "Vue/Concepts.md",
+    "assets/img/Pasted image 20250210111127.png",
     "Vue/Style-guide.md",
     "C#/C Sharp Intermediate.md",
     "C#/C Sharp Beginning.md",

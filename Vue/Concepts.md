@@ -148,5 +148,21 @@ const [model, modifiers] = defineModel({
 
 
 ```typescript
-// vue 3.4 
+// vue 3.4 之前
+const props = defineProps({
+	modelValue: String,
+	modelModifiers: { default: () => ({}) }
+})
+
+const emit = defineEmits(['update:modelValue'])
+
+function emitValue(e) { 
+	let value = e.target.value
+	if (props.modelModifiers.capitalize) {
+		value = value.charAt(0).toUpperCase() + value.slice(1)
+	} 
+	emit('update:modelValue', value)
+}
 ```
+
+

@@ -103,3 +103,14 @@ function even(numbers) {
 
 > 會監聽所有可訪問的響應性屬性，程式碼較簡潔，但依賴關係不明確
 
+
+### emits
+
+```typescript
+// 事件校驗
+
+const emit = defineEmits<{
+	click: null, // 無校驗
+	
+}
+```

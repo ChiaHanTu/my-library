@@ -134,7 +134,8 @@ function submitForm(email, password) {
 > 返回值可以取得雙向綁定的值和修飾符
 
 ```typescript
-// 設立自定義的修ㄕㄧ
+// vue 3.4 後
+// 設立自定義的修飾符
 const [model, modifiers] = defineModel({
 	set(value) {
 		if (modifiers.capitalize) {
@@ -146,4 +147,6 @@ const [model, modifiers] = defineModel({
 ```
 
 
-
+```typescript
+// vue 3.4 
+```

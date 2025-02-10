@@ -264,7 +264,11 @@ const myPlugin = {
      app.provide('i18n', options)
      // 注入一個全局可用的 $translate() 方法
      app.config.globalProperties.$translate = (key) => {
-     // 獲取 `options` 對象的深層屬性 // 使用 `key` 作為索引 return key.split('.').reduce((o, i) => { if (o) return o[i] }, options) }
+     // 獲取 `options` 對象的深層屬性
+     // 使用 `key` 作為索引 return
+     key.split('.').reduce((o, i) => {
+	     if (o) return o[i]
+     }, options) 
   }
 }
 ```

@@ -216,6 +216,37 @@ export default {
 }
 ```
 
-```js
+```vue
 <div v-example:foo.bar="baz">
 ```
+
+example 指令帶了 foo 參數與 bar 修飾符，值為 baz
+
+#### 指令鉤子
+
+```js
+const myDirective = {
+  // 在綁定元素的 attribute 前
+  // 或事件監聽器應用前調用
+  created(el, binding, vnode, prevVnode) {
+    // 下面會介紹各個參數的細節
+  },
+  // 在元素被插入到 DOM 前調用
+  beforeMount(el, binding, vnode, prevVnode) {},
+  // 在綁定元素的父組件
+  // 及他自己的所有子節點都掛載完成後調用
+  mounted(el, binding, vnode, prevVnode) {},
+  // 綁定元素的父組件更新前調用
+  beforeUpdate(el, binding, vnode, prevVnode) {},
+  // 在綁定元素的父組件
+  // 及他自己的所有子節點都更新後調用
+  updated(el, binding, vnode, prevVnode) {},
+  // 綁定元素的父組件卸載前調用
+  beforeUnmount(el, binding, vnode, prevVnode) {},
+  // 綁定元素的父組件卸載後調用
+  unmounted(el, binding, vnode, prevVnode) {}
+}
+```
+
+參考: https://zh-hk.vuejs.org/guide/reusability/custom-directives.html
+

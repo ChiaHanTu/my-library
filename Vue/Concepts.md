@@ -193,6 +193,8 @@ const AsyncComp = defineAsyncComponent({
 
 ### directive
 
+> 自定義指令主要是為了重用涉及普通元素的底層 DOM 訪問的邏輯。
+
 ```js
 const app = createApp({})
 

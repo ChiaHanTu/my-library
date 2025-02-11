@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info Security/JSON Injection.md",
+                "file": "JavaScript/Strict mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSON Injection"
+              "title": "Strict mode"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eval",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,6 +257,8 @@
   },
   "active": "0497d5cc0e4d03ff",
   "lastOpenFiles": [
+    "Info Security/JSON Injection.md",
+    "JavaScript/Strict mode.md",
     "Vue/Concepts.md",
     "JavaScript/作用域.md",
     "JavaScript/Parsing process.md",
@@ -283,9 +284,7 @@
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/型別轉換.md",
     "JavaScript/宏任務與微任務.md",
-    "C#/Basic.md",
     "Idea.canvas",
-    "Markdown.md",
     "assets/img/Pasted image 20241225205855.png",
     "HTML",
     "assets/img/Pasted image 20241130122247.png",

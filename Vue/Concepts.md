@@ -273,3 +273,26 @@ const myPlugin = {
 }
 ```
 
+### 組合式內置組件
+
+```vue
+// 按照層級使用不同的內置組件
+<RouterView v-slot="{ Component }">
+  <template v-if="Component">
+    <Transition mode="out-in">
+      <KeepAlive>
+        <Suspense>
+          <!-- 主要內容 -->
+          <component :is="Component"></component>
+
+          <!-- 加載中狀態 -->
+          <template #fallback>
+            正在加載...
+          </template>
+        </Suspense>
+      </KeepAlive>
+    </Transition>
+  </template>
+</RouterView>
+```
+

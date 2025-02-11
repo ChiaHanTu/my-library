@@ -27,7 +27,7 @@ function sum(a, a) {  // SyntaxError: Duplicate parameter name not allowed in th
 }
 ```
 
-## 禁止使用 with 雨具
+## 禁止使用 with 語句
 
 ```js
 // 錯誤範例
@@ -67,3 +67,13 @@ function factorial(n) {
   return n === 1 ? 1 : n * arguments.callee(n - 1);  // TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed
 }
 ```
+
+
+## 禁止變數名稱與保留字名稱相同
+
+```js
+// 錯誤範例
+"use strict";
+let public = 10;  // SyntaxError: Unexpected strict mode reserved word
+```
+

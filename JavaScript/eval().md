@@ -33,7 +33,7 @@ eval("x = 10;"); // `x` 已經在外部聲明，因此可以被修改
 console.log(x); // 10
 ```
 
-可以用 `new Function()` 替代
+可以用 `new Function()` 替代，但仍有 XSS 風險(不受)
 
 ```js
 const sum = new Function('a', 'b', 'return a + b');

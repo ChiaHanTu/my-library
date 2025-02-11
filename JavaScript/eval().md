@@ -25,3 +25,11 @@ console.log(sayHello()); // "Hello!"
 eval("var x = 10;");
 console.log(x); // ReferenceError: x is not defined
 ```
+
+```js
+"use strict";
+let x;
+eval("x = 10;"); // `x` 已經在外部聲明，因此可以被修改
+console.log(x); // 10
+```
+

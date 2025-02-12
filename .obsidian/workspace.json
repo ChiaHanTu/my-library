@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Best practice.md",
+                "file": "Vue/Render pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best practice"
+              "title": "Render pipeline"
             }
           }
         ]
@@ -257,9 +257,12 @@
   },
   "active": "f35de113f357d682",
   "lastOpenFiles": [
+    "Pasted image 20250212110151.png",
+    "Vue/Concepts.md",
+    "Vue/Render pipeline.md",
+    "Vue/Best practice.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Vue/Style-guide.md",
-    "Vue/Concepts.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
@@ -270,7 +273,6 @@
     "JavaScript/作用域.md",
     "JavaScript/Strict mode.md",
     "JavaScript/Parsing process.md",
-    "Vue/Best practice.md",
     "JavaScript/JIT.md",
     "JavaScript/eval().md",
     "JavaScript/for 迴圈比較.md",
@@ -281,8 +283,6 @@
     "JavaScript/傳值 v.s 傳址.md",
     "patterns/SOLID 設計原則.md",
     "patterns/軟體架構模式.md",
-    "principle/Render Mode.md",
-    "principle/Work Principle.md",
     "assets/img/Pasted image 20250210111127.png",
     "Idea.canvas",
     "assets/img/Pasted image 20241225205855.png",

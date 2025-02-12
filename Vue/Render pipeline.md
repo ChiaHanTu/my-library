@@ -9,3 +9,15 @@
 
 > 一個運行時渲染器將會遍歷整個虛擬 DOM 樹，並據此構建真實的 DOM 樹。這個過程被稱為**掛載** (mount)。
 
+
+```js
+const vnode = {
+  type: 'div',
+  props: {
+    id: 'hello'
+  },
+  children: [
+    /* 更多 vnode */
+  ]
+}
+```

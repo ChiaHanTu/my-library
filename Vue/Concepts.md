@@ -316,3 +316,16 @@ const myPlugin = {
   <li v-for="i in list" v-once>{{i}}</li>
 </ul>
 ```
+
+### v-memo
+
+如果組件重新渲染，而 `valueA` 與 `valueB` 皆保持不變，則此 `div` 下的更新都會被跳過
+
+`v-memo` 傳入空依賴陣列 (`v-memo="[]"`) 將與 `v-once` 效果相同。
+
+```vue
+<div v-memo="[valueA, valueB]">
+  ...
+</div>
+```
+

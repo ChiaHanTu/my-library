@@ -21,4 +21,12 @@
 
 因此可以改用狀態比對來取代，只會在 `active` 狀態更改時才會更新
 
+## 計算屬性的穩定性
 
+```js
+const computedObj = computed(() => {
+  return {
+    isEven: count.value % 2 === 0
+  }
+})
+```

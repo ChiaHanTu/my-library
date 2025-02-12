@@ -323,7 +323,7 @@ const myPlugin = {
 
 `v-memo` 傳入空依賴陣列 (`v-memo="[]"`) 將與 `v-once` 效果相同。
 
-> 
+> 當搭配 `v-for` 使用 `v-memo`，確保兩者都绑定在同一個元素上。`v-memo` 不能用在 `v-for` 内部。
 
 ```vue
 <div v-memo="[valueA, valueB]">

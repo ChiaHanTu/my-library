@@ -323,6 +323,8 @@ const myPlugin = {
 
 `v-memo` 傳入空依賴陣列 (`v-memo="[]"`) 將與 `v-once` 效果相同。
 
+> 
+
 ```vue
 <div v-memo="[valueA, valueB]">
   ...

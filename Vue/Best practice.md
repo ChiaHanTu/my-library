@@ -30,3 +30,19 @@ const computedObj = computed(() => {
   }
 })
 ```
+
+如果計算屬性回傳一個物件，則每次都會判定新舊值始終不同
+
+```js
+const computedObj = computed((oldValue) => {
+  const newValue = {
+    isEven: count.value % 2 === 0
+  }
+  if (oldValue && oldValue.isEven === newValue.isEven) {
+    return oldValue
+  }
+  return newValue
+})
+```
+
+可ㄧ

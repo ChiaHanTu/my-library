@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Test Method.md",
+                "file": "Vue/Best practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Method"
+              "title": "Best practice"
             }
           }
         ]
@@ -257,6 +257,9 @@
   },
   "active": "0497d5cc0e4d03ff",
   "lastOpenFiles": [
+    "Vue/Concepts.md",
+    "Vue/Best practice.md",
+    "Test/Test Method.md",
     "Test/Practice Note.md",
     "JavaScript/JIT.md",
     "JavaScript/eval().md",
@@ -268,7 +271,6 @@
     "JavaScript/作用域.md",
     "JavaScript/型別判定相等.md",
     "Info Security/JSON Injection.md",
-    "Vue/Concepts.md",
     "JavaScript/傳值 v.s 傳址.md",
     "patterns/SOLID 設計原則.md",
     "patterns/軟體架構模式.md",
@@ -282,8 +284,6 @@
     "JavaScript/重新指向 this.md",
     "JavaScript/特殊符號.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
-    "JavaScript/檔名區分 .js, .cjs, .mjs.md",
-    "JavaScript/柯里化函數.md",
     "Idea.canvas",
     "assets/img/Pasted image 20241225205855.png",
     "HTML",

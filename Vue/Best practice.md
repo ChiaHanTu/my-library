@@ -47,7 +47,31 @@ const computedObj = computed((oldValue) => {
 
 可以手動比較新舊值來優化
 
-## 
+## 減少大型不可變數據的響應性開銷
+
+使用 `shallowRef()` 或是 `shallowReactive()` 繞開深度響應，但代價是，我們現在必須將所有深層級對象視為不可變的，並且只能通過替換整個根狀態來觸發更新：
+
+```js
+const shallowArray = shallowRef([
+  /* 巨大的列表，裡面包含深層的對象 */
+])
+
+// 這不會觸發更新...
+shallowArray.value.push(newObject)
+// 這才會觸發更新
+shallowArray.value = [...shallowArray.value, newObject]
+
+// 這不會觸發更新...
+shallowArray.value[0].foo = 1
+// 這才會觸發更新
+shallowArray.value = [
+  {
+    ...shallowArray.value[0],
+    foo: 1
+  },
+  ...shallowArray.value.slice(1)
+]
+```
 
 ## 組件實例的數量
 

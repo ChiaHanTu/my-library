@@ -45,4 +45,5 @@ const computedObj = computed((oldValue) => {
 })
 ```
 
-可ㄧ
+可以手動比較新舊值來優化
+

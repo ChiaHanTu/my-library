@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Best practice.md",
+                "file": "Vue/Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best practice"
+              "title": "Concepts"
             }
           }
         ]
@@ -257,8 +257,8 @@
   },
   "active": "0497d5cc0e4d03ff",
   "lastOpenFiles": [
-    "Vue/Concepts.md",
     "Vue/Best practice.md",
+    "Vue/Concepts.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
     "JavaScript/JIT.md",

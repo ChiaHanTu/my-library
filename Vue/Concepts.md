@@ -296,3 +296,23 @@ const myPlugin = {
 </RouterView>
 ```
 
+
+### v-once
+
+僅渲染元素和組件一次，並跳過之後的更新
+
+```vue
+<!-- 單個元素 -->
+<span v-once>This will never change: {{msg}}</span>
+<!-- 带有子元素的元素 -->
+<div v-once>
+  <h1>Comment</h1>
+  <p>{{msg}}</p>
+</div>
+<!-- 组件 -->
+<MyComponent v-once :comment="msg" />
+<!-- `v-for` 指令 -->
+<ul>
+  <li v-for="i in list" v-once>{{i}}</li>
+</ul>
+```

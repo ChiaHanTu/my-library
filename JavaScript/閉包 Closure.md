@@ -28,7 +28,7 @@ setCount(500);
 count(); // 500
 ```
 
-- 緩存機制
+### 緩存機制
 
 ```js
 function cached(fn) {
@@ -52,4 +52,35 @@ function cached(fn) {
   };
 }
 ```
-- 模擬私有變數
+
+### 模擬私有變數
+
+```js
+// privateCounter 沒被法被外部修改，
+// 因為閉包的關係 increment 與 decrement 可以存取到 privateCounter
+// 因此 privateCounter 只能夠透過 increment 與 decrement 來改，這能有效避免被誤觸到
+var counter = (function () {
+  var privateCounter = 0;
+  function changeBy(val) {
+    privateCounter += val;
+  }
+  return {
+    increment: function () {
+      changeBy(1);
+    },
+    decrement: function () {
+      changeBy(-1);
+    },
+    value: function () {
+      return privateCounter;
+    },
+  };
+})();
+
+console.log(counter.value()); // logs 0
+counter.increment();
+counter.increment();
+console.log(counter.value()); // logs 2
+counter.decrement();
+console.log(counter.value()); // logs 1
+```

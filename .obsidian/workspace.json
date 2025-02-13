@@ -11,12 +11,14 @@
             "id": "f35de113f357d682",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/Pasted image 20250212110151.png"
+                "file": "Vue/Concepts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250212110151"
+              "icon": "lucide-file",
+              "title": "Concepts"
             }
           }
         ]
@@ -253,14 +255,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "f35de113f357d682",
   "lastOpenFiles": [
     "Vue/Render pipeline.md",
+    "Vue/Style-guide.md",
     "assets/img/Pasted image 20250212110151.png",
     "Vue/Concepts.md",
     "Vue/Best practice.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
-    "Vue/Style-guide.md",
     "Test/Test Method.md",
     "Test/Practice Note.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Strict mode.md",
+                "file": "JavaScript/閉包 Closure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strict mode"
+              "title": "閉包 Closure"
             }
           }
         ]
@@ -257,6 +257,13 @@
   },
   "active": "f35de113f357d682",
   "lastOpenFiles": [
+    "JavaScript/for 迴圈比較.md",
+    "JavaScript/JIT.md",
+    "JavaScript/Object.assign() v.s Object spread operator.md",
+    "JavaScript/Parsing process.md",
+    "JavaScript/Operator.md",
+    "JavaScript/eval().md",
+    "JavaScript/Strict mode.md",
     "JavaScript/閉包 Closure.md",
     "patterns/Component cohesion.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
@@ -275,13 +282,6 @@
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/型別轉換.md",
     "JavaScript/作用域.md",
-    "JavaScript/Strict mode.md",
-    "JavaScript/Parsing process.md",
-    "JavaScript/JIT.md",
-    "JavaScript/eval().md",
-    "JavaScript/for 迴圈比較.md",
-    "JavaScript/Object.assign() v.s Object spread operator.md",
-    "JavaScript/Operator.md",
     "JavaScript/型別判定相等.md",
     "Info Security/JSON Injection.md",
     "assets/img/Pasted image 20250210111127.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/閉包 Closure.md",
+                "file": "principle/Render Mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "閉包 Closure"
+              "title": "Render Mode"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SSR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,6 +258,11 @@
   },
   "active": "f35de113f357d682",
   "lastOpenFiles": [
+    "Vue/Best practice.md",
+    "Vue/Concepts.md",
+    "Vue/Style-guide.md",
+    "Vue/Render pipeline.md",
+    "JavaScript/閉包 Closure.md",
     "JavaScript/for 迴圈比較.md",
     "JavaScript/JIT.md",
     "JavaScript/Object.assign() v.s Object spread operator.md",
@@ -264,15 +270,10 @@
     "JavaScript/Operator.md",
     "JavaScript/eval().md",
     "JavaScript/Strict mode.md",
-    "JavaScript/閉包 Closure.md",
     "patterns/Component cohesion.md",
     "JavaScript/深拷貝 v.s 淺拷貝.md",
     "JavaScript/特殊符號.md",
     "JavaScript/變數差異.md",
-    "Vue/Concepts.md",
-    "Vue/Render pipeline.md",
-    "Vue/Best practice.md",
-    "Vue/Style-guide.md",
     "assets/img/Pasted image 20250212110151.png",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "Test/Test Method.md",

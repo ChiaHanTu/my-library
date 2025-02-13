@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle/Render Mode.md",
+                "file": "Info Security/CSS Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Render Mode"
+              "title": "CSS Injection"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SSR",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,8 +255,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f35de113f357d682",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
+    "Network/CSP Content-Security-Policy.md",
+    "principle/Render Mode.md",
     "Vue/Best practice.md",
     "Vue/Concepts.md",
     "Vue/Style-guide.md",
@@ -283,8 +284,6 @@
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/型別轉換.md",
     "JavaScript/作用域.md",
-    "JavaScript/型別判定相等.md",
-    "Info Security/JSON Injection.md",
     "assets/img/Pasted image 20250210111127.png",
     "Idea.canvas",
     "assets/img/Pasted image 20241225205855.png",

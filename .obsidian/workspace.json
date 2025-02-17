@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info Security/CSS Injection.md",
+                "file": "C#/C Sharp Beginning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS Injection"
+              "title": "C Sharp Beginning"
             }
           }
         ]
@@ -255,8 +255,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "f35de113f357d682",
   "lastOpenFiles": [
+    "C#/C Sharp Intermediate.md",
+    "C#/Basic.md",
+    "MSSQL/Convention.md",
+    "MSSQL/Naming Convention.md",
+    "MSSQL/Database.md",
+    "DotNet/WebApis.md",
+    "HTML/文件類型.md",
+    "C#/C Sharp Beginning.md",
+    "C#/C Sharp Advanced.md",
+    "JavaScript/宏任務與微任務.md",
+    "Info Security/CSS Injection.md",
     "Network/CSP Content-Security-Policy.md",
     "principle/Render Mode.md",
     "Vue/Best practice.md",
@@ -272,18 +283,7 @@
     "JavaScript/eval().md",
     "JavaScript/Strict mode.md",
     "patterns/Component cohesion.md",
-    "JavaScript/深拷貝 v.s 淺拷貝.md",
-    "JavaScript/特殊符號.md",
-    "JavaScript/變數差異.md",
     "assets/img/Pasted image 20250212110151.png",
-    "Browser mechanism/DOM 的事件傳遞機制.md",
-    "Test/Test Method.md",
-    "Test/Practice Note.md",
-    "JavaScript/檔名區分 .js, .cjs, .mjs.md",
-    "JavaScript/宏任務與微任務.md",
-    "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
-    "JavaScript/型別轉換.md",
-    "JavaScript/作用域.md",
     "assets/img/Pasted image 20250210111127.png",
     "Idea.canvas",
     "assets/img/Pasted image 20241225205855.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/C Sharp Advanced.md",
+                "file": "C#/C Sharp Beginning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Sharp Advanced"
+              "title": "C Sharp Beginning"
             }
           }
         ]
@@ -257,18 +257,18 @@
   },
   "active": "f35de113f357d682",
   "lastOpenFiles": [
+    "C#/C Sharp Intermediate.md",
+    "C#/C Sharp Advanced.md",
     "Vue/Render pipeline.md",
     "Vue/Concepts.md",
     "Vue/Best practice.md",
     "C#/C Sharp Beginning.md",
-    "C#/C Sharp Intermediate.md",
     "C#/Basic.md",
     "MSSQL/Convention.md",
     "MSSQL/Naming Convention.md",
     "MSSQL/Database.md",
     "DotNet/WebApis.md",
     "HTML/文件類型.md",
-    "C#/C Sharp Advanced.md",
     "JavaScript/宏任務與微任務.md",
     "Info Security/CSS Injection.md",
     "Network/CSP Content-Security-Policy.md",

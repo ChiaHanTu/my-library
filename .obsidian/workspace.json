@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/Array, Linked list.md",
+                "file": "Network/Performance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array, Linked list"
+              "title": "Performance"
             }
           }
         ]
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -258,33 +257,34 @@
   },
   "active": "f35de113f357d682",
   "lastOpenFiles": [
+    "Network/Race Condition 競態條件.md",
+    "Network/Web Socket.md",
+    "Network/HTTP.md",
+    "Network/DNS.md",
+    "Network/CSP Content-Security-Policy.md",
     "MSSQL/Naming Convention.md",
-    "Image/Pasted image 20250221100846.png",
-    "Data Structure/Array, Linked list.md",
-    "Data Structure",
     "MSSQL/Database.md",
     "MSSQL/Convention.md",
-    "C#/Service Lifetime.md",
-    "C#/C Sharp Advanced.md",
-    "C#/C Sharp Intermediate.md",
-    "C#/C Sharp Beginning.md",
-    "Vue/Render pipeline.md",
-    "Vue/Concepts.md",
-    "Vue/Best practice.md",
-    "C#/Basic.md",
-    "DotNet/WebApis.md",
-    "HTML/文件類型.md",
-    "JavaScript/宏任務與微任務.md",
-    "Info Security/CSS Injection.md",
-    "Network/CSP Content-Security-Policy.md",
-    "principle/Render Mode.md",
-    "Vue/Style-guide.md",
-    "JavaScript/閉包 Closure.md",
-    "JavaScript/for 迴圈比較.md",
-    "JavaScript/JIT.md",
-    "JavaScript/Object.assign() v.s Object spread operator.md",
-    "JavaScript/Parsing process.md",
+    "JavaScript/柯里化函數.md",
     "JavaScript/Operator.md",
+    "JavaScript/for 迴圈比較.md",
+    "JavaScript/eval().md",
+    "Info Security/SQL Injection.md",
+    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
+    "Info Security/雜湊 Hash.md",
+    "Info Security/JSON Injection.md",
+    "Info Security/CSS Injection.md",
+    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
+    "Browser mechanism/DOM 的事件傳遞機制.md",
+    "C#/C Sharp Beginning.md",
+    "C#/C Sharp Advanced.md",
+    "C#/Basic.md",
+    "CSS/hide date placeholder.md",
+    "CSS/Block Formatting Context (BFC).md",
+    "Data Structure/Array, Linked list.md",
+    "Image/Pasted image 20250221100846.png",
+    "Data Structure",
+    "C#/Service Lifetime.md",
     "Image/Pasted image 20250212110151.png",
     "Image/Pasted image 20250210111127.png",
     "Idea.canvas",

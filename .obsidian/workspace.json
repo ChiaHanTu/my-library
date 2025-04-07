@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Browser mechanism/DOM 的事件傳遞機制.md",
+                "file": "JavaScript/typeof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM 的事件傳遞機制"
+              "title": "typeof"
             }
           }
         ]
@@ -246,8 +246,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83cd3986d52df2de",
+  "active": "5946cbb71dbb220f",
   "lastOpenFiles": [
+    "Browser mechanism/DOM 的事件傳遞機制.md",
+    "JavaScript/typeof.md",
     "Vue/Concepts.md",
     "JavaScript/WeakMap & WeakSet.md",
     "JavaScript/Strict mode.md",
@@ -272,8 +274,6 @@
     "JavaScript/柯里化函數.md",
     "JavaScript/for 迴圈比較.md",
     "Info Security/SQL Injection.md",
-    "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
-    "Info Security/雜湊 Hash.md",
     "Image/Pasted image 20250221100846.png",
     "Data Structure",
     "Image/Pasted image 20250212110151.png",

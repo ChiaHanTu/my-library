@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/eval().md",
+                "file": "Browser mechanism/DOM 的事件傳遞機制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eval()"
+              "title": "DOM 的事件傳遞機制"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "冒泡",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,12 +246,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5946cbb71dbb220f",
+  "active": "83cd3986d52df2de",
   "lastOpenFiles": [
+    "Vue/Concepts.md",
+    "JavaScript/WeakMap & WeakSet.md",
+    "JavaScript/Strict mode.md",
+    "JavaScript/Parsing process.md",
+    "JavaScript/eval().md",
     "JavaScript/Operator.md",
     "JavaScript/抽象語法樹 AST(Abstract Syntax Tree).md",
     "JavaScript/閉包 Closure.md",
-    "JavaScript/WeakMap & WeakSet.md",
     "DevOps/Kubernetes.md",
     "CSS/hide date placeholder.md",
     "JavaScript/作用域.md",
@@ -267,13 +271,9 @@
     "MSSQL/Convention.md",
     "JavaScript/柯里化函數.md",
     "JavaScript/for 迴圈比較.md",
-    "JavaScript/eval().md",
     "Info Security/SQL Injection.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/雜湊 Hash.md",
-    "Info Security/JSON Injection.md",
-    "Info Security/CSS Injection.md",
-    "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "Image/Pasted image 20250221100846.png",
     "Data Structure",
     "Image/Pasted image 20250212110151.png",

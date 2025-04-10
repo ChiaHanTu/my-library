@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b60dbf44e2090e61",
+        "id": "0bbdc7fb3229b5ba",
         "type": "tabs",
         "children": [
           {
-            "id": "5946cbb71dbb220f",
+            "id": "47ad3a8327d4770d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Operator.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Operator"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "content secur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,15 +242,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5946cbb71dbb220f",
+  "active": "47ad3a8327d4770d",
   "lastOpenFiles": [
+    "JavaScript/eval().md",
+    "Network/CSP Content-Security-Policy.md",
+    "Info Security/CSS Injection.md",
+    "JavaScript/Operator.md",
     "JavaScript/Parsing process.md",
     "Vue/Style-guide.md",
     "Vue/Render pipeline.md",
     "Vue/Concepts.md",
     "Vue/Best practice.md",
     "JavaScript/柯里化函數.md",
-    "JavaScript/Operator.md",
     "JavaScript/變數差異.md",
     "JavaScript/特殊符號.md",
     "JavaScript/型別判定相等.md",
@@ -270,10 +269,7 @@
     "JavaScript/typeof.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
     "JavaScript/Strict mode.md",
-    "JavaScript/eval().md",
     "DevOps/Kubernetes.md",
-    "CSS/hide date placeholder.md",
-    "conflict-files-obsidian-git.md",
     "Image/Pasted image 20250221100846.png",
     "Data Structure",
     "Image/Pasted image 20250212110151.png",

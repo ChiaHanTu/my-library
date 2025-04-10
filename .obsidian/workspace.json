@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Render pipeline.md",
+                "file": "Vue/Best practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Render pipeline"
+              "title": "Best practice"
             }
           }
         ]
@@ -249,6 +249,7 @@
   "active": "16aefe15a775c387",
   "lastOpenFiles": [
     "Vue/Concepts.md",
+    "Vue/Render pipeline.md",
     "Vue/Best practice.md",
     "Info Security/雜湊 Hash.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
@@ -269,7 +270,6 @@
     "Regular Expression 正則表達式.md",
     "Markdown.md",
     "Vue/Style-guide.md",
-    "Vue/Render pipeline.md",
     "Vite/環境變量 env.md",
     "Vite/index.md",
     "TypeScript/tsconfig.json.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Best practice.md",
+                "file": "Vite/環境變量 env.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best practice"
+              "title": "環境變量 env"
             }
           }
         ]
@@ -248,9 +248,13 @@
   },
   "active": "16aefe15a775c387",
   "lastOpenFiles": [
+    "Vite/index.md",
+    "README.md",
+    "Markdown.md",
+    "Idea.canvas",
     "Vue/Concepts.md",
-    "Vue/Render pipeline.md",
     "Vue/Best practice.md",
+    "Vue/Render pipeline.md",
     "Info Security/雜湊 Hash.md",
     "Info Security/XSS Cross-Site Scripting 跨站式腳本攻擊.md",
     "Info Security/SQL Injection.md",
@@ -266,19 +270,14 @@
     "CSS/Block Formatting Context (BFC).md",
     "CSS/hide date placeholder.md",
     "Data Structure/Array, Linked list.md",
-    "README.md",
     "Regular Expression 正則表達式.md",
-    "Markdown.md",
     "Vue/Style-guide.md",
     "Vite/環境變量 env.md",
-    "Vite/index.md",
     "TypeScript/tsconfig.json.md",
-    "TypeScript/Method.md",
     "Image/Pasted image 20250221100846.png",
     "Data Structure",
     "Image/Pasted image 20250212110151.png",
     "Image/Pasted image 20250210111127.png",
-    "Idea.canvas",
     "Image/Pasted image 20241225205855.png",
     "HTML",
     "Image/Pasted image 20241130122247.png",

@@ -23,40 +23,11 @@ SELECT TOP 1 1 FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[TableName]'
 	[ID] ASC
 )
 WITH (
-    PAD_INDEX = OFF, -- 控制索引頁面的填充程度，OFF 表示使用預設的填充因子
-	STATISTICS_NORECOMPUTE = OFF,
-	IGNORE_DUP_KEY = OFF,
-	ALLOW_ROW_LOCKS = ON,
-	ALLOW_PAGE_LOCKS = ON
+    PAD_INDEX = OFF, -- 是否使索引頁面的填充程度用預設的填充因子
+	STATISTICS_NORECOMPUTE = OFF, -- 是否自動更新統計資訊
+	IGNORE_DUP_KEY = OFF, -- 是否忽略重複鍵值
+	ALLOW_ROW_LOCKS = ON, -- 是否允許行層級的鎖定
+	ALLOW_PAGE_LOCKS = ON -- 是否允許頁面層級的鎖定
 )
 ON [PRIMARY]
 ```
-
-###PAD_INDEX = OFF：
-- 
-
-
-
-- STATISTICS_NORECOMPUTE = OFF：
-
-- 控制是否自動更新統計資訊
-
-- OFF 表示允許自動更新統計資訊
-
-- IGNORE_DUP_KEY = OFF：
-
-- 控制重複鍵值的處理方式
-
-- OFF 表示不忽略重複鍵值，會產生錯誤
-
-- ALLOW_ROW_LOCKS = ON：
-
-- 允許行層級的鎖定
-
-- ON 表示可以使用行鎖定
-
-- ALLOW_PAGE_LOCKS = ON：
-
-- 允許頁面層級的鎖定
-
-- ON 表示可以使用頁面鎖定

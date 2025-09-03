@@ -15,5 +15,8 @@
 
 # Function
 
-- Try 
+- Try catch
+- DRY principle
+- Naming
+- SOLID principle
 

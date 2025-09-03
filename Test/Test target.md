@@ -12,6 +12,8 @@
 - 欄位驗證
 - 新增 / 更新後更新列表資料
 - Submit debounce
+- 取消編輯後回復到原本狀態
+- isDirty 時跳提醒
 
 # Function
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSSQL/Clause.md",
+                "file": "Test/Test target.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clause"
+              "title": "Test target"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -250,8 +249,11 @@
   },
   "active": "16aefe15a775c387",
   "lastOpenFiles": [
-    "MSSQL/Convention.md",
+    "Test/Test Method.md",
+    "Test/Test target.md",
+    "Idea.canvas",
     "MSSQL/Clause.md",
+    "MSSQL/Convention.md",
     "MSSQL/ANSI Standards.md",
     "MSSQL/Naming Convention.md",
     "MSSQL/Database.md",
@@ -264,7 +266,6 @@
     "Vite/index.md",
     "README.md",
     "Markdown.md",
-    "Idea.canvas",
     "Vue/Concepts.md",
     "Vue/Render pipeline.md",
     "Info Security/雜湊 Hash.md",
@@ -275,8 +276,6 @@
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "DevOps/Kubernetes.md",
     "Algorithm/Big O notation.md",
-    "Browser mechanism/HTTP Cache.md",
-    "Browser mechanism/DOM 的事件傳遞機制.md",
     "Image/Pasted image 20250221100846.png",
     "Data Structure",
     "Image/Pasted image 20250212110151.png",

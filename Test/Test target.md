@@ -10,4 +10,10 @@
 - 限定輸入字元
 - 限制輸入長度
 - 欄位驗證
+- 新增 / 更新後更新列表資料
+- Submit debounce
+
+# Function
+
+- Try 
 

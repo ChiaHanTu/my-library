@@ -14,6 +14,7 @@
 - Submit debounce
 - 取消編輯後回復到原本狀態
 - isDirty 時跳提醒
+- 切換種類時，清除表單資料
 
 # Function
 

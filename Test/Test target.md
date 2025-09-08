@@ -23,3 +23,15 @@
 - Naming
 - SOLID principle
 
+# Props 
+
+- 物件可以給預設值，便利使用物件中的 key
+```vue
+props: {
+	obj: {
+		type: Object,
+		default: () => {},
+	}
+}
+```
+

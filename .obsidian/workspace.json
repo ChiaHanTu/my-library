@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "02210dfb0ddf638b",
+        "id": "73cb3a370666f5dc",
         "type": "tabs",
         "children": [
           {
-            "id": "16aefe15a775c387",
+            "id": "51dd885a463abd1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vue/Best practice.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Best practice"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -247,13 +242,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "16aefe15a775c387",
+  "active": "51dd885a463abd1d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Vue/Best practice.md",
     "Test/Test target.md",
     "MSSQL/Clause.md",
     "MSSQL/ANSI Standards.md",
-    "Vue/Best practice.md",
     "HTML/文件類型.md",
     "Package update.md",
     "OS/Linux.md",

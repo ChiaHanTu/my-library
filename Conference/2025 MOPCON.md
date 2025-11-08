@@ -22,5 +22,10 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 
 ## OWASP API Securuty 
 
+---
+
+## AI 賦能 Android：從設計到程式碼的自動化 - Kevin Chiu
+
+
 
 

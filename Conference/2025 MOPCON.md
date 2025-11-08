@@ -9,6 +9,6 @@
 - 資料外洩：Google Cloud DLP 偵測敏感性資料，like firewall on cloud
 - 雲端防護：GCP Armor
 
-## 地端
 
-- 
+## OWASP LLM Security
+

@@ -11,10 +11,14 @@
             "id": "51dd885a463abd1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Conference/2025 MOPCON.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025 MOPCON"
             }
           }
         ]
@@ -244,6 +248,8 @@
   },
   "active": "51dd885a463abd1d",
   "lastOpenFiles": [
+    "Conference/2025 MOPCON.md",
+    "Conference",
     "conflict-files-obsidian-git.md",
     "Vue/Best practice.md",
     "Test/Test target.md",
@@ -270,7 +276,6 @@
     "Algorithm/Big O notation.md",
     "Browser mechanism/HTTP Cache.md",
     "Browser mechanism/DOM 的事件傳遞機制.md",
-    "CSS/Block Formatting Context (BFC).md",
     "Image/Pasted image 20250221100846.png",
     "Data Structure",
     "Image/Pasted image 20250212110151.png",
@@ -289,7 +294,6 @@
     "C#",
     "Note.zip",
     "封存.zip",
-    "note.zip",
-    "CSS"
+    "note.zip"
   ]
 }

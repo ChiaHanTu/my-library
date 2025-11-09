@@ -50,10 +50,11 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 - 維護成本
 - 內部控管與審核機制
 
-### 測試情境
+### 測試情境一
 
 - 是否能了解使用者意圖 -> 語意理解
 - Function call 成功率
+
 - 由另一個 AI 作為評判員，從不同面向評測模型回答品質
 - 評估機制：
 	- 測試設計：一般問答（不含 Function Calling）
@@ -68,7 +69,7 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 	- 完整度：是否完整回答所有紫問題
 	- 清晰度：問答結構與語句是否清楚易懂
 
-## 測試情境
+## 測試情境二
 
 - 對 AI Agent 對多工具選擇能力
 - 核心評估機制：
@@ -76,7 +77,10 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 	- 部分正確
 	- 錯誤
 	- 不需工具
-- 
+
+Agent 設計
+
+
 
 
 

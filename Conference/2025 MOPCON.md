@@ -99,8 +99,9 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 ---
 # 結合ClaudeCode、容器化技術與MCP，打造全方位AI開發平台 - 陳勝揚
 
+Docker 多環境建立工作區，Ai 各別運行
+
 - Claude.md：持久化的記憶累積
-- 
 
 
 

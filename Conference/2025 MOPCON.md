@@ -95,6 +95,9 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 - 需要自主判斷的情境，表現下滑
 - 適合當執行者，不適合當指揮官
 
+---
+
+
 
 
 

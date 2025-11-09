@@ -60,7 +60,13 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 	- 模型扮演 Office AI Agent
 	- 採用 50 個辦公室日常問題
 	- 知識庫內容預埋在 system prompt
-- 依據性
+- 多維度評分、每題最高 6 分，
+- 核心指標：（
+	- 依據性：是否完全依據知識集、無虛構內容
+	- 拒答正確性 - 對知識集外問題能否正確拒答
+- 一般指標：
+	- 完整度：是否完整回答所有紫問題
+	- 清晰度：問答結構與語句是否清楚易懂
   
 
 

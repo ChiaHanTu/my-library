@@ -44,7 +44,11 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 ## 開源 LLM 模型：
 
 - GPT-OSS, Meta LLaMA 3, Qwen 2.5
-- 
+### 考量
+
+- 效能
+- 維護成本
+- 內部控管與審核機制
 
 
 

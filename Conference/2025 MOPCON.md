@@ -54,7 +54,13 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 
 - 是否能了解使用者意圖 -> 語意理解
 - Function call 成功率
-- 由另一個 AI 作為評判員，從不同面向平ㄘㄜ
+- 由另一個 AI 作為評判員，從不同面向評測模型回答品質
+- 評估機制：
+	- 測試設計：一般問答（不含 Function Calling）
+	- 模型扮演 Office AI Agent
+	- 採用 50 個辦公室日常問題
+	- 知識庫內容預埋在 system prompt
+- 依據性
   
 
 

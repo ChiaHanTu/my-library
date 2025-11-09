@@ -28,7 +28,7 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 ## Agent 
 
 1. System prompt: 策略層，說明什麼情境下呼叫對應的 Tool
-2. Description：功能層，說明
+2. Description：功能層，說明呼叫 Tool 時的注意事項
 
 
 

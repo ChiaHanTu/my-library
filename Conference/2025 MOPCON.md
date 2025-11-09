@@ -50,7 +50,10 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 - 維護成本
 - 內部控管與審核機制
 
+### 測試情境
 
+- 是否能了解使用者意圖 -> 語意理解
+- Function call 成功率
 
 
 

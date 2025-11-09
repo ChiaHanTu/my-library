@@ -80,8 +80,9 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 
 ## Agent 設計
 
-- 序列化 Agent，First agent's response will be next agent's params
-- Hand-off Agent，整個任務由多個 Agent 完成，但每次只有一個 Agent 負責主導，完成階段性任務後會教
+- Sequential Agent（表現穩定）：First agent's response will be next agent's params
+- Hand-off Agent（表現差）：整個任務由多個 Agent 完成，但每次只有一個 Agent 負責主導，完成階段性任務後會交棒給下一個 Agent 
+- Concurrent Agent（表現穩定），同一個任務會拆解成多個可獨立進行的子任務，同時並行（文件翻譯）
 - 
 
 

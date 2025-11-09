@@ -54,7 +54,8 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 
 - 是否能了解使用者意圖 -> 語意理解
 - Function call 成功率
-
+- 由另一個 AI 作為評判員，從不同面向平ㄘㄜ
+  
 
 
 

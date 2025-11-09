@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73cb3a370666f5dc",
+        "id": "84047b4be777ce45",
         "type": "tabs",
         "children": [
           {
-            "id": "51dd885a463abd1d",
+            "id": "e222f1bf13bf34e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "content secur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -247,8 +246,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51dd885a463abd1d",
+  "active": "e222f1bf13bf34e4",
   "lastOpenFiles": [
+    "patterns/SOLID 設計原則.md",
+    "patterns/Component coupling.md",
+    "patterns/設計模式.md",
     "Conference/2025 MOPCON.md",
     "Conference",
     "conflict-files-obsidian-git.md",
@@ -274,9 +276,6 @@
     "Info Security/CSS Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
     "DevOps/Kubernetes.md",
-    "Algorithm/Big O notation.md",
-    "Browser mechanism/HTTP Cache.md",
-    "Browser mechanism/DOM 的事件傳遞機制.md",
     "Image/Pasted image 20250221100846.png",
     "Data Structure",
     "Image/Pasted image 20250212110151.png",

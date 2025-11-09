@@ -40,6 +40,7 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 --- 
 ## 私有化的速度與安全：用OpenAI 開源權重 GPT-OSS 模型實踐 AI Agent - Ian
 
+- Run on Ollama (Docker)
 
 ## 開源 LLM 模型：
 

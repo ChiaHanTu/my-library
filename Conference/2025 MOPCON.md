@@ -27,10 +27,18 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 
 ## Agent 
 
+1. System prompt: 
+2. Description
+
+
+
 - Arguments (依照 Workflow 設計)
 - Filter
 
 ## MCP 分層
+
+--- 
+
 
 
 

@@ -97,6 +97,7 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 - 適合當執行者，不適合當指揮官
 
 ---
+# 結合ClaudeCode、容器化技術與MCP，打造全方位AI開發平台 - 陳勝揚
 
 - Claude.md：持久化的記憶累積
 - 

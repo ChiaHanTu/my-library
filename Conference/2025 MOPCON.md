@@ -67,7 +67,16 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 - 一般指標：
 	- 完整度：是否完整回答所有紫問題
 	- 清晰度：問答結構與語句是否清楚易懂
-- 測試情境：對 AI Agent 對多工具選擇能力
+
+## 測試情境
+
+- 對 AI Agent 對多工具選擇能力
+- 核心評估機制：
+	- 完全正確
+	- 部分正確
+	- 錯誤
+	- 不需工具
+- 
 
 
 

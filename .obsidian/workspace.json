@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "2025 MOPCON"
             }
+          },
+          {
+            "id": "39cc6ca58910aac0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -249,10 +259,10 @@
   },
   "active": "e222f1bf13bf34e4",
   "lastOpenFiles": [
+    "Conference/2025 MOPCON.md",
     "patterns/SOLID 設計原則.md",
     "patterns/Component coupling.md",
     "patterns/設計模式.md",
-    "Conference/2025 MOPCON.md",
     "Conference",
     "conflict-files-obsidian-git.md",
     "Vue/Best practice.md",

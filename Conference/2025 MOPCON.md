@@ -78,7 +78,12 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 	- 錯誤
 	- 不需工具
 
-Agent 設計
+## Agent 設計
+
+- 序列化 Agent，First agent's response will be next agent's params
+- Hand-off Agent，整個任務由多個 Agent 完成，但每次只有一個 Agent 負責主導，完成階段性任務後會教
+- 
+
 
 
 

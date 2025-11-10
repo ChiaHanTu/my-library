@@ -30,8 +30,6 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 1. System prompt: 策略層，說明什麼情境下呼叫對應的 Tool
 2. Description：功能層，說明呼叫 Tool 時的注意事項
 
-
-
 - Arguments (依照 Workflow 設計)
 - Filter
 
@@ -95,6 +93,8 @@ Top 10 Attack 繁中: https://edward-playground.github.io/top10-showcase/
 - 任務執行流程明確、工具單一，能穩定完成工作
 - 需要自主判斷的情境，表現下滑
 - 適合當執行者，不適合當指揮官
+
+
 
 ---
 # 結合ClaudeCode、容器化技術與MCP，打造全方位AI開發平台 - 陳勝揚

@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2025 MOPCON"
             }
-          },
-          {
-            "id": "1c3fdeefe0c8af4a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,7 +248,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1c3fdeefe0c8af4a",
+  "active": "e222f1bf13bf34e4",
   "lastOpenFiles": [
     "Conference/2025 MOPCON.md",
     "patterns/SOLID 設計原則.md",

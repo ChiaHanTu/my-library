@@ -41,13 +41,12 @@ Context
 
 ```
 useReducer
-const [state, dispatch] = useReducer(variant, { isOpen: false });
+const [state, dispatch] = useReducer(reducer, { isOpen: false });
 ```
 
 
 React-compiler
-> 
-
+> 沒辦法解決 context 問題
 
 
 ---

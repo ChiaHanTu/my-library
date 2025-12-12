@@ -20,6 +20,7 @@
 - 子元件被 React.memo 包住時（一個函數作為 props 傳入子組件，若函數沒包 useCallBack 則會被 re-render）
 
 React.memo
+> import { memo } from 'react';
 > 
 
 

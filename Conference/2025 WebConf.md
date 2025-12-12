@@ -18,10 +18,12 @@
 - 將一個參考值，傳遞給子組建時，且用在子組建的依賴陣列裡
 - 確定某運算成本高昂
 - 子元件被 React.memo 包住時（一個函數作為 props 傳入子組件，若函數沒包 useCallBack 則會被 re-render）
+- 每次 re-render 時，物件都會被重新
 
 React.memo
 > import { memo } from 'react';
-> 
+> 搭配 useMemo 或 useCallback 使用，確保子組件是被記憶化的
+>  
 
 
 

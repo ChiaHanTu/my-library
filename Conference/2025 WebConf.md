@@ -23,7 +23,11 @@
 React.memo
 > import { memo } from 'react';
 > 搭配 useMemo 或 useCallback 使用，確保子組件是被記憶化的
->  
+>  const MemoParent = memo(Parent)
+
+```
+<MemoParan>
+```
 
 
 

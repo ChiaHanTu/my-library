@@ -22,11 +22,16 @@
 
 React.memo
 > import { memo } from 'react';
-> 搭配 useMemo 或 useCallback 使用，確保子組件是被記憶化的
+> 搭配 useMemo（值） 或 useCallback（函數） 使用，確保子組件是被記憶化的
 >  const MemoParent = memo(Parent)
+>  不要直接把物件、陣列、韓式、JSX 寫成 inline-props 
 
 ```
-<MemoParan>
+<MemoParent>
+	<MemoChild>
+<MemoParent>
+
+parent 會被 re-render，child 不會
 ```
 
 

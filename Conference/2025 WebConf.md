@@ -36,7 +36,7 @@ parent 會被 re-render，child 不會
 
 Context
 > 只要某個組件使用了 context，為 consumer，如果 context 內值改變，consumer 就會被 re-render
-> 
+> 拆分 provider，把需要記憶化跟不需被記憶化的值分開
 
 
 

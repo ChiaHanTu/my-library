@@ -15,6 +15,9 @@
 > (1) useMemo 記憶物件，useCallback 記憶 loadUserData
    (2) useEffect 同時包住物件與函數
 - 多個 useEffect 用到相同物件或函數
+- 將一個參考值，傳遞給子組建時，且用在子組建的依賴陣列裡
+- 確定某運算成本高昂
+- 子元件被 React.memo 包住時
 - 
 
 

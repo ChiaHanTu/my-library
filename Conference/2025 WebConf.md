@@ -52,10 +52,19 @@ React-compiler
 
 ---
 
+# 願 Web API 原力與你同在 - MUKI
+
+貨幣
+> Intl.DateTimeFormate('zh-TW').format() 
+
+千分位
+> Intl.NumbreFormat('zh-TW').format(1234567.89) 
+
+連接詞
+> Intl.ListFormat() 
+
+相對時間
+> Intl.RelativeTimeFormat('zh_TW', { numberic: 'auto, style: 'long'}); 
 
 
-Intl.DateTimeFormate('zh-TW').format()
-Intl.NumbreFormat('zh-TW').format(1234567.89) 千分為
-Intl.ListFormat() 連接詞
-Intl.RelativeTimeFormat('zh_TW', { numberic: 'auto, style: 'long'}); 相對時間
 

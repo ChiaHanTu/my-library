@@ -52,6 +52,10 @@ React-compiler
 
 ---
 
-Intl.DateTimeFormate
 
+
+Intl.DateTimeFormate('zh-TW').format()
+Intl.NumbreFormat('zh-TW').format(1234567.89) 千分為
+Intl.ListFormat() 連接詞
+Intl.RelativeTimeFormat('zh_TW', { numberic: 'auto, style: 'long'}); 相對時間
 

@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "84047b4be777ce45",
+        "id": "cd237b80530df5a3",
         "type": "tabs",
         "children": [
           {
-            "id": "e222f1bf13bf34e4",
+            "id": "315b9c7abf789bd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conference/2025 MOPCON.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025 MOPCON"
-            }
-          },
-          {
-            "id": "b0865f5e2326c010",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.10.6"
+              "title": "新分頁"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -91,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268c4fea50cf7aad",
@@ -261,8 +243,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b0865f5e2326c010",
+  "active": "315b9c7abf789bd1",
   "lastOpenFiles": [
+    "Regular Expression 正則表達式.md",
     "Conference/2025 MOPCON.md",
     "patterns/SOLID 設計原則.md",
     "patterns/Component coupling.md",
@@ -290,7 +273,6 @@
     "Info Security/JSON Injection.md",
     "Info Security/CSS Injection.md",
     "Info Security/CSRF Cross-Site-Request-Forgery 跨站請求偽造.md",
-    "DevOps/Kubernetes.md",
     "Image/Pasted image 20250221100846.png",
     "Data Structure",
     "Image/Pasted image 20250212110151.png",
